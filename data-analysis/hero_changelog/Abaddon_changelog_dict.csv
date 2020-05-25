@@ -1,0 +1,58 @@
+7.26b,"['Level 10 left talent: +10  strength reduced to +8.', 'Level 10 right talent: +20 movement speed reduced to +15.', 'Level 15 left talent: +60  Mist Coil heal/damage reduced to +48.', 'Level 15 right talent: +8 armor reduced to +6.', 'Level 20 left talent: +90 attack damage reduced to +70.', 'Level 20 right talent: 20% cooldown reduction reduced to 15%.', 'Level 25 left talent: 425 AoE  Mist Coil reduced to 340 AoE.', 'Level 25 right talent: 225  Aphotic Shield capacity/damage reduced to +180.', 'talents:']"
+7.25,"['Level 25 right talent: 375 AoE  Mist Coil increased to 425 AoE.', 'talents:']"
+7.24,"['Reduced base attack damage from 30-40 to 28-38.', 'Increased  Mist Coil cooldown from 4.5 to 5.5.']"
+7.23e,"['Level 10 left talent changed: +20% experience -> +10  strength.', 'talents:']"
+7.23c,"['Level 10 left talent: +25% experience gain reduced to +20%.', 'Reduced base  intelligence from 21 to 18.', 'Reduced base attack damage from 32-42 to 30-40.', 'talents:']"
+7.23,"[' Mist Coil self damage is no longer lethal.', 'Reduced  Curse of Avernus curse slow from 30%/40%/50%/60% to 15%/30%/45%/60%.']"
+7.22f,"['Increased base attack speed from 115 to 120.', 'Increased base armor from -2 to -1.']"
+7.22e,['Increased  Curse of Avernus initial debuff duration from 4 to 5.']
+7.22,"['Increased base attack speed from 100 to 115.', 'Reduced  Mist Coil cast range from 800 to 500.', "" Aghanim's Scepter\nNo longer redirects 50% of damage allies take within a 900 radius to Abaddon.\nNow causes Abaddon to cast  Mist Coil onto allies within 1600 range when they take more than 525 damage while Borrowed Time is active.\nThese casts do not interrupt Abaddon in any way, and are independent from mana and cooldown.\nThese casts still cost Abaddon health, so that he gets due to Borrowed Time."", 'No longer redirects 50% of damage allies take within a 900 radius to Abaddon.', 'Now causes Abaddon to cast  Mist Coil onto allies within 1600 range when they take more than 525 damage while Borrowed Time is active.\nThese casts do not interrupt Abaddon in any way, and are independent from mana and cooldown.\nThese casts still cost Abaddon health, so that he gets due to Borrowed Time.', 'talents:']"
+7.21c,['Increased  Mist Coil damage/heal from 100/150/200/250 to 120/165/210/255.']
+7.21,"['Increased  strength gain from 2.6 to 3.', 'Increased  Curse of Avernus curse duration from 4 to 4.5.', 'Reduced  Aphotic Shield mana cost from 115 on each level to 100/105/110/115.']"
+7.20,"['Initial movement speed slow: 10%/15%/20%/25%', 'Initial slow duration: 4', 'Curse movement speed slow: 30%/40%/50%/60%', 'Curse attack speed bonus: 40/60/80/100', 'Curse duration: 4', 'Notes: The attack speed bonus only works for heroes, and only works when attacking the cursed target. Switching attack targets removes the speed bonus. The initial and the curse debuffs are dispellable. Does not pierce spell immunity. Fully works for illusions.', 'Increased base  agility from 17 to 23.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', 'Increased movement speed from 310 to 325.', 'Reduced  Mist Coil projectile speed from 1600 to 1300.', 'Reworked  Curse of Avernus']"
+7.19,['Reduced  Mist Coil mana cost from 50/60/70/80 to 50 on each level.']
+7.18,['Increased movement speed from 305 to 310.']
+7.17,"['Level 10 left talent: +20% experience gain increased to +25%.', 'Level 15 left talent: +60  Mist Coil heal/damage increased to +75.', 'Level 15 right talent: +6 armor increased to +8.', 'talents:']"
+7.13b,"['Reduced base armor from -1 to -2.', 'Reduced movement speed from 310 to 305.']"
+7.10,"['Level 15 left talent: +50  Mist Coil heal/damage increased to +60.', 'Level 20 right talent: 15% cooldown reduction increased to 20%.', 'Level 25 right talent: +250  Aphotic Shield capacity/damage reduced to +225.', 'talents:']"
+7.07,"['Level 10: +20% experience gain or +25 attack damage', 'Level 15: +5 armor or +200 mana', 'Level 20: 15% cooldown reduction or +25 movement speed', 'Level 25: +300  Aphotic Shield capacity/damage or +25  strength', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06,"['Increased  strength gain from 2.3 to 2.6.', 'Reduced base health regeneration from 0.25 to 0.']"
+7.05,['Reduced  strength gain from 2.5 to 2.3.']
+7.04,"['Reduced  strength gain from 2.7 to 2.5.', 'Reduced  Mist Coil projectile speed from 2000 to 1600.']"
+7.03,"['Level 25 left talent: +200  Aphotic Shield capacity/damage increased to +300.', 'Increased  Aphotic Shield mana cost from 100/105/110/115 to 115 on each level.', 'talents:']"
+7.02,"['Level 10 left talent: +15% experience gain increased to +20%.', 'talents:']"
+7.00,"['Level 10: +15% experience gain or +25 attack damage', 'Level 15: +5 armor or +200 mana', 'Level 20: 15% cooldown reduction or +25 movement speed', 'Level 25: +200  Aphotic Shield capacity/damage or +25  strength', 'Reduced cast time from 0.35 to 0.25.', 'Now uses a projectile, which travels at a speed of 2000, instead of being instant. [?]', ' Mist Coil\nReduced cast time from 0.35 to 0.25.\nNow uses a projectile, which travels at a speed of 2000, instead of being instant. [?]', 'Reduced  Aphotic Shield cast time from 0.452 to 0.4.', 'Added talents:']"
+6.88,['Reduced  Mist Coil cast time from 0.452 to 0.35.']
+6.87,"['Increased attack range from 128 to 150.', ' Curse of Avernus\nIncreased movement speed slow from 5%/10%/15%/20% to 8%/12%/16%/20%.\nIncreased attack speed slow from 5/10%/15%/20 to 8/12%/16/20.', 'Increased movement speed slow from 5%/10%/15%/20% to 8%/12%/16%/20%.', 'Increased attack speed slow from 5/10%/15%/20 to 8/12%/16/20.']"
+6.85,"['Reduced  Mist Coil cooldown from 5 to 4.5.', ""Increased  Aghanim's Scepter upgraded  Borrowed Time allied damage redirect from 35% to 50%.""]"
+6.84,[' Borrowed Time can now be cast while disabled.']
+6.83,['Increased  Borrowed Time duration from 3/4/5 to 4/5/6.']
+6.82,['Rescaled  Mist Coil mana cost from 75 to 50/60/70/80.']
+6.81,"["" Aghanim's Scepter upgraded  Borrowed Time now redirects 35% of all damage dealt to allied heroes within a 900 radius of Abaddon to Abaddon when active.""]"
+6.79,"['Reduced base armor from 0 to -1 (total armor is now 1.38).', 'Increased  Mist Coil self damage from 50/75/100/125 to 75/100/125/150.', ' Aphotic Shield is now dispellable.', ' Borrowed Time no longer passively activates while  Doomed.']"
+6.78,['Increased movement speed from 300 to 310.']
+6.75,"['Reduced base armor from 2 to 0 (total armor is now 2.38).', 'Reduced  Mist Coil cooldown from 6 to 5.', 'Reduced  Aphotic Shield cooldown from 14/12/10/8 to 12/10/8/6.', 'Increased  Curse of Avernus slow duration from 2 to 2.5.', 'Reduced  Borrowed Time cooldown from 60 on each level to 60/50/40.']"
+6.73,"['Now explode at the end of its duration if it has not taken sufficient damage.', 'Reduced cooldown from 18/15/12/9 to 14/12/10/8.', 'Increased cast range from 450 to 500.', ' Aphotic Shield\nNow explode at the end of its duration if it has not taken sufficient damage.\nReduced cooldown from 18/15/12/9 to 14/12/10/8.\nIncreased cast range from 450 to 500.']"
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,"['Increased attack range from 100 to 128.', 'Increased  Aphotic Shield cast range from 350 to 450.']"
+6.71,['Increased  Aphotic Shield cast range from 300 to 350.']
+6.70,['Increased  Curse of Avernus movement speed bonus from 10% to 15%.']
+6.64,"['Increased  Mist Coil cast range from 300 to 800.', 'Reduced  Aphotic Shield cast range from 800 to 300.']"
+6.63,['Reduced  Mist Coil cast range from 600 to 300.']
+6.60,"['Reduced  Mist Coil cooldown from 7 to 6.', ' Curse of Avernus now applies the buff on Abaddon on his first attack, instead of second attack on the same target.', ""Added  Aghanim's Scepter upgrade for Abaddon: Increases  Borrowed Time duration from 3/4/5 to 5/6/7.""]"
+6.57,['Increased  Aphotic Shield damage block from 100/125/150/175 to 110/140/170/200.']
+6.54,"['No longer causes Abaddon to heal when cast on self while under the effect of Borrowed Time.', 'Reduced damage block from 125/275/225/275 to 100/125/150/175.', 'Reduced duration from 20 to 15.', 'Increased mana cost from 100 on each level to 100/105/110/115.', 'Reduced cooldown from 23 to 18/15/12/9.', 'Notes: When cast on same unit twice before the first shield expires, it refreshes the duration and max damage block.', ' Aphotic Shield\nNo longer causes Abaddon to heal when cast on self while under the effect of Borrowed Time.\nReduced damage block from 125/275/225/275 to 100/125/150/175.\nReduced duration from 20 to 15.\nIncreased mana cost from 100 on each level to 100/105/110/115.\nReduced cooldown from 23 to 18/15/12/9.\nNotes: When cast on same unit twice before the first shield expires, it refreshes the duration and max damage block.', ' Borrowed Time\nNow turns every damage taken into heals, instead of only blocking the damage and only healing when affected by Aphotic Shield.\nIs now compatible with  Refresher Orb (previously, casting it multiple times within a cooldown period had no effect).\nIncreased cooldown from 45 to 60.', 'Now turns every damage taken into heals, instead of only blocking the damage and only healing when affected by Aphotic Shield.', 'Is now compatible with  Refresher Orb (previously, casting it multiple times within a cooldown period had no effect).', 'Increased cooldown from 45 to 60.']"
+6.52,['Increased movement speed from 295 to 300.']
+6.50,['Reduced  Mist Coil cooldown from 11 to 7.']
+6.49,['Reduced  Mist Coil cooldown from 15 to 11.']
+6.42,['Reduced movement speed from 300 to 295.']
+6.39,[' Aphotic Shield can no longer be cast on  Doomed units.']
+6.35,['Increased base armor from 1 to 2 (total armor is now 4.38).']
+6.34,"['Reduced cast range from 1000 to 800.', 'Increased cooldown from 21 to 23.', ' Aphotic Shield\nReduced cast range from 1000 to 800.\nIncreased cooldown from 21 to 23.']"
+6.33,"['Increased base  intelligence from 17 to 21.', 'Increased movement speed from 295 to 300.', ' Aphotic Shield\nMoved from first into the second ability slot.\nIncreased damage block from 100/150/200/250 to 125/175/225/275.\nReduced cooldown from 25 to 21.', 'Moved from first into the second ability slot.', 'Increased damage block from 100/150/200/250 to 125/175/225/275.', 'Reduced cooldown from 25 to 21.', 'Replaced  Mark of the Abyss with  Mist Coil']"
+6.29,"[' Aphotic Shield now applies a strong dispel on the target upon cast.', ' Mark of the Abyss\nNow also increases movement speed by 10% on each level.\nReduced mana cost from 100 to 75.', 'Now also increases movement speed by 10% on each level.', 'Reduced mana cost from 100 to 75.', ' Borrowed Time\nCan now also be manually cast, instead of being only passively triggered at 400 health. Same cooldown and duration.\nNow applies a strong dispel when activated.\nReduced cooldown from 60 to 45.', 'Can now also be manually cast, instead of being only passively triggered at 400 health. Same cooldown and duration.', 'Now applies a strong dispel when activated.', 'Reduced cooldown from 60 to 45.']"
+6.28,"['Increased base  agility from 13 to 17.', 'Increased  Aphotic Shield cast range from 600 to 1000.']"
+6.24,"['Can no longer be cast on buildings.', 'Reduced cooldown from 45 to 25.', ' Aphotic Shield\nCan no longer be cast on buildings.\nReduced cooldown from 45 to 25.', 'Reworked  Mark of the Abyss']"
+6.23,[' Mark of the Abyss no longer turns Abaddon phased for its duration.']
+6.20,['Created.']

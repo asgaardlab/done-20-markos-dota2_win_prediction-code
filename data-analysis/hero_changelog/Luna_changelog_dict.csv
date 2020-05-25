@@ -1,0 +1,82 @@
+7.26c,"['Level 10 left talent: +325 cast range increased to +350.', 'Level 15 right talent: -3s  Lucent Beam cooldown increased to -3.5s.', 'Talents:']"
+7.26b,"['Level 10 left talent: +400 cast range reduced to +325.', 'Level 10 right talent: +20 attack speed reduced to +15.', 'Level 15 left talent: +30 movement speed reduced to +25.', 'Level 15 right talent: -4s  Lucent Beam cooldown reduced to -3s.', 'Level 20 left talent: +125  Lucent Beam damage reduced to +100.', 'Level 20 right talent: +10 all stats reduced to +8.', 'Level 25 left talent: 0.25s  Eclipse beams stun reduced to 0.2s.', 'Level 25 right talent: 35% lifesteal reduced to 30%.', 'Talents:']"
+7.26a,['Reduced attack point from 0.46 to 0.35.']
+7.25,"['Increased base  strength from 18 to 21.', 'Increased base  intelligence from 18 to 23.', 'Reduced  agility gain from 3.6 to 3.4.']"
+7.24,"['Now affects base armor and armor gained from agility, instead of total armor.', 'Increased attack damage and armor bonus from 10%/15%/20%/25% to 15%/20%/25%/30%.', ' Lunar Blessing\nNow affects base armor and armor gained from agility, instead of total armor.\nIncreased attack damage and armor bonus from 10%/15%/20%/25% to 15%/20%/25%/30%.']"
+7.23,"['Increased base  strength from 16 to 18.', 'Increased base  intelligence from 16 to 18.', 'Increased base attack damage from 26-32 to 29-35.', "" Moon Glaives now uses the calculated damage of the launched attack, instead of being based on Luna's average attack damage.\nPreviously, the damage was always fixed. For example, if Luna had an average attack damage of 100 (97-103 damage), the glaives would always deal 65/42/27/18/12/8 damage.\nNow, it looks for the actual damage that got calculated for that attack. For example, when rolling 97 damage, it now deals less damage. When rolling 103, it deals more.\nThis also means that it works with critical strike, quell, and the backstab damage of  Shadow Blade"", 'Previously, the damage was always fixed. For example, if Luna had an average attack damage of 100 (97-103 damage), the glaives would always deal 65/42/27/18/12/8 damage.', 'Now, it looks for the actual damage that got calculated for that attack. For example, when rolling 97 damage, it now deals less damage. When rolling 103, it deals more.', 'This also means that it works with critical strike, quell, and the backstab damage of  Shadow Blade', 'Reworked  Lunar Blessing']"
+7.22f,['Increased base attack damage from 24-30 to 26-32.']
+7.22e,"['Level 20 left talent: +100  Lucent Beam damage increased to +125.', 'Level 20 right talent: +8 all stats increased to +10.', 'Level 25 right talent: 30% lifesteal increased to 35%.', 'Talents:']"
+7.22d,"['Level 10 left talent: +300 cast range increased to +400.', 'Level 10 right talent: +15 attack speed increased to +20.', 'Level 25 right talent: 25% lifesteal increased to 30%.', 'Talents:']"
+7.22c,['Increased base health regeneration from 0 to 0.5.']
+7.22,['Increased base attack damage from 20-26 to 24-30.']
+7.21c,['Increased  Eclipse number of beams from 5/8/11 to 6/9/12.']
+7.21,"['Level 10 left talent: +200 cast range increased to +300.', 'Increased  agility gain from 3.1 to 3.6.', 'Reduced movement speed from 330 to 325.', 'Talents:']"
+7.20c,"['Level 10 right talent: +20 attack speed reduced to +15.', 'Level 20 right talent: +10 all stats reduced to +8.', 'Reduced  agility gain from 3.3 to 3.1.', 'Reduced  Lunar Blessing night vision bonus from 250/500/750/1000 to 200/400/600/800.', 'Talents:']"
+7.20b,"['Level 15 left talent changed: +14  Lunar Blessing primary attribute -> +30 movement speed bonus.', 'Reduced  Lunar Blessing primary attribute bonus from 8/14/20/26 to 6/12/18/24.', 'Talents:']"
+7.20,"['Increased  intelligence gain from 1.85 to 1.9.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', 'Reworked  Lunar Blessing']"
+7.15,['Increased base  strength from 15 to 16.']
+7.10,"['Talents:', 'Level 15 right talent: -3s  Lucent Beam cooldown increased to -4s.']"
+7.07c,"['Level 10 left talent: +150 cast range increased to +200.', 'Level 15 right talent: -2s  Lucent Beam cooldown increased to -3s.', 'Reduced  strength gain form 2.5 to 2.2.', 'Reduced  Lucent Beam cast time from 0.5 to 0.4.', 'Talents:']"
+7.07,"['Level 10: +20 movement speed or +15 attack damage', 'Level 15: +40  Lucent Beam damage or +150 health', 'Level 20: +15% magic resistance or +25 attack speed', 'Level 25: -4s  Lucent Beam cooldown or +15 all stats', 'Reduced movement speed from 335 to 330.', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06e,"['Level 10 left talent: +15 movement speed increased to +20.', 'Level 20 left talent: +10% magic resistance increased to +15%.', 'Talents:']"
+7.06,"['Increased  strength gain from 2.2 to 2.5.', 'Reduced base health regeneration from 0.25 to 0.', 'Reduced  Lucent Beam cast time from 0.6 to 0.5.']"
+7.02,"['Level 10 left talent changed: +4 armor -> +15 movement speed.', 'Reduced base attack damage from 26-32 to 20-26 (total attack damage is now 38-44).', 'Reduced  Lunar Blessing night vision bonus from 1000 on each level to 250/500/750/1000.', 'Talents:']"
+7.01,['Reduced base armor from 1 to 0 (total armor is now 2.57).']
+7.00,"['Level 10: +4 armor or +15 attack damage', 'Level 15: +40  Lucent Beam damage or +150 health', 'Level 20: +10% magic resistance or +25 attack speed', 'Level 25: -4s  Lucent Beam cooldown or +15 all stats', 'Glaives damage is no longer affected by spell damage amplification.', 'Glaives damage can no longer spell lifesteal.', ' Moon Glaives\nGlaives damage is no longer affected by spell damage amplification.\nGlaives damage can no longer spell lifesteal.', 'Added talents:']"
+6.88,"['Increased movement speed from 330 to 335.', 'Increased  Lucent Beam stun duration from 0.6 to 0.8.']"
+6.87,['Increased  agility gain from 2.8 to 3.3.']
+6.86,"['Increased turn rate from 0.4 to 0.6.', "" Aghanim's Scepter now also reduces  Eclipse beam interval from 0.6 to 0.3.""]"
+6.85,"['Increased  strength gain from 1.9 to 2.2.', 'Reduced  Eclipse cooldown from 160/150/140 to 140 on each level.', ""Increased  Aghanim's Scepter upgraded  Eclipse number of beams from 6/10/14 to 6/12/18.""]"
+6.84,"['Increased base armor from 0 to 1 (total armor is now 3.57).', ' Eclipse no longer ignores ancient creeps, Roshan and creep-heroes.', "" Aghanim's Scepter now allows Eclipse to be cast on an area within 2500 range, granting obstructed vision of that area. Can also target any allied unit to center Eclipse on their location, even while moving.\nStill provides its old upgrade bonuses as well.""]"
+6.83,"['Increased  Moon Glaives number of bounces from 1/2/3/5 to 1/2/3/6.', 'Increased  Eclipse number of beams from 4/7/10 ( 4/8/12) to 5/8/11 ( 6/10/14).']"
+6.81,['Reduced base  agility from 22 to 18.']
+6.79,"['Can now bounce back on the same units if it already hit all other units nearby.', 'Increased damage reduction per bounce from 30% to 35%.', ' Moon Glaives\nCan now bounce back on the same units if it already hit all other units nearby.\nIncreased damage reduction per bounce from 30% to 35%.', "" Aghanim's Scepter upgraded  Eclipse no longer has a max beam per unit limit (was 6).""]"
+6.76,['Increased  Lunar Blessing attack damage bonus from 14/20/26/32 to 14/22/30/38.']
+6.75,['Increased  Moon Glaives number of bounces from 1/2/3/4 to 1/2/3/5.']
+6.74,['Reduced  Moon Glaives damage reduction per bounce from 35% to 30%.']
+6.73,['Increased base attack damage from 21-27 to 26-32 (total attack damage is now 47-54).']
+6.72,['Increased  Lunar Blessing attack damage bonus from 8/16/24/32 to 14/20/26/32.']
+6.69,"['Increased  strength gain from 1.75 to 1.9.', 'Increased movement speed from 320 to 330.', ""Increased  Aghanim's Scepter upgraded  Eclipse max beam per unit from 5 to 6.""]"
+6.68,"['Increased attack damage bonus from 6/12/18/24 to 8/16/24/32.', 'Increased night vision bonus from 250/500/750/1000 to 1000 on each level.', ' Lunar Blessing\nIncreased attack damage bonus from 6/12/18/24 to 8/16/24/32.\nIncreased night vision bonus from 250/500/750/1000 to 1000 on each level.', ' Eclipse now turns day into night for 10 seconds.']"
+6.67,['Reworked  Lunar Blessing']
+6.63,['Increased  Lucent Beam stun duration from 0.01/0.1/0.3/0.6 to 0.6 on each level.']
+6.60,"['Increased  Lunar Blessing radius from 300 to 900.', "" Aghanim's Scepter no longer reduces  Eclipse cooldown from 160/150/140 to 90.""]"
+6.57,"['Increased beam interval from 0.5 to 0.6.', ""No longer continues after Luna's death."", 'Increased cooldown from 140 on each level to 160/150/140.', "" Eclipse\nIncreased beam interval from 0.5 to 0.6.\nNo longer continues after Luna's death.\nIncreased cooldown from 140 on each level to 160/150/140.""]"
+6.50,"['Increased cast range from 600 to 800.', 'Increased stun duration from 0.01 on each level to 0.01/0.1/0.3/0.6.', 'Reduced mana cost from 95/110/125/140 to 90/100/110/120.', ' Lucent Beam\nIncreased cast range from 600 to 800.\nIncreased stun duration from 0.01 on each level to 0.01/0.1/0.3/0.6.\nReduced mana cost from 95/110/125/140 to 90/100/110/120.', "" Eclipse\nDamage is now based on Lucent Beam's level once again.\nNo longer mini-stuns enemies.\nReduced mana cost from 250/350/450 to 150/200/250.\nIncreased cooldown from 140/120/100 to 140 on each level.\n Aghanim's Scepter\nReduced mana cost from 225/325/425 to 150/200/250.\nReduced cooldown from 130/110/90 to 90 on each level."", ""Damage is now based on Lucent Beam's level once again."", 'No longer mini-stuns enemies.', 'Reduced mana cost from 250/350/450 to 150/200/250.', 'Increased cooldown from 140/120/100 to 140 on each level.', "" Aghanim's Scepter""]"
+6.44b,['Increased base attack damage from 11-17 to 21-27 (total attack damage is now 43-49).']
+6.44,"[' Eclipse now always uses level 4  Lucent Beams, instead of the current level Lucent Beam is at.']"
+6.41,['Reduced  Moon Glaives damage reduction per bounce from 40% to 35%.']
+6.39,['Fixed the first beam of  Eclipse happening 0.5 seconds after cast instead of immediately.']
+6.36,['Increased attack range from 300 to 330.']
+6.32,['Increased  Eclipse beam interval from 0.1 to 0.5.']
+6.24,['Increased  intelligence gain from 1.65 to 1.85.']
+6.21,['Reduced attack range from 325 to 300.']
+6.20,"['Increased attack range from 225 to 325.', "" Eclipse\nReduced max beams per unit from 5 to 4.\nReduced  Aghanim's Scepter upgraded may beams per unit from 6 to 5."", 'Reduced max beams per unit from 5 to 4.', ""Reduced  Aghanim's Scepter upgraded may beams per unit from 6 to 5.""]"
+6.09,"['Increased cooldown from 130/110/65 to 140/120/100.', ""Increased  Aghanim's Scepter upgraded cooldown from 125/90/45 to 130/110/90."", "" Eclipse\nIncreased cooldown from 130/110/65 to 140/120/100.\nIncreased  Aghanim's Scepter upgraded cooldown from 125/90/45 to 130/110/90.""]"
+6.07,['Increased  Eclipse cooldown from 130/95/50 to 130/110/65.']
+6.00,['Improved Cast Animation from 0.5/0.83 to 0.4/0.6.']
+5.80,"[""Added  Aghanim's Scepter Upgrade for Luna: Increases  Eclipse number of beams from 4/7/10 to 5/8/12 and max beam per unit from 5 to 8, also reduces cooldown from 130/95/50 to 125/90/45 and mana cost from 250/350/450 to 225/325/425.""]"
+5.74,['Reduced  Eclipse beams from 5/8/11 to 4/7/10.']
+5.72,"['Reduced base regen from 0.5 to 0.25.', 'Increased  Moon Glaives search AoE from 300 to 400.']"
+5.71,"['Reduced  Moon Glaives damage reduction from 40% to 35%.', 'Increased  Eclipse max beam per unit from 3/4/5 to 5/5/5.']"
+5.68,"['Increased number of beams from 5/8/10 to 5/8/11.', 'Added a limit to how many times a singular unit can be hit by Eclipse', ' Eclipse\nIncreased number of beams from 5/8/10 to 5/8/11.\nAdded a limit to how many times a singular unit can be hit by Eclipse']"
+5.65,['Reduced  Eclipse search radius from 800 to 700.']
+5.60,['Reduced  Lucent Beam mana cost from 100/115/135/150 to 95/110/125/140.']
+5.59,"['Increased bounce search radius from 300 to 400.', 'Reduced damage reduction from 44% to 40%.', ' Moon Glaives\nIncreased bounce search radius from 300 to 400.\nReduced damage reduction from 44% to 40%.']"
+5.58,"['Increased base attack damage from 10-18 to 11-17.', 'Increased base attack time from 1.6 to 1.7.', 'Reduced  strength gain from 2.00 to 1.75.', 'Increased base  agility  from 20 to 22.', 'Reduced  agility  gain from 2.85 to 2.80.', 'Increased base  intelligence from 16 to 14.', 'Reduced  intelligence gain from 1.75 to 1.65.', ' Moon Glaives\nReduced bounce search radius from 500 to 300.\nIncreased damage reduction from 30% to 44%.', 'Reduced bounce search radius from 500 to 300.', 'Increased damage reduction from 30% to 44%.', 'Reduced  Lunar Blessing bonus ranged damage from 8/16/26/34% to 6/13/20/27%.']"
+5.57,"['Reduces base  strength from 16 to 15.', 'Reduces  strength gain from 2.25 to 2.00.', 'Reduced  agility gain from 3.00 to 2.85.', 'Reduced base  intelligence from 15 to 14.', 'Reduced  intelligence gain from 1.80 to 1.75.']"
+5.55,"['Reduced base attack damage from 15-23 to 10-18.', 'Increased  Moon Glaives damage reduction from 19% to 30%.', 'Reduced  Lunar Blessing Aoe from 900 to 300.']"
+5.54,"['Increased  Lucent Beam mana cost from 95/110/125/140 to 100/115/135/150.', 'Increased  Moon Glaives damage reduction from 17% to 19%.', 'Increases  Eclipse cooldown from 120/90/30 to 130/95/50.']"
+5.50,"['Increased base HP from 100 to 150.', ""Removed  Aghanim's Scepter Upgrade for Luna.""]"
+5.40,"['Reduced  Eclipse number of beams from 6/8/10 to 5/8/10.', ""Added  Aghanim's Scepter Upgrade for Luna: Increases  Eclipse number of beams from 5/8/10 to 8/10/12 and cooldown from 120/90/30 to 120/90/60.""]"
+5.35,"[' Lucent Beam now ministuns for 0.1 seconds.', 'Increased  Moon Glaives damage reduction from 15% to 17%.']"
+5.34,['Increased  Eclipse search radius from 500 to 600.']
+5.31,['Rescaled  Eclipse cooldown from 120 to 120/90/30.']
+5.10,"['Increased  Lucent Beam mana cost from 70/80/90/100 to 95/110/125/140.', ' Eclipse\nRescaled mana cost from 300 to 250/350/450.\nIncreased search radius from 500 to 600.', 'Rescaled mana cost from 300 to 250/350/450.', 'Increased search radius from 500 to 600.']"
+4.0beta10,['Reduced  Moon Glaives damage reduction from 17% to 15%.']
+4.0beta5,['Rescaled  Lucent Beam mana cost 100 from 70/80/90/100.']
+4.0beta2,"[""Calls to the moon's magic, summoning a concentrated burst of Lucent Beams to damage targets around Luna."", ""The moon's magic is summoned, casting 6/8/10 Lucent Beams around Luna."", 'Cast Time: 1.', 'Search Radius: 500.', 'Number of Beams: 6/8/10', 'Beam Interval: 0.1.', 'Cooldown: 120.', 'Mana cost: 300.', 'Added a 4th level to all basic abilities.', ' Lucent Beam\nRescaled damage from 75/150/250 to 75/150/225/300.\nIncreased mana cost from 85 to 100.\nReduced cooldown from 8 to 6.', 'Rescaled damage from 75/150/250 to 75/150/225/300.', 'Increased mana cost from 85 to 100.', 'Reduced cooldown from 8 to 6.', ' Trueshot Aura\nRenamed and Updated icon into  Lunar Blessing (Pre 6.67).\nChanged Legacy hot key from A to L.\nRescaled bonus range damage from 10/20/30% to 8/16/26/34%.', 'Renamed and Updated icon into  Lunar Blessing (Pre 6.67).', 'Changed Legacy hot key from A to L.', 'Rescaled bonus range damage from 10/20/30% to 8/16/26/34%.', ' Moon Glaives\nRescaled number of bounces from 2/3/4 to 2/3/4/5.\nNow reduces its damage by 17% per bounce.', 'Rescaled number of bounces from 2/3/4 to 2/3/4/5.', 'Now reduces its damage by 17% per bounce.', 'Reworked  Eclipse (Pre-4.00).']"
+3.2j,['Rescaled base attack damage from 23-23 to 19-27']
+3.2a,"['An aura that gives friendly units around the Priestess bonus damage to their ranged attacks.', 'Base Ranged damage Increase: 10/20/30%.', 'AoE: 900.', 'Reduced  Lucent Beam mana cost from 75 to 65.', 'Replaced  Lunar Elemental with  Trueshot Aura.']"
+3.00d,"[""Calls to the moon's magic, summoning a concentrated burst of luncent beams to damage targets around luna."", 'Last: 3/4/5 seconds.', 'Mana cost: 200.', 'Damage Interval: 1 second.', 'Damage per lucent beam: 250.', 'Cast Range: 600.', 'Cooldown: 110/100/90.', 'AoE: 300.', 'Reworked  Eclipse (Pre-3.2a).']"
+2.60,['Created.']

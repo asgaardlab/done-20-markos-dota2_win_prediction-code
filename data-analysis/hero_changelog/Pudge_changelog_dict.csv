@@ -1,0 +1,57 @@
+7.26b,"['Level 10 left talent: +35  Rot damage reduced to +28.', 'Level 10 right talent: +5 armor reduced to +4.', 'Level 15 left talent: +20%  Rot movement speed slow reduced to +16%.', 'Level 15 right talent: 13% spell lifesteal reduced to 10%.', 'Level 20 left talent: -5s  Meat Hook cooldown reduced to -4s.', 'Level 20 right talent: +1s  Dismember duration reduced to +0.8s.', 'Level 25 left talent: +2  Flesh Heap strength per stack reduced to +1.5.', 'Level 25 right talent: 2x  Dismember damage/heal reduced to 1.8x.', 'Talents:']"
+7.25,"['Increased base health regeneration from 0 to 1.', ' Flesh Heap\nNo longer grants 4/7/10/13 health regeneration.\nNow grants 8%/10%/12%/14% magic resistance.', 'No longer grants 4/7/10/13 health regeneration.', 'Now grants 8%/10%/12%/14% magic resistance.']"
+7.24,"['Level 20 right talent changed: +180 gold per minute -> +1s  Dismember duration.', 'Reduced  Dismember tick interval from 1 to 0.5.', 'Talents:']"
+7.23e,"['Level 10 right talent changed: +20% experience gain -> +5 armor.', 'Talents:']"
+7.23c,"['Level 10 right talent: +30% experience gain reduced to +20%.', 'Talents:']"
+7.23,"['Reduces  Meat Hook cooldown from 27/22/17/12 to 4 seconds, and increases its damage from 150/220/290/360 to 180/270/360/450.', ' Rot self damage is no longer lethal.', 'Reduced  Flesh Heap health regen bonus from 6/9/12/15 to 4/7/10/13.', ""Reworked  Aghanim's Scepter""]"
+7.22f,['Reduced  Meat Hook mana cost from 140 on each level to 125/130/135/140.']
+7.22d,"['Level 15 left talent: +16%  Rot movement speed slow increased to +20%.', 'Increased  Flesh Heap health regen bonus from 5/8/11/14 to 6/9/12/15.', 'Talents:']"
+7.22,"['Level 15 left talent: +12%  Rot movement speed slow increased to +16%.', 'Increased base  intelligence from 14 to 16.', 'Talents:']"
+7.21d,['Increased  Flesh Heap health regeneration from 3/6/9/12 to 5/8/11/14.']
+7.21,"['Increased  strength gain from 3.5 to 4.', 'Increased base attack damage from 34-40 to 40-46.']"
+7.20d,['Increased movement speed from 275 to 280.']
+7.20,"['Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', ' Flesh Heap\nNo longer grants 8%/10%/12%/14% magic resistance.\nNow grants 3/6/9/12 health regeneration.', 'No longer grants 8%/10%/12%/14% magic resistance.', 'Now grants 3/6/9/12 health regeneration.', 'Increased  Dismember own  strength as damage from 30%/45%/60% to 30%/60%/90%.']"
+7.19,['Increased  Meat Hook cooldown from 17/15/13/11 to 27/22/17/12.']
+7.18,"['Increased  Meat Hook cast range and max distance from 1000/1100/1200/1300 to 1300 on each level.', 'Increased  Flesh Heap magic resistance bonus from 6%/8%/10%/12% to 8%/10%/12%/14%.']"
+7.17,"['Level 10 right talent changed: +5 armor -> +30% experience gain.', 'Level 15 left talent changed: +75 attack damage -> +12%  Rot movement speed slow.', 'Talents:']"
+7.16,"['Increased damage from 90/180/270/360 to 150/220/290/360.', 'Increased cooldown from 14/13/12/11 to 17/15/13/11.', ' Meat Hook\nIncreased damage from 90/180/270/360 to 150/220/290/360.\nIncreased cooldown from 14/13/12/11 to 17/15/13/11.']"
+7.14,"['Increased base attack damage from 27-33 to 34-40.', 'Reduced  Rot movement speed slow from 17%/22%/27%/32% to 11%/18%/25%/32%.']"
+7.13b,"['Reduced base armor from -1 to -2.', 'Reduced movement speed from 280 to 275.']"
+7.10,['Reduced  Rot movement speed slow from 20%/24%/28%/32% to 17%/22%/27%/32%.']
+7.08,['Rescaled  Rot movement speed slow from 30% on each level to 20%/24%/28%/32%.']
+7.07d,['Increased  Meat Hook mana cost from 110/120/130/140 to 140 on each level.']
+7.07,"['Level 10: +2 mana regen or +8  strength', 'Level 15: +15 movement speed or +5 armor', 'Level 20: +1s/+2s  Dismember hero/creep duration or +150 gold per minute', 'Level 25: +120  Rot damage per second or +1.75  Flesh Heap strength per stack', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', ' Meat Hook\nCan now latch on and pull runes, and doing so refunds the mana cost.\nNeutral creeps hooked with Meat Hook now draw aggro and can be auto-attacked again.\nUnits hooked onto cliffs no longer grant unobstructed movement for 5 seconds.', 'Can now latch on and pull runes, and doing so refunds the mana cost.', 'Neutral creeps hooked with Meat Hook now draw aggro and can be auto-attacked again.', 'Units hooked onto cliffs no longer grant unobstructed movement for 5 seconds.', ' Dismember now pulls the target closer to Pudge.', 'Reworked talents:']"
+7.06,"['Level 20 left talent changed: -40s respawn time -> +1s/+2s  Dismember hero/creep duration.', 'Increased  strength gain from 3.2 to 3.5.', 'Reduced base health regeneration from 0.25 to 0.', 'Increased  Dismember duration from 2.95/5.9 to 3/6.', 'Talents:']"
+7.03,"['Can no longer latch on invulnerable units.', 'Reduced hook speed from 1600 to 1450.', ' Meat Hook\nCan no longer latch on invulnerable units.\nReduced hook speed from 1600 to 1450.']"
+7.02,"['Level 20 left talent: -35s respawn time increased to -40s.', 'Reduced movement speed from 285 to 280.', 'Talents:']"
+7.00,"['Level 10: +2 mana regen or +8  strength', 'Level 15: +15 movement speed or +5 armor', 'Level 20: -35s respawn time or +150 gold per minute', 'Level 25: +120  Rot damage per second or +1.75  Flesh Heap strength per stack', 'Added talents:']"
+6.88b,['Increased  Dismember own  strength as damage from 30%/40%/50% to 30%/45%/60%.']
+6.88,"['Increased  Rot movement speed slow from 27% to 30%.', 'Reduced  Dismember cooldown from 30 on each level to 30/25/20.']"
+6.87,['Increased attack range from 128 to 150.']
+6.86b,"[""Reduced  Aghanim's Scepter upgraded  Meat Hook damage from 175/275/375/475 to 180/270/360/450.""]"
+6.86,"[""No longer upgrades  Dismember (upgrade was, adds 100% of Pudge's  strength  as damage to Dismember and causes it to heal Pudge)."", 'Now reduces  Meat Hook cooldown from 14/13/12/11 to 4 on each level and increases damage from 90/180/270/360 to 175/275/375/475.', "" Aghanim's Scepter\nNo longer upgrades  Dismember (upgrade was, adds 100% of Pudge's  strength  as damage to Dismember and causes it to heal Pudge).\nNow reduces  Meat Hook cooldown from 14/13/12/11 to 4 on each level and increases damage from 90/180/270/360 to 175/275/375/475."", ' Dismember\nRescaled damage per second from 75/125/175 to 60/90/120 + 30%/40%/50% of own  strength\nNow heals Pudge for the damage it does.', 'Rescaled damage per second from 75/125/175 to 60/90/120 + 30%/40%/50% of own  strength', 'Now heals Pudge for the damage it does.']"
+6.85,"['Increased damage per second from 35/60/85/110 to 30/60/90/120.', 'Increased movement speed slow from 20%/22%/24%/26% to 27% on each level.', ' Rot\nIncreased damage per second from 35/60/85/110 to 30/60/90/120.\nIncreased movement speed slow from 20%/22%/24%/26% to 27% on each level.', 'Fixed  Dismember sometimes not granting True Sight over the target properly.']"
+6.84,['Increased  Rot movement speed slow from 20% to 20%/22%/24%/26%.']
+6.83,['Increased  Meat Hook max distance and cast range from 700/900/1100/1300 to 1000/1100/1200/1300.']
+6.82,"['Increased turn rate from 0.5 to 0.7.', '[U]  Meat Hook damage now pierces spell immunity.']"
+6.79,"['If a unit gets hooked onto an impassable ledge, the unit gains free pathing for 5 seconds.', 'Can now buy  Blink Dagger.\nIf a unit gets hooked onto an impassable ledge, the unit gains free pathing for 5 seconds.', 'Reduced  Flesh Heap magic resistance from 4%/8%/12%/16% to 6%/8%/10%/12%.', ""Increased  Aghanim's Scepter upgraded  Dismember  strength multiplier from 0.75 to 1.0.""]"
+6.78,['Increased  Flesh Heap  strength bonus per enemy hero death from 0.9/1.2/1.5/1.8 to 1/1.5/2/2.5.']
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,['Increased  Rot damage from 25/50/75/100 to 35/60/85/110.']
+6.68,"['Reduced armor from 0 to -1 (total armor is now 0.96).', ' Flesh Heap is now retroactive.']"
+6.67,['Increased  Flesh Heap enemy death radius from 400 to 525.']
+6.65,"['Increased max distance and cast range from 400/600/800/1000 to 550/700/850/1000.', 'Reduced cooldown from 14 to 14/13/12/11.', 'Reduced mana cost from 140 to 110/120/130/140.', ' Meat Hook\nIncreased max distance and cast range from 400/600/800/1000 to 550/700/850/1000.\nReduced cooldown from 14 to 14/13/12/11.\nReduced mana cost from 140 to 110/120/130/140.']"
+6.64,"['Each unit Pudge kills grants him 0.03/0.06/0.09/0.12 strength if it was a non-hero unit, and 0.9/1.2/1.5/1.8 if it was a hero.', 'Pudge has to make the last hit to gain the strength. Works on denies.', 'Grants Pudge 4%/8%/12%/16% magic resistance.', ' Flesh Heap reworked:']"
+6.60,"[""Added  Aghanim's Scepter upgrade for Pudge: Causes  Dismember to additionally deal 75% of Pudge's strength as damage and heals Pudge for the amount of damage dealt.""]"
+6.58,['Increased  Flesh Heap  strength per hero kill from 0.3/0.6/0.9/1.2 to 0.9/1.2/1.5/1.8.']
+6.52,"[' Flesh Heap now works with denies.', 'Fixed  Rot,  Sand Storm and  Storm Seeker from not being able to affect the same area at the same time.']"
+6.42,[' Meat Hook now properly interrupts channeling.']
+6.35,['Increased armor from -1 to 0 (total armor is now 1.96).']
+6.04,['Pudge can no longer get first blood for  Rotting at start.']
+6.00,"['Fixed bug that caused it to get erractic at long range.', 'No longer bends based on environmental props.', 'Can no longer hook wards.', 'Reduced the cast phase during which Pudge is disabled from 0.5 to 0.4.', ' Meat Hook\nFixed bug that caused it to get erractic at long range.\nNo longer bends based on environmental props.\nCan no longer hook wards.\nReduced the cast phase during which Pudge is disabled from 0.5 to 0.4.', ' Rot now slows affected enemies by 20%.', ' Flesh Heap\nNo longer turns Pudge immune to piercing damage.\nIncreased  strength per killed hero from 0.03/0.06/0.09/0.12 to 0.3/0.6/0.9/1.2 (creep kills still grant 0.03/0.06/0.09/0.12).', 'No longer turns Pudge immune to piercing damage.', 'Increased  strength per killed hero from 0.03/0.06/0.09/0.12 to 0.3/0.6/0.9/1.2 (creep kills still grant 0.03/0.06/0.09/0.12).']"
+5.83,['Can no longer buy  Blink Dagger.']
+5.82,['Increased  Dismember cooldown from 25 to 30.']
+5.80,"['No longer turns Pudge invulnerable during the 0.5 second cast phase.', ""No longer bends based on Pudge's facing direction."", "" Meat Hook\nNo longer turns Pudge invulnerable during the 0.5 second cast phase.\nNo longer bends based on Pudge's facing direction.""]"
+5.79,"['Reduced base  strength from 26 to 25.', 'Increased base  intelligence from 13 to 14.']"
+5.76,"['Re-added and reworked Pudge (to see the previous Pudge, see here).']"

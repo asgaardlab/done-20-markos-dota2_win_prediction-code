@@ -1,0 +1,72 @@
+7.26c,"['Level 25 left talent: -40s  Mana Void cooldown increased to  -45s.', 'Talents:']"
+7.26b,"['Level 10 left talent: +20 attack speed reduced to +15.', 'Level 10 right talent: +13  strength reduced to +10.', 'Level 15 left talent: +15  agility reduced to +12.', 'Level 15 right talent: +400  Blink max distance reduced to +325.', 'Level 20 left talent: -2.5s  Blink cooldown reduced -2s.', 'Level 20 right talent: Reduced  Blink uncontrollable illusion outgoing damage from 25% to 10%.', 'Level 25 left talent: -50s  Mana Void cooldown reduced to -40s.', 'Level 25 right talent: +25%  Counterspell magic resistance reduced to +20%.', 'Talents:']"
+7.23a,"['Reduced  agility gain from 3.2 to 3.', 'Reduced  Mana Break max mana burned from 2%/3%/4%/5% to 1%/2%/3%/4%.']"
+7.23,"['Level 10 right talent: +10  strength increased to +13.', ""Now also burns 2%/3%/4%/5% of the target's max mana."", 'Now has halved values for illusions.', "" Mana Break\nNow also burns 2%/3%/4%/5% of the target's max mana.\nNow has halved values for illusions."", "" Mana Void\nCan no longer be cast on spell immune enemies.\nIncreased  Aghanim's Scepter cooldown increase from 70 to 100."", 'Can no longer be cast on spell immune enemies.', ""Increased  Aghanim's Scepter cooldown increase from 70 to 100."", 'Talents:']"
+7.22,"[""Added  Aghanim's Scepter upgrade: Increases  Mana Void's stun duration from 0.3 to 1.3. Causes Mana Void to place a debuff on enemy heroes within the area which lasts as long as the stun does. If an enemy dies with this debuff, they get 70 seconds added to the current cooldown of their highest cooldown spell.""]"
+7.21b,['Increased base  agility  from 22 to 24.']
+7.21,['Increased  agility gain from 2.8 to 3.2.']
+7.20e,"['Reduced duration from 1.4 to 1.2.', 'Increased mana cost from 40 on each level to 45/50/55/60.', ' Counterspell\nReduced duration from 1.4 to 1.2.\nIncreased mana cost from 40 on each level to 45/50/55/60.']"
+7.20,"['Reduced base health regeneration from 1.75 to 0.25.', 'Reduced base mana regeneration from 0.9 to 0.', 'Replaced  Spell Shield with  Counterspell']"
+7.17,['Increased base attack damage from 27-31 to 29-33.']
+7.16,"['Reduced base attack time from 1.45 to 1.4.', 'Increased base health regeneration from 1.5 to 1.75.']"
+7.15,['Increased base  strength from 22 to 23.']
+7.12,['Increased  Mana Void damage per missing mana from 0.6/0.85/1.1 to 0.8/0.95/1.1.']
+7.10,"['Level 10 right talent changed: +175 health -> +10  strength.', 'Level 15 right talent changed: -2s  Blink cooldown -> +400  Blink max distance.', 'Level 20 left talent changed: +300  Blink max distance -> -2.5s  Blink cooldown.', 'Talents:']"
+7.07c,"['Level 15 right talent: -1s  Blink cooldown increased  to -2s.', 'Level 20 right talent: Increased  Blink uncontrollable illusion damage taken from 300% to 350%.', 'Reduced  Mana Break damage per burned mana from 60% to 50%.', 'Increased  Blink cooldown from 12/9/7/5 to 15/12/9/6.', 'Talents:']"
+7.07b,"['Level 15 left talent changed:  Blink uncontrollable illusion  [?] -> +15  agility.', 'Level 20 right talent changed: +10 all stats ->  Blink uncontrollable illusion  [?].', 'Level 25 right talent: +30%  Spell Shield magic resistance reduced to +25%.', 'Reduced  strength gain from 1.5 to 1.3.', 'Reduced base  intelligence from 15 to 12.', 'Reduced  Spell Shield magic resistance bonus from 26%/34%/42%/50% to 20%/30%/40%/50%.', 'Talents:']"
+7.07,"['Level 10: +20 attack damage or +150 health', 'Level 15: -1s  Blink cooldown or +20 attack speed', 'Level 20: +10 all stats or 15% evasion', 'Level 25: -50s  Mana Void cooldown or +25  agility', 'Reduced movement speed from 315 to 310.', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', ' Mana Break is no longer a Unique Attack Modifier. [?]', 'Reworked talents:']"
+7.06,"['Increased  strength gain from 1.2 to 1.5.', 'Reduced base health regeneration from 0.25 to 0.']"
+7.02,"['Level 10 right talent changed: +6  strength -> +150 health.', 'Level 15 left talent changed: +250 health -1s  Blink cooldown.', 'Level 25 left talent changed: -2s  Blink cooldown -> -50s  Mana Void cooldown.', 'Talents:']"
+7.00,"['Level 10: +20 attack damage or +6  strength', 'Level 15: +250 health or +20 attack speed', 'Level 20: +10 all stats or 15% evasion', 'Level 25: -2s  Blink cooldown or +25  agility', ""Added  Aghanim's Scepter upgrade for Anti-Mage: Causes  Spell Shield to passively block and reflect a targeted spell once every 12 seconds. Disabled with Break. Follows same rules as  Linken's Sphere and  Lotus Orb."", 'Added talents:']"
+6.88,['Increased  Mana Void stun duration from 0.15 to 0.3.']
+6.87,['Increased attack range from 128 to 150.']
+6.85,"['Reduced  Blink max distance from 1000/1075/1150/1150 to 925/1000/1075/1150.', 'Rescaled  Mana Void stun duration from 0.1/0.2/0.3 to 0.15 on each level.']"
+6.84,"[' Mana Void no longer ignores ancient creeps, Roshan and creep-heroes.']"
+6.82,['Increased base  strength from 20 to 22.']
+6.81,['Increased  Mana Void radius from 450 to 500.']
+6.80,"['Increased radius from 325 to 450.', 'Added a radius indicator to the mouse cursor.', ' Mana Void\nIncreased radius from 325 to 450.\nAdded a radius indicator to the mouse cursor.']"
+6.75,"['Reduced movement speed from 320 to 315.', 'Legs decreased from 2/2/2/2 to 1/1.5/1.8/1.9.', 'Increased  Blink cast time from 0.33 to 0.4.']"
+6.73,"['Increased base attack time from 1.35 to 1.45.', 'Reduced base armor from 0 to -1 (total armor is now 2.08).']"
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,"['Reduced base attack time from 1.45 to 1.35.', 'Increased attack range from 100 to 128.']"
+6.70,['Increased  Spell Shield magic resistance bonus from 15%/25%/35%/45%. 26%/34%/42%/50%.']
+6.68,['Increased  Spell Shield magic resistance bonus from 10%/20%/30%/40% to 15%/25%/35%/45%.']
+6.65,"['Increased  Mana Break mana burn per hit from 16/32/48/64 to 28/40/52/64.', 'Reduced  Mana Void cooldown from 120/100/80 to 70 on each level.']"
+6.63,"['Rescaled base  strength and gain from 16 + 1.5 to 20 + 1.2.', 'Increased  Mana Void radius from 275 to 325.']"
+6.60,"['Reduced base  strength and gain from 21 + 1.9 to 16 + 1.5.', ' Mana Void now deals damage to all units within 275 radius around the target (damage still based on the primary target only).']"
+6.59,['Increased base  strength from 19 to 21.']
+6.55,"['Increased base  strength from 16 to 19.', 'Increased  intelligence gain from 1.5 to 1.8.', 'Increased base attack damage from 24-28 to 27-31 (total attack damage is now 49-53).']"
+6.53,['Reduced  Mana Void cooldown from 120 on each level to 120/100/80.']
+6.52,"[' Mana Void now applies the stun instantly, instead of using a projectile (damage already is instant).']"
+6.50,['Reduced  Mana Void mana cost from 175/225/275 to 125/200/275.']
+6.35,['Increased base armor from -1 to 0 (total armor is now 3.08).']
+6.10,['Reworked  Spell Shield']
+6.07,['Reduced base attack time from 1.7 to 1.45.']
+6.04,"['Restored the projectile on  Mana Void stun (projectile travels 1000 units per second, can be disjointed, damage still instant).']"
+6.02,"['Fixed  Spell Shield (pre 6.10) reducing attack speed by 80, instead of 20.']"
+6.00,"['Increased base attack time from 1.45 to 1.7.', 'Reduced base armor from 0 to -1 (total armor is now 2.08).', 'Increased base movement speed from 310 to 320', ' Spell Shield (pre 6.10) now reduces attack speed by 20 on each level, instead of attack damage by 50%/40%/30%/20%.', ' Mana Void now applies the stun instantly, instead of using a projectile (damage already is instant).']"
+5.74,"['No longer reduces attack speed while spell shield is toggled on.', 'Now reduces damage dealt by antimage.[?]', 'Damage Dealt: 50/60/70/80% [?].', ' Spell Shield (pre 6.10)\nNo longer reduces attack speed while spell shield is toggled on.\nNow reduces damage dealt by antimage.[?]\nDamage Dealt: 50/60/70/80% [?].']"
+5.72,['Reduced base health regen from 0.50 to 0.25.']
+5.68,['Reduced  Mana Break burned mana as damage from 100% to 60%.']
+5.65,['Removed  Spell Shield (pre 6.10) chance to deflect magical damage.']
+5.62,['Removed Hidden Innate Ability Ultravision.']
+5.60,['Reduced base attack time from 1.5 to 1.45']
+5.58,"['Increased base attack time from 1.25 to 1.5.', 'Reduced base attack damage from 28-32 to 24-28.', 'Reduced base  strength from 17 to 16.', 'Reduced base  agility 24 to 22.', 'Reduced base  intelligence from 16 to 15.', ' Blink\nReduced mana cost from 70 to 60.\nIncreased cooldown from 10/7/5/3 to 12/9/7/5.', 'Reduced mana cost from 70 to 60.', 'Increased cooldown from 10/7/5/3 to 12/9/7/5.']"
+5.57,['Reduced base  strength from 19 to 17.']
+5.56,"['Rescaled Magic Resistance Bonus from 30%/40%/50%/60% to 70/60/50/40%.', 'Now grants a chance to deflect magic damage while spell shield is toggled on.', 'Deflect Chance: 30/0/0/0%.', 'Deflect Damage: 100/0/0/0%.', ' Spell Shield (pre 6.10)\nRescaled Magic Resistance Bonus from 30%/40%/50%/60% to 70/60/50/40%.\nNow grants a chance to deflect magic damage while spell shield is toggled on.\nDeflect Chance: 30/0/0/0%.\nDeflect Damage: 100/0/0/0%.']"
+5.55,['Replaced  Mana Burn with  Spell Shield (pre 6.10)']
+5.51,['Increased  Blink mana cost from 50 to 70.']
+5.50,"['Increased base HP from 100 to 150', 'Increased  Blink cooldown from 10/7/5/2 to 10/7/5/3.', ""Removed  Aghanim's Scepter upgrade for Anti-Mage""]"
+5.40,"[""Added  Aghanim's Scepter upgrade for Anti-Mage: Increases  Mana Void damage per missing mana from 0.40/0.75/1.10 to 0.75/1.10/1.50, but also reduces stun duration from 0.1/0.2/0.3 to 0.1.""]"
+5.35,['Increased  Mana Void stun duration from 0.1 to 0.1./0.2/0.3.']
+5.31,"['Increased  Mana Burn mana cost from 65/85/85/95 to 60/85/100/115.', 'Increased  Mana Void damage per missing mana from 0.33/0.60/1.00 to 0.40/0.75/1.10.']"
+5.10,"['Increased  agility gain from 2.25 to 2.8.', 'Increased  intelligence gain from 0.8 to 1.5.', 'Replaced  Spell Shield (4.00) with  Mana Void']"
+4.10,"['Rescaled mana cost from 50/10/5/1 to 50.', 'Reduced cooldown from 10/10/7/5 to 10/7/5/2.', ' Blink\nRescaled mana cost from 50/10/5/1 to 50.\nReduced cooldown from 10/10/7/5 to 10/7/5/2.']"
+4.0beta10,"['Moved  Mana Break to the first ability slot.', 'Moved  Mana Strangle to the second ability slot.', 'Replaced  Mana Strangle with  Mana Burn.']"
+4.0beta6,['Reduced base attack damage from 31-35 to 28-32.']
+4.0beta5,"['Reduced  Mana Strangle mana cost from 100 to 80/90/100/100', 'Increased  Blink cooldown from 10/10/5/2 to 10/10/7/5.']"
+4.0beta2,"['Added a 4th level to all basic abilities.', ' Mana Strangle\nRescaled mana burn from 25/35/45 to 25/35/45/55.\nIncreased damage from 0.01 to 8/10/11/12\nIncreased mana cost from 75 to 100\nReduced cooldown from 30 to 15', 'Rescaled mana burn from 25/35/45 to 25/35/45/55.', 'Increased damage from 0.01 to 8/10/11/12', 'Increased mana cost from 75 to 100', 'Reduced cooldown from 30 to 15', 'Rescaled  Mana Break damage from 20/40/60 to 16/32/48/64 mana burned per hit.', 'Replaced  Haste with  Blink']"
+3.2j,"['Reduced base attack damage from 35-39 to 31-35.', 'Increased  Spell Shield (3.00) spell block cooldown from 60/30/0 to 60/45/30.']"
+3.00d,['Replaced  Spell Mantle with  Mana Break.']
+2.60,['Created.']

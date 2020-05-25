@@ -1,0 +1,89 @@
+7.26b,"['Level 10 left talent: +25 attack damage reduced to +20.', 'Level 10 right talent: +25 movement speed reduced to +15.', 'Level 15 left talent: +350 health reduced to +275.', 'Level 15 right talent: +65  Shuriken Toss damage reduced to +50.', 'Level 20 left talent: +65  Jinada gold steal reduced to +50.', 'Level 20 right talent: +60 attack speed reduced to +50.', 'Level 25 left talent: +300  Track gold reduced to +250.', 'Level 25 right talent: 50% evasion reduced to 40%.', ' Track now grants unreliable gold, instead of reliable gold.', 'Talents:']"
+7.26a,['Reduced  Track self gold bonus from 150/250/350 to 130/225/320.']
+7.25a,"['Level 15 right talent: +75  Shuriken Toss damage reduced to +65.', 'Level 20 left talent: +90  Jinada gold steal reduced to to +65.', 'Talents:']"
+7.25,"['Reduced  Shuriken Toss mana cost from 135 on each level to 120/125/130/135.', ""Reworked  Aghanim's Scepter upgrade.""]"
+7.24,['Increased base armor from 3 to 4.']
+7.23e,"['Level 10 left talent changed: +20% experience gain -> +25 attack damage.', 'Talents:']"
+7.23c,"['Level 10 left talent: +25% experience gain reduced to +20%.', 'Talents:']"
+7.23,['Increased  Track movement speed bonus from 16%/18%/20% to 16%/20%/24%.']
+7.22f,['Reduced  Shuriken Toss mana cost from 150 to 135.']
+7.22e,['Increased base attack damage from 24-38 to 27-41.']
+7.22d,"['Increased base health regeneration from 0.5 to 1.25.', 'Reduced  Shuriken Toss cooldown from 9 to 8.']"
+7.22,"['Level 20 right talent: +75  Shuriken Toss damage increased to +125.', 'Reduced  Jinada damage from 80/110/140/170 to 70/100/130/160.', "" Aghanim's Scepter now also increases  Shuriken Toss' cast range from 400 to 800."", 'Talents:']"
+7.21c,['Reduced  agility gain from 3.1 to 2.5']
+7.21,"['Increased  agility gain from 2.7 to 3.1.', 'Reduced  Shuriken Toss cooldown from 10 to 9.', 'Increased  Jinada gold steal from 12/18/24/30 to 12/20/28/36.', 'Increased  Track critical strike damage from 140%/160%/180% to 140%/170%/200%.']"
+7.20c,"['Reduced  agility gain from 3 to 2.7.', 'Reduced  Track cast range from 1200 to 1000.']"
+7.20,"['Attack damage bonus: 80/110/140/170', 'Gold stolen: 12/18/24/30', 'Cooldown: 12/9/6/3', ""Bounty Hunter's weapons glow whenever Jinada is ready."", 'Increased base  strength and gain from 18 + 2.1 to 20 + 2.5.', 'Reduced base health regeneration from 2 to 0.5.', 'Reduced base mana regeneration from 0.9 to 0.', 'Reworked  Jinada']"
+7.16,"['Level 10 right talent: +30 movement speed reduced to +25.', 'Talents:']"
+7.15,['Increased base  strength from 17 to 18.']
+7.12,['Increased  Shuriken Toss mana cost from 120/130/140/150 to 150 on each level.']
+7.07,"['Level 10: +20% experience gain or +175 health', 'Level 15: +15 movement speed or +40 attack speed', 'Level 20: +120 attack damage or +75  Shuriken Toss damage', 'Level 25: -5s  Jinada cooldown or 25% evasion', 'Reduced movement speed from 320 to 315.', 'Increased base health regeneration from 0.5 to 2.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06d,['Increased base movement speed from 315 to 320.']
+7.06,"['Increased  strength gain from 1.8 to 2.1.', 'Reduced base health regeneration from 0.75 to 0.5.', "" Shuriken Toss\nFixed being unable to bounce off of spell immune, invulnerable or hidden before impact. [?]\nFixed being unable to bounce onto spell immune enemies.\n Linken's Sphere no longer causes the Shuriken to stop bouncing when blocked. [?]"", 'Fixed being unable to bounce off of spell immune, invulnerable or hidden before impact. [?]', 'Fixed being unable to bounce onto spell immune enemies.', "" Linken's Sphere no longer causes the Shuriken to stop bouncing when blocked. [?]""]"
+7.02,"['Level 10 left talent: +15% experience gain increased to +20%.', 'Level 20 left talent: +100 attack damage increased to +120.', 'Level 20 right talent changed: +8% spell damage amplification -> +75  Shuriken Toss damage.', 'Level 25 right talent: 20% evasion increased to 25%.', "" Aghanim's Scepter now also increases  Shuriken Toss stun duration from 0.1 to 0.75."", 'Talents:']"
+7.00,"['Level 10: +15% experience gain or +175 health', 'Level 15: +15 movement speed or +40 attack speed', 'Level 20: +100 attack damage or +8% spell damage amplification', 'Level 25: -5s  Jinada cooldown or 20% evasion', ""Added  Aghanim's Scepter upgrade for Bounty Hunter: Allows  Shuriken Toss to bounce twice on each  Tracked hero."", 'Added talents:']"
+6.88f,['Reduced  Track movement speed bonus from 20% on each level to 16/18/20%.']
+6.88e,['Increased  Track mana cost from 50 to 65.']
+6.88,[]
+6.87d,['Reduced  Track self gold bonus from 200/275/350 to 170/260/350.']
+6.87c,['Reduced  Jinada movement speed slow from 18%/22%/26%/30% to 15%/20%/25%/30%.']
+6.87b,['Reduced  Jinada movement speed slow from 25%/27%/29%/31% to 18%/22%/26%/30%.']
+6.87,"['Increased attack range from 128 to 150.', 'Increased  Shadow Walk mana cost from 50 to 65.']"
+6.86,['Increased  Jinada movement and attack speed slow from 25% on each level to 25%/27%/29%/31%.']
+6.85,"['Now provides vision only of the target rather than the area around it.', 'Reduced allied bonus gold from 50/100/150 to 40/80/120.', ' Track\nNow provides vision only of the target rather than the area around it.\nReduced allied bonus gold from 50/100/150 to 40/80/120.']"
+6.84,"['Increased  intelligence gain from 1.4 to 2.', ' Shuriken Toss\nIncreased damage from 100/200/250/325 to 150/225/300/375.\nReduced cast range from 650 to 400.\nIncreased mana cost from 90/115/135/155 to 120/130/140/150.\nIncreased bounce search radius from 900 to 1200.', 'Increased damage from 100/200/250/325 to 150/225/300/375.', 'Reduced cast range from 650 to 400.', 'Increased mana cost from 90/115/135/155 to 120/130/140/150.', 'Increased bounce search radius from 900 to 1200.', ' Shadow Walk damage is no longer reduced by Damage Block.', "" Track's debuff now shows how much gold the hero currently has.""]"
+6.83,"['Increased bonus gold for self from 150/200/250 to 200/275/350.', 'Reduced cooldown from 10/7/5 to 4 on each level.', ' Track\nIncreased bonus gold for self from 150/200/250 to 200/275/350.\nReduced cooldown from 10/7/5 to 4 on each level.']"
+6.82,[' Shuriken Toss now bounces to all tracked units within a 900 range.']
+6.81b,['Increased  Shadow Walk duration from 15/20/25/30 to 20/25/30/35.']
+6.81,['Increased  Track cast range from 900/1050/1200 to 1200.']
+6.78,['Reduced  Track mana cost from 70/60/50 to 50.']
+6.77,[' Track no longer reduces armor by 1/3/5.']
+6.73,['Increased  Track self gold bonus from 75/150/225 to 150/200/250.']
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,"['Increased base  intelligence from 16 to 19.', 'Reduced collision size from 24 to 12.']"
+6.72,"['Increased base health regeneration from 0.25 to 0.75.', 'Reduced  Jinada cooldown from 15/12/9/6 to 12/10/8/6.']"
+6.71,['Increased  Track team reliable gold bonus from 50 on each level to 50/100/150.']
+6.70,"['Increased base armor from 1 to 3 (total armor is now 5.94).', 'Increased  Track movement speed bonus radius from 800 to 900.']"
+6.69,"['Increased  Jinada critical damage from 140%/160%/180%/200% to 150%/175%/200%/225%.', 'Increased  Track cast range from 750/950/1150 to 900/1050/1200.']"
+6.68,"['Reduced  Jinada cooldown from 21/16/11/6 to 15/12/9/6.', ' Track\nNow gives 50 bonus gold to all allies affected by the track aura around tracked enemies.\nBonus gold is treated as reliable gold.', 'Now gives 50 bonus gold to all allies affected by the track aura around tracked enemies.', 'Bonus gold is treated as reliable gold.']"
+6.67,"[' Track now displays a visual effect above the target, which is only visible to Gondar and his allies.', ""Added to Captain's Mode.""]"
+6.66b,['Fixed  Shadow Walk preventing  Jinada from applying the critical strike when attacking out of the invisibility.']
+6.66,['Reduced  Jinada cooldown from 22/17/12/7 to 21/16/11/6.']
+6.65,['Reworked  Jinada']
+6.63,['Imported a custom model for him that has his selection box fixed.']
+6.56,['Increased  Track mana cost from 50 on each level to 70/60/50.']
+6.55,"['Now grants the 20% movement speed bonus to all allies within a 800 radius around tracked enemies.', 'Now always grants the bounty to Bounty Hunter as long as enemy heroes die with the debuff on, he no longer needs to make the killing blow.', 'Increased armor reduction from 1/2/4 to 1/3/5.', 'Reduced mana cost from 100/75/50 to 50 on each level.', ' Track\nNow grants the 20% movement speed bonus to all allies within a 800 radius around tracked enemies.\nNow always grants the bounty to Bounty Hunter as long as enemy heroes die with the debuff on, he no longer needs to make the killing blow.\nIncreased armor reduction from 1/2/4 to 1/3/5.\nReduced mana cost from 100/75/50 to 50 on each level.']"
+6.52b,['Reduced  Shadow Walk cooldown from 20 to 15.']
+6.51,['Increased  Shuriken Toss cast range from 300 to 650.']
+6.36,['Increased cast range from 450 to 750/950/1150.']
+6.35,"['Increased base armor from 0 to 1 (total armor is now 3.94).', 'Increased base  intelligence from 14 to 16.', 'Increased movement speed from 310 to 315.']"
+6.31,"['Increased damage from 25/50/75/100 to 30/60/90/120.', 'Reduced mana cost from 75 to 50.', 'Reduced cooldown from 25 to 20.', ' Shadow Walk\nIncreased damage from 25/50/75/100 to 30/60/90/120.\nReduced mana cost from 75 to 50.\nReduced cooldown from 25 to 20.']"
+6.22,['Rescaled  Shadow Walk duration from 20/20/25/25 to 15/20/25/30.']
+6.20,"[' Shadow Walk no longer increases movement speed by 30%.', ' Track\nNow grants 20% movement speed bonus to Bounty Hunter when within 800 range of the tracked unit.\nCan now only target heroes.\nIncreased mana cost from 50/60/70 to 100/78/50.', 'Now grants 20% movement speed bonus to Bounty Hunter when within 800 range of the tracked unit.', 'Can now only target heroes.', 'Increased mana cost from 50/60/70 to 100/78/50.']"
+6.17,['Reduced base  intelligence from 15 to 14.']
+6.12,"['Increased damage from 20/40/60/80 to 25/50/75/100.', 'Reduced duration from 20/25/30/35 to 20/20/25/25.', 'Increased cooldown from 20 to 25.', ' Shadow Walk\nIncreased damage from 20/40/60/80 to 25/50/75/100.\nReduced duration from 20/25/30/35 to 20/20/25/25.\nIncreased cooldown from 20 to 25.']"
+6.09,"['Increased attack range from 100 to 128.', 'Reduced  Track duration from 90 to 30.']"
+6.07,"[""Increased Bounty Hunter's model size."", 'Increased  Track cooldown from 1/0/0 to 10/7/5.']"
+6.03,['Replaced  Disarm with  Track.']
+6.02,"['Increased base attack damage from 2-16 to 24-38 (total attack damage is now 45-59).', 'Bounty Hunter can now attack flying units.', ""Reduced Bounty Hunter's model size.""]"
+6.00,"['Reduced Acquisition range from 600 to 500', 'Reduced base attack damage from 20-30 to 2-16 (total attack damage from 41-51 to 23-37).', 'Increased base attack time from 1.7 to 1.8', 'Improved Cast Animation from 0.5/0.5 to 0.3/0.51.', 'Improved Attack Animation from 0.3/0.7 to 0.59/0.58. [?]', 'Increased turn rate from 0.4 to 0.6', 'Replaced  Track with  Disarm']"
+5.84,"['Rescaled critical chance from 5%/10%/15%/20% to 15% on each level.', 'Reduced critical damage from 200%/200%/200%/250% to 125%/150%/175%/200%.', ' Jinada\nRescaled critical chance from 5%/10%/15%/20% to 15% on each level.\nReduced critical damage from 200%/200%/200%/250% to 125%/150%/175%/200%.']"
+5.80,['Fixed  Track not granting gold on hero kills that were not tracked.']
+5.76,"['Now passively grants gold on any hero kill, instead of only on hero kills.', 'Reduced hero kill gold bounty from 100/200/300 to 50/100/150.', ' Track\nNow passively grants gold on any hero kill, instead of only on hero kills.\nReduced hero kill gold bounty from 100/200/300 to 50/100/150.']"
+5.72,['Reduced base HP regen from 0.5 to 0.25.']
+5.59,[' Track can no longer be cast on non-hero units.']
+5.58,"['Reduced base attack damage from 25-35 to 20-30.', 'Increased base attack time from 1.6 to 1.7.', 'Increased base  strength from 16 to 17.', 'Increased base  agility from 20 to 21.', 'Reduced  agility gain from 3.30 to 3.00.', 'Increased base  intelligence from 14 to 15.', 'Reduces  intelligence gain from 1.5 to 1.4.', ' Track\nNow also reduces armor by 1/2/4.\nReduced cooldown from 180/165/150 to 90 on each level.', 'Now also reduces armor by 1/2/4.', 'Reduced cooldown from 180/165/150 to 90 on each level.']"
+5.57,"['Reduced Base  intelligence from 15 to 14', 'Removed  Duplicate.', ' Shuriken Toss\nReduced damage from 100/200/275/350 to 100/200/250/325.\nIncreased cooldown from 8 to 10.', 'Reduced damage from 100/200/275/350 to 100/200/250/325.', 'Increased cooldown from 8 to 10.', "" Track\nIs now Bounty Hunter's ultimate ability, instead of an innate ability.\nCast range from 400 to 350/450/550.\nKill gold bounty from 100 to 100/200/300.\nReduced Mana cost from 80 to 75.\nCooldown from 180 to 180/165/150."", ""Is now Bounty Hunter's ultimate ability, instead of an innate ability."", 'Cast range from 400 to 350/450/550.', 'Kill gold bounty from 100 to 100/200/300.', 'Reduced Mana cost from 80 to 75.', 'Cooldown from 180 to 180/165/150.']"
+5.55,"['Now grants 100 bonus gold when the tracked enemy hero gets killed.', 'Increased cooldown from 1 to 180.', 'Increased mana cost from 50 to 80.', ' Track\nNow grants 100 bonus gold when the tracked enemy hero gets killed.\nIncreased cooldown from 1 to 180.\nIncreased mana cost from 50 to 80.', 'Reduced  Shuriken Toss damage from 100/200/300/400 to 100/200/275/350.', 'Renamed  Ninja Skills to Jinada.', 'Reduced  Shadow Walk damage from 25/50/75/100 to 20/40/60/80.']"
+5.54,['Added a new innate ability:']
+5.52,"[""Removed  Aghanim's Scepter upgrade for Bounty Hunter.""]"
+5.50,['Increased base hp from 100 to 150.']
+5.40,"['Increased  Shuriken Toss mana cost from 100/120/140/160 to 100/125/150/175.', ' Shadow Walk\nThe attack out of the invisibility now deals 15/30/45/65 physical damage.\nReduced movement speed bonus from 10%/20%/30%/40% to 10% on each level.', 'The attack out of the invisibility now deals 15/30/45/65 physical damage.', 'Reduced movement speed bonus from 10%/20%/30%/40% to 10% on each level.', ""Added  Aghanim's Scepter upgrade for Bounty Hunter: Improves  Duplicate\nReduces mana cost from 200/250/350 to 180/225/300\nIncreases duration from 30/60/90 to 40/80/120\nReduces cooldown from 30/60/60 to 25/50/75"", 'Reduces mana cost from 200/250/350 to 180/225/300', 'Increases duration from 30/60/90 to 40/80/120', 'Reduces cooldown from 30/60/60 to 25/50/75']"
+5.35,"['Increased  agility gain from 2.7 to 3.3', ""Fixed  Shuriken Toss' stun duration lasting indefinitely, instead of 0.1 seconds.""]"
+5.31,"['Increased damage from 100/175/250/325 to 100/200/300/400.', 'Increased mana cost from 100/110/120/130 to 100/120/140/160.', ' Shuriken Toss\nIncreased damage from 100/175/250/325 to 100/200/300/400.\nIncreased mana cost from 100/110/120/130 to 100/120/140/160.', ' Shadow Walk\nRemoved Backstab damage.', 'Removed Backstab damage.', ' Duplicate\nIncreased Duplicate duration from 20/40/60 to 30/60/90\nRescaled Duplicate cooldown from 60 to 30/60/60', 'Increased Duplicate duration from 20/40/60 to 30/60/90', 'Rescaled Duplicate cooldown from 60 to 30/60/60']"
+5.10,"['Reduced base HP regen from 1.5 to 0.5.', ' Shuriken Toss', ' Shadow Walk\nIncreased movement speed bonus 10% to 10/20/30/40%.\nIncreased duration from 20/25/30/30 to 20/25/30/35.\nNo longer deals 25/50/75/100 damage.', 'Increased movement speed bonus 10% to 10/20/30/40%.', 'Increased duration from 20/25/30/30 to 20/25/30/35.', 'No longer deals 25/50/75/100 damage.', ' Duplicate\nIncreased duplicate duration from 15/30/45 to 20/40/60\nRescaled mana cost from 250 to 200/250/350', 'Increased duplicate duration from 15/30/45 to 20/40/60', 'Rescaled mana cost from 250 to 200/250/350']"
+4.1beta01,"['Reduced damage from 100/200/300/400 to 100/175/250/325.', 'Reduced cast Range from 350 to 280.', ' Shuriken Toss\nReduced damage from 100/200/300/400 to 100/175/250/325.\nReduced cast Range from 350 to 280.', 'Reduced  Shadow Walk Movement Speed bonus 25/50/75/100% to 10%.']"
+4.0beta7,['Updated Bounty Hunter Hero Model.']
+4.0beta6,"['Reduced base attack damage from 26-36 to 25-35.', 'Increased base armor from 0 to 1.']"
+4.0beta5,"['Reduced cast range from 400 to 350.', 'Rescaled mana cost from 120 to 100/110/120/130.', ' Shuriken Toss\nReduced cast range from 400 to 350.\nRescaled mana cost from 120 to 100/110/120/130.', 'Changed  Duplicate legacy hotkey from T to C.']"
+4.0beta2,['Created']

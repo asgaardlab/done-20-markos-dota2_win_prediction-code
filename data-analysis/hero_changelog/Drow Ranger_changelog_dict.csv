@@ -1,0 +1,89 @@
+7.26c,"['Level 10 left talent: +4 all stat increased to +5.', 'Level 10 right talent changed: +15 movement speed -> 40%  Gust blind miss chance.', 'Level 15 left talent changed: 40%  Gust blind miss chance -> +20 movement speed.', 'Talents:']"
+7.26b,"['Level 10 left talent: +5 all stat reduced to +4.', 'Level 10 right talent: +20 movement speed reduced to +15.', 'Level 15 left talent: 50%  Gust blind miss chance reduced to 40%.', 'Level 15 right talent: +12  agility reduced to +10.', 'Level 20 left talent: +3s  Gust silence duration reduced to +2.5s.', 'Level 20 right talent: +35%  Multishot attack damage as damage reduced to +28%.', 'Level 25 left talent: 40% cooldown reduction reduced to 30%.', 'Level 25 right talent: +15%  Marksmanship proc chance reduced to +12%.', 'Talents:']"
+7.26a,['Increased base armor from -3 to -1.']
+7.25,['Reduced attack point from 0.65 to 0.55.']
+7.24,['Reduced  Multishot attack damage as damage from 90%/115%/140%/165% to 85%/110%/135%/160%.']
+7.23f,"['Rescaled slow duration from 1/2/3/4 to 1.25/2/2.75/3.5.', 'Increased mana cost from 50/60/70/80 to 50/70/90/110.', ' Multishot\nRescaled slow duration from 1/2/3/4 to 1.25/2/2.75/3.5.\nIncreased mana cost from 50/60/70/80 to 50/70/90/110.']"
+7.23e,['Reduced  Marksmanship agility bonus from 30%/35%/40% to 28%/36%/44%.']
+7.23d,"['Level 15 right talent: +14  agility reduced to +12.', 'Level 25 left talent: 50% cooldown reduction reduced to 40%.', 'Reduced  Multishot attack damage as damage from 95%/125%/155%/185% to 90%/115%/140%/165%.', 'Talents:']"
+7.23b,"['Increased  agility gain from 2.6 to 2.9.', 'Increased  Marksmanship own agility as agility bonus from 30%/35%/40% to 35%/40%/45%.']"
+7.23a,"['Reduced  Multishot cooldown from 32/28/24/20 to 26/24/22/20.', ' Marksmanship\nIncreased own agility as agility bonus from 25%/30%/35% to 30%/35%/40%.\nIncreased proc damage from 40/50/60 to 70/80/90.', 'Increased own agility as agility bonus from 25%/30%/35% to 30%/35%/40%.', 'Increased proc damage from 40/50/60 to 70/80/90.']"
+7.23,"['Max channl time: 1.75', 'Cast range: Global', 'Max travel distance: 2x of attac krange', 'Arrow search radius: 90', 'Number of waves: 3', 'Arrows per wave: 4', 'Attack damage as damage: 95%/125%/155%/185%', 'Frost Arrow duration: 1/2/3/4', 'Mana cost: 50/60/70/80', 'Cooldown: 32/28/24/20', ""Notes: The arrows are released so that they form a cone. The arrows in a wave have a slight delay between each arrow, so they are not launched simultaneously. An enemy may only be hit by one arrow per wave. Does not performe instant attacks, the  arrows deal spell damage based on Drow Ranger's average main attack damage (base damage + damage from the primary attribute). This also means they may not trigger attack modifier or proc any on-attack effects."", 'Reduced base  agility and gain from 30 + 2.8 to 20 + 2.6.', 'Increased base attack damage from 19-30 to 29-40.', ' Frost Arrows\nNow deals 5/10/15/20 bonus physical damage. [?]\nReduced creep slow duration from 7 to 1.5. [?]', 'Now deals 5/10/15/20 bonus physical damage. [?]', 'Reduced creep slow duration from 7 to 1.5. [?]', 'Increased  Gust max knockback distance from 350 to 450.', 'Removed  Precision Aura', 'Added new ability -  Multishot:']"
+7.22g,"['Level 15 left talent: 40%  Gust blind miss chance increased to 50%.', ""Increased  Precision Aura ranged attack speed bonus from 20%/40%/60%/80% to 22%/44%/66%/88% of Drow Ranger's agility."", 'Talents:']"
+7.22f,"['Level 15 left talent: 30%  Gust blind miss chance increased to 40%.', 'Increased base  strength from 17 to 18.', 'Increased base  agility from 29 to 30.', 'Talents:']"
+7.22e,"['Level 15 right talent: +10  agility increased to +14.', 'Level 15 left talent changed: +550  Gust cast range/distance/knockback -> 30%  Gust blind miss chance.', 'Talents:']"
+7.22d,"['The proc damage is now added to the attack damage and dealt in one instance, instead of being a separate damage instance. [?]', 'Increased proc damage from 120 on each level to 120/130/140.', ' Marksmanship\nThe proc damage is now added to the attack damage and dealt in one instance, instead of being a separate damage instance. [?]\nIncreased proc damage from 120 on each level to 120/130/140.']"
+7.22,"['Now treats ancient creeps like heroes, dealing extra damage and piercing their armor, instead of instantly killing them.', 'Now only pierces main armor (base armor + armor gained from agility), instead of piercing total armor.', ' Marksmanship\nNow treats ancient creeps like heroes, dealing extra damage and piercing their armor, instead of instantly killing them.\nNow only pierces main armor (base armor + armor gained from agility), instead of piercing total armor.']"
+7.21d,"['Reduced base attack damage from 25-36 to 19-30.', 'Increased base  agility and gain from 23 + 2.5 to 29 + 2.8.']"
+7.21,"['Level 15 right talent: +25 attack speed -> +10  agility.', 'Increased  agility gain from 2.2 to 2.5.', 'Talents:']"
+7.20c,[' Marksmanship now also deals 120 physical damage when proccing on heroes.']
+7.20b,"['Increased base  agility from 19 to 23.', ""Increased  Precision Aura ranged attack speed bonus from 20%/36%/52%/68% to 20%/40%/60%/80% of Drow Ranger's agility.""]"
+7.20,"['Disable radius: 400', 'Proc chance: 20%/30%/40%', ""Notes: The previous  Aghanim's Scepter upgrade with Splinter Arrows still applies. Works against ancient creeps, but not against Roshan."", 'Reduced base health regeneration from 1.75 to 0.25.', 'Reduced base mana regeneration from 0.9 to 0.', "" Precision Aura\nNo longer grants 10%/20%/30%/40% of Drow Ranger's agility as attack damage to allies.\nNow grants 20%/36%/52%/68% of Drow Ranger's agility as attack speed to allies."", ""No longer grants 10%/20%/30%/40% of Drow Ranger's agility as attack damage to allies."", ""Now grants 20%/36%/52%/68% of Drow Ranger's agility as attack speed to allies."", 'Reworked  Marksmanship']"
+7.19d,['Reduced  Marksmanship agility bonus from 40/60/80 to 35/55/75.']
+7.19b,"['Reduced base  agility and gain from 26 + 1.9 to 19 + 2.2.', 'Increased base attack damage from 18-29 to 26-39.', 'Reduced attack point from 0.7 to 0.65.']"
+7.19,['Reduced base  strength from 18 to 17.']
+7.16,"['Increased base attack damage from 14-25 to 18-29.', 'Increased base health regeneration from 1.5 to 1.75.']"
+7.15,['Increased base  strength from 17 to 18.']
+7.12,"[""Increased  Precision Aura ranged attack damage bonus from 10%/18%/26%/34% to 10%/20%/30%/40% of Drow Ranger's agility.""]"
+7.07c,"['Level 15 left talent: +300  Gust cast range/distance/knockback increased to +400.', ""Reduced  Precision Aura ranged attack damage bonus from 16%/22%/28%/34% to 10%/18%/26%/34% of Drow Ranger's agility."", 'Talents:']"
+7.07b,"['Level 20 left talent: +1.5s  Gust silence duration increased to +2s.', ""Reduced  Precision Aura ranged attack damage bonus from 20%/26%/32%/38% to 16%/22%/28%/34% of Drow Ranger's agility."", 'Talents:']"
+7.07,"['Level 10: +5 all stats or +15 movement speed', 'Level 15: +20 attack speed or +175 health', 'Level 20: +14  strength or +6%  Precision Aura agility as attack damage', 'Level 25: +25  Marksmanship agility or +400  Gust cast range/distance/knockback', 'Reduced movement speed from 290 to 285.', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Added a visual effect on creeps when  Precision Aura is cast.', 'Reworked talents:']"
+7.06,"['Increased  strength gain from 1.6 to 1.9.', 'Reduced base health regeneration from 0.25 to 0.', ' Frost Arrows is no longer a unique attack modifier.']"
+7.02,"['Level 25 right talent: +350  Gust cast range/distance/knockback increased to +400.', 'Talents:']"
+7.00,"['Level 10: +5 all stats or +15 movement speed', 'Level 15: +20 attack speed or +175 health', 'Level 20: +14  strength or +6%  Precision Aura agility as attack damage', 'Level 25: +25  Marksmanship agility or +350  Gust cast range/distance/knockback', 'Reduced movement speed from 300 to 290.', 'Added talents:']"
+6.88f,['Reduced  strength gain from 1.9 to 1.6.']
+6.88e,['Reduced base attack damage from 18-29 to 14-25 (total attack damage is now 40-51).']
+6.88c,['Increased  Gust cooldown from 13 on each level to 16/15/14/13.']
+6.88,"['Increased turn rate from 0.6 to 0.7.', 'Increased  Frost Arrows movement speed slow from 15%/30%/45%/60% to 16%/32%/48%/64%.']"
+6.87,['Reduced  Gust cast time from 0.4 to 0.25.']
+6.86,"[""Added  Aghanim's Scepter upgrade for Drow Ranger: Causes Drow Ranger's attacks to splinter on the target, hitting nearby units with normal attacks that deal reduced damage. This ability is bound to\xa0 Marksmanship.""]"
+6.85,"[""Increased ranged attack damage bonus from 18%/24%/30%/36% to 20%/26%/32%/38% of Drow Ranger's agility."", 'Reduced cooldown from 120 to 100.', "" Precision Aura\nIncreased ranged attack damage bonus from 18%/24%/30%/36% to 20%/26%/32%/38% of Drow Ranger's agility.\nReduced cooldown from 120 to 100.""]"
+6.84c,[' Precision Aura no longer passively affects creep-heroes within a 900 radius around Drow Ranger. [?]']
+6.83,"[' Marksmanship now fully works for illusions. Just like the original, illusions lose the bonus once an enemy hero comes too close.']"
+6.82,['Increased  Frost Arrows movement speed slow from 11%/24%/37%/60% to 15%/30%/45%/60%.']
+6.81b,['Increased  Gust knockback duration from 0.5 to 0.6/0.7/0.8/0.9.']
+6.81,['Increased  Gust knockback duration from 0.2 to 0.5.']
+6.80,['Replaced  Silence with  Gust']
+6.79,"['Reduced night vision from 1700 to 800.', "" Precision Aura\nIncreased ranged attack damage bonus from 16%/20%/24%/28% to 18%/24%/30%/36% of Drow Ranger's agility.\nNo longer passively affects creeps within a 900 radius.\nCan now be manually cast to affect creeps globally for 30 seconds (120 seconds cooldown)."", ""Increased ranged attack damage bonus from 16%/20%/24%/28% to 18%/24%/30%/36% of Drow Ranger's agility."", 'No longer passively affects creeps within a 900 radius.', 'Can now be manually cast to affect creeps globally for 30 seconds (120 seconds cooldown).', 'Increased  Marksmanship enemy detection radius from 375 to 400.']"
+6.78,"[""Increased  Precision Aura ranged attack damage bonus from 14%/18%/22%/26% to 16%/20%/24%/28% of Drow Ranger's agility.""]"
+6.77c,"['No longer grants any agility when an enemy hero is within the radius, instead of being halved.', 'Reduced enemy detection radius from 400 to 375.', ' Marksmanship\nNo longer grants any agility when an enemy hero is within the radius, instead of being halved.\nReduced enemy detection radius from 400 to 375.']"
+6.77,"['Can no longer be toggled to affect creeps globally.', 'Now passively affects creeps only within a 900 radius.', ' Precision Aura\nCan no longer be toggled to affect creeps globally.\nNow passively affects creeps only within a 900 radius.']"
+6.76c,"['Reduced base armor from -1 to -3 (total armor is now 0.64).', 'Increased  Marksmanship enemy detection radius from 375 to 400.']"
+6.76,['Reworked  Precision Aura.']
+6.75,"['Increased  Frost Arrows movement speed slow from 11%/24%/37%/50% to 11%/24%/37%/60%.', 'Reduced  Silence cooldown from 15 to 13.', 'Increased  Precision Aura ranged attack damage bonus from 7%/14%/21%/28% to 8%/16%/24%/32%.', 'Increased  Marksmanship agility bonus from 15/30/45 to 15/30/60.']"
+6.74,['Increased  Silence radius from 275 to 300.']
+6.73,['Increased base  agility from 22 to 26.']
+6.72d,"['No longer slows attack speed.', 'Increased movement speed slow from 10%/20%/30%/40% to 11%/24%/37%/50%.', ' Frost Arrows\nNo longer slows attack speed.\nIncreased movement speed slow from 10%/20%/30%/40% to 11%/24%/37%/50%.']"
+6.72,['Increased night vision from 800 to 1700.']
+6.68,['Reduced night vision from 1800 to 800.']
+6.63,['Increased attack range from 600 to 625.']
+6.58,['Increased  Marksmanship agility bonus from 12/24/36 to 15/30/45.']
+6.53,['Increased  Marksmanship agility bonus from 10/20/30 to 12/24/36.']
+6.50,"['Reduced  agility gain from 2.9 to 1.9.', 'Increased  Precision Aura radius from 400 to 900.', 'Reworked  Marksmanship']"
+6.48b,['Reduced  Silence non-hero duration from 16/20/24/28 to 3/4/5/6.']
+6.45,['Increased  Silence radius from 250 to 275.']
+6.36b,['Increased base attack damage from 11-22 to 18-29 (total attack damage is now 40-51).']
+6.13,['Increased  intelligence gain from 1.3 to 1.4.']
+6.00,"['Improved Attack Animation from 0.300/0.700 to 0.700/0.300.', 'Improved Cast Animation from 0.500/0.830 to 0.400/0.500.', 'Increased turn rate from 0.40 to 0.60.', 'Reduced  Frost Arrows movement speed slow from 15%/30%/40%/50% to 10%/20%/30%/40%.']"
+5.80,['Reduced  Marksmanship (Pre 6.50) movement speed slow from 15/30/45/60% to 15/30/40/50%.']
+5.76,['Increased  Marksmanship (Pre 6.50) proc chance from 5/10/15% to 10/15/20%.']
+5.75,"['Reduced attack speed slow from 10/20/30/40% to 5/10/15/20%.', 'Increased movement speed slow from 10/20/30/40% to 15/30/45/60%.', ' Frost Arrows\nReduced attack speed slow from 10/20/30/40% to 5/10/15/20%.\nIncreased movement speed slow from 10/20/30/40% to 15/30/45/60%.']"
+5.72,"[""Changed Drow Ranger's base regeneration type from only regenerate at night to always regenerate [?]."", 'Reduced base regen from 0.50 to 0.25', 'Reduced  Marksmanship (Pre 6.50) proc chance from 10/20/30% to 5/10/15%.']"
+5.62,"['Reduced  strength gain from 2.00 to 1.90.', 'Reduced  agility gain from 3.40 to 2.90.', 'Reduced  intelligence gain from 1.50 to 1.40.']"
+5.57,['Reduced  Precision Aura (Pre 6.76) proc chance from 10/25/40% to 10/20/30%.']
+5.55,['Reduced  Precision Aura (Pre 6.76) radius from 900 to 300.']
+5.53,"['No longer grants 0/2/5/8 bonus damage.', 'Increased mana cost from 11 to 12.', 'Reduced slow duration from 1.75 to 1.50.', ' Frost Arrows\nNo longer grants 0/2/5/8 bonus damage.\nIncreased mana cost from 11 to 12.\nReduced slow duration from 1.75 to 1.50.', ' Silence\nRescaled radius from 200/275/350/350 to 250.\nReduced duration from 6/7/8/9 to 3/4/5/6.', 'Rescaled radius from 200/275/350/350 to 250.', 'Reduced duration from 6/7/8/9 to 3/4/5/6.', 'Reduced  Precision Aura (Pre 6.76) ranged attack damage bonus from 9/18/27/36% to 7/14/21/28%.']"
+5.50,"['Increased base HP from 100 to 150.', ' Frost Arrows\nReduced attack speed slow 20/30/40/50% to 10/20/30/40%.\nReduced movement speed slow from 20/28/36/45% to 10/20/30/40%.\nIncreased mana cost from 10 to 11.\nReduced slow duration from 2 to 1.75.', 'Reduced attack speed slow 20/30/40/50% to 10/20/30/40%.', 'Reduced movement speed slow from 20/28/36/45% to 10/20/30/40%.', 'Increased mana cost from 10 to 11.', 'Reduced slow duration from 2 to 1.75.', ""Removed  Aghanim's Scepter Upgrade for Drow Ranger.""]"
+5.40,"[""Added  Aghanim's Scepter Upgrade for Drow Ranger: Increases  Marksmanship (Pre 6.50) proc chance from 10/25/40% to 20/45/75%.""]"
+5.35,"['Reduced  Frost Arrows attack speed slow from 30/40/50/60% to 20/30/40/50%.', 'Reduced  Marksmanship (Pre 6.50) proc chance from 10/30/50% to 10/25/40%.']"
+5.31,"['Increased  Frost Arrows attack speed slow from 20/28/36/45% to 30/40/50/60%.', 'Increased  Marksmanship (Pre 6.50) proc chance from 10/20/30% to 10/30/50%.']"
+5.10,['Reduced  Marksmanship (Pre 6.50) proc chance from 10/30/40% to 10/20/30%.']
+4.0beta6,"['Increased base attack damage from 9-30 to 11-32.', 'Increased  agility gain from 3.00 to 3.40.']"
+4.0beta5,"['Reduced attack/movement speed slow from 30/40/50/60% to 20/28/36/45%.', 'Reduced slow duration from 2.25 to 2.', ' Frost Arrows\nReduced attack/movement speed slow from 30/40/50/60% to 20/28/36/45%.\nReduced slow duration from 2.25 to 2.']"
+4.0beta3,['Reduced  Silence duration from 8/10/12/14 to 6/7/9/10.']
+4.0beta2,"['Now deals 0/2/5/8 bonus damage.', 'Rescaled attack/movement speed slow from 35/45/60% to 30/40/50/60%.', 'Reduced slow duration from 3 to 2.25.', ' Frost Arrows\nNow deals 0/2/5/8 bonus damage.\nRescaled attack/movement speed slow from 35/45/60% to 30/40/50/60%.\nReduced slow duration from 3 to 2.25.', ' Silence\nRescaled duration from 8/10/12 to 8/10/12/14.\nIncreased mana cost from 75 to 90.', 'Rescaled duration from 8/10/12 to 8/10/12/14.', 'Increased mana cost from 75 to 90.', 'Rescaled  Precision Aura (Pre 6.76) ranged attack damage bonus from 10/20/30% to 9/18/27/36%.']"
+3.2j,"['Rescaled base attack damage from 20-20 to 9-30.', ' Frost Arrows.\nIncreased attack/movement speed slow from 15/25/35% to 35/45/60%\nIncreased slow duration from 1 to 3', 'Increased attack/movement speed slow from 15/25/35% to 35/45/60%', 'Increased slow duration from 1 to 3']"
+3.00d,"['Reduced level requirement from 6 to 6/11/16.', 'Reduced number of ability levels from 5 to 3.', 'Changed from Autocast/Target Unit to Passive.', 'Proc Chance: 10/30/40%.', 'Reworked  Marksmanship (Pre 3.00d) into  Marksmanship (Pre 6.50)\nReduced level requirement from 6 to 6/11/16.\nReduced number of ability levels from 5 to 3.\nChanged from Autocast/Target Unit to Passive.\nProc Chance: 10/30/40%.']"
+2.60,"[""Slaughters heros.  Aww..runnin' away?."", 'Move Speed Slow: 15/25/35%', 'Attack Speed Slow: 15/25/35%', 'Slow Duration: 10', 'Projectile Speed: 1500', 'Mana Cost: 10', 'Cooldown: 0', 'Increased base attack damage from 10-10 to 20-20.', 'Reduced base attack time from 2.13 to 1.70.', 'Increased  strength gain from 1.50 to 2.00.', 'Increased  agility gain from 2.50 to 3.00.', 'Replaced  Sneak Attack (Pre 2.60d) with  Frost Arrows']"
+0.96b,"['Reduced base  strength from 18 to 17.', 'Increased base  agility from 19 to 22.']"
+0.60,['Created.']

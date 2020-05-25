@@ -1,0 +1,40 @@
+7.26c,"['Level 10 right talent: +20 attack damage reduced to +15.', 'Level 20 left talent: +50  Sleight of Fist hero attack damage bonus increased to +65.', 'Level 25 left talent: -13s  Fire Remnant charge replenish time reduced to -12s.', 'Talents:']"
+7.26b,"['Level 10 left talent: +350  Flame Guard magical damage absorbed reduced to +280.', 'Level 10 right talent: +25 attack damage reduced to +20.', 'Level 15 left talent: +1s  Searing Chains duration reduced to +0.8s.', 'Level 15 right talent: +60  Flame Guard damage per second reduced to +50.', 'Level 20 left talent: +60  Sleight of Fist hero attack damage bonus reduced to +50.', 'Level 20 right talent: +10% spell damage amplification reduced to +8%.', 'Level 25 left talent: -16s  Fire Remnant charge replenish time reduced to -13s.', 'Talents:']"
+7.26a,['Increased  Searing Chains cooldown from 11/10/9/8 to 13/12/11/10.']
+7.25,"['Level 10 left talent: +275  Flame Guard magical damage absorbed increased to +350.', 'Reduced mana cost from 110 on each level to 80/90/100/110.', 'Reduced cooldown from 14/12/10/8 to 11/10/9/8.', ' Searing Chains\nReduced mana cost from 110 on each level to 80/90/100/110.\nReduced cooldown from 14/12/10/8 to 11/10/9/8.', 'Talents:']"
+7.23b,['Increased  agility gain from 2.1 to 2.6.']
+7.23,"['Level 10 left talent: +250  Flame Guard magical damage absorbed increased to +275.', 'Level 20 left talent changed: Gain True Strike -> +60  Sleight of Fist hero attack damage bonus.', 'Level 25 left talent: -20s  Fire Remnant charge replenish time reduced to -16s.', 'Talents:']"
+7.22f,['Reduced base armor from 0 to -1.']
+7.22e,[' Sleight of Fist can no longer be cast while rooted.']
+7.22d,"['Level 25 left talent: -25s  Fire Remnant charge replenish time reduced to -20s.', 'Reduced  Searing Chains damage per second from 60/80/92/100 to 50/75/90/100. [?]', ""Increased  Aghanim's Scepter upgraded  Activate Fire Remnant mana cost from 0 to 25."", 'Talents:']"
+7.22,"[""Added  Aghanim's Scepter upgrade for Ember Spirit: Increases  Fire Remnant max charges from 3 to 5, remnant travel speed from 250% to 500%, and cast range from 1500 to 4500. Removes  Activate Fire Remnant's mana cost.""]"
+7.21,"['Increased  agility gain from 1.8 to 2.1.', 'Increased base damage from 30-34 to 33-37.', 'Reduced  Sleight of Fist cooldown from 30/22/14/6 to 18/14/10/6.']"
+7.20e,['Increased base  strength and gain from 20 + 2.4 to 21 + 2.6.']
+7.20d,['Increased base armor from -1 to 0.']
+7.20c,"['Level 10 left talent: +200  Flame Guard magical damage absorbed increased to +250.', 'Level 15 right talent: +50  Flame Guard damage per second increased to +60.', 'Increased  Sleight of Fist attack damage bonus against heroes from 35/70/105/140 to 40/80/120/160.', 'Talents:']"
+7.20b,['Increased  Sleight of Fist attack damage bonus against heroes from 30/60/90/120 to 35/70/105/140.']
+7.20,"['Reduced base health regeneration from 2 to 0.5.', 'Reduced base mana regeneration from 0.9 to 0.', ' Searing Chains no longer interrupts the targets.', ' Activate Fire Remnant now also applies its damage while traveling using half the radius, instead of only applying it upon reaching the remnants. [?]']"
+7.18,['Increased  Fire Remnant charge replenish time from 35 to 38.']
+7.15,['Increased base  strength from 19 to 20.']
+7.14,"['Reduced damage interval from 1 to 0.5.', 'Rescaled duration from 1/2/2/3 to 1.5/2/2.5/3', 'Rescaled damage per second from 80/60/120/100 to 60/80/92/100. [?]', ' Searing Chains\nReduced damage interval from 1 to 0.5.\nRescaled duration from 1/2/2/3 to 1.5/2/2.5/3\nRescaled damage per second from 80/60/120/100 to 60/80/92/100. [?]', 'Increased  Flame Guard magical damage barrier from 50/200/350/500 to 80/220/360/500.']"
+7.13b,['Increased  strength gain from 2.1 to 2.4.']
+7.12,['Increased base armor from -2 to -1.']
+7.10,['Increased  Sleight of Fist attack damage bonus against heroes from 25/50/75/100 to 30/60/90/120.']
+7.08,['Increased  Sleight of Fist attack damage bonus against heroes from 20/40/60/80 to 25/50/75/100.']
+7.07c,"['Level 10 left talent: +150  Flame Guard magical damage absorbed increased to +200.', 'Level 10 right talent: +20 attack damage increased to +25.', 'Level 15 right talent: +30  Flame Guard damage per second increased to +50.', 'Talents:']"
+7.07,"['Level 10: +30 attack damage or +8% spell damage amplification', 'Level 15: +6 all stats or +20 movement speed', 'Level 20: +10 armor or +500  Flame Guard magical damage absorbed', 'Level 25: +2s  Searing Chains duration or 20% cooldown reduction', 'Reduced movement speed from 310 to 305.', 'Increased base health regeneration from 0.5 to 2.', 'Increased base mana regeneration from 0.01 to 0.9.', '[U]  Sleight of Fist can no longer be cast during Sleight of Fist.', 'Reworked talents:']"
+7.06c,"['Level 10 left talent: Increased attack damage bonus from 25 to 30.', 'Level 10 right talent: +10% spell damage amplification reduced to +8%.', 'Talents:']"
+7.06,"['Increased  strength gain from 1.8 to 2.1.', 'Reduced base health regeneration from 0.75 to 0.5.']"
+7.05,['Reduced  strength gain from 2 to 1.8.']
+7.03,"['Level 10 left talent: +20 attack damage increased to +25.', 'Level 10 right talent: +12% spell damage amplification reduced to +10%.', 'Level 20 left talent: +8 armor increased to +10.', 'Level 20 right talent changed: 15% cooldown reduction -> +500  Flame Guard magical damage absorbed.', 'Level 25 right talent changed: +500  Flame Guard magical damage absorbed -> 20% cooldown reduction.', 'Talents:']"
+7.02,"['Level 10 right talent: +15% spell damage amplification reduced to +12%.', ' Activate Fire Remnant can no longer be cast while rooted.', 'Talents:']"
+7.00,"['Level 10: +20 attack damage or +15% spell damage amplification', 'Level 15: +6 all stats or +20 movement speed', 'Level 20: +8 armor or 15% cooldown reduction', 'Level 25: +2s  Searing Chains duration or +500  Flame Guard magical damage absorbed', ' Searing Chains now provides True Sight over affected units. [?]', ' Sleight of Fist now places Ember Spirit in front of the target, from the direction of his casting location, rather than randomly around the hero.', 'Increased  Activate Fire Remnant damage from 100/150/200 to 100/200/300.', 'Added talents:']"
+6.87,['Increased attack range from 128 to 150.']
+6.86,[' Fire Remnants no longer provide 400 radius flying vision.']
+6.81,"['Reduced duration from 2/2/3/3 to 1/2/2/3.', 'Rescaled damage per second from 40/60/80/100 to 80/60/120/100. [?]', ' Searing Chains\nReduced duration from 2/2/3/3 to 1/2/2/3.\nRescaled damage per second from 40/60/80/100 to 80/60/120/100. [?]', 'Reduced  Sleight of Fist attack damage bonus against heroes from 30/60/90/120 to 20/40/60/80.']"
+6.79,[' Activate Fire Remnant now destroys trees within a 200 radius around Ember Spirit while moving.']
+6.78,"[""Added to Captain's Mode."", 'Increased  Flame Guard damage per second from 30/35/40/45 to 30/40/50/60.']"
+6.75,"['Reduced base armor from -1 to -2 (total armor is now 1.08).', 'Increased  Fire Remnant recharge time from 30 to 35.', 'Reduced  Activate Fire Remnant damage per spirit from 120/160/200 to 100/150/200.']"
+6.74,"['Reduced base armor from 0 to -1 (total armor is now 2.08).', 'Reduced base  strength from 21 to 19.', 'Reduced  Searing Chains max targets from 3 to 2.', 'Reduced  Flame Guard magical damage barrier from 100/250/400/550 to 50/200/350/500.', 'Reduced  Activate Fire Remnant damage per spirit from 140/180/220 to 120/160/200.']"
+6.73c,"['Reduced  Flame Guard magical damage barrier from 150/300/450/600 to 100/250/400/550.', 'Increased  Activate Fire Remnant mana cost from 100 to 150.']"
+6.73,['Created.']

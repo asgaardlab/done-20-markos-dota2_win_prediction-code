@@ -1,0 +1,65 @@
+7.26c,"['Level 10 right talent changed: 8% evasion -> +5 health regen.', 'Level 20 left talent changed: +16  strength -> -20s  Stampede Cooldown.', 'Level 25 left talent: +1.2s  Hoof Stomp stun duration reduced to +1s.', 'Talents:']"
+7.26b,"['Level 10 left talent: +20 movement speed reduced to +15.', 'Level 10 right talent: 10% evasion reduced to 8%.', 'Level 15 left talent: +50%  Double Edge strength as damage reduced to +40%.', 'Level 15 right talent: +30 base attack damage reduced to +25.', 'Level 20 left talent: +20  strength reduced to +16.', 'Level 20 right talent: +90  Retaliate damage reduced to +70.', 'Level 25 left talent: +1.5s  Hoof Stomp stun duration reduced to +1.2s.', 'Talents:']"
+7.25c,['Reduced  Retaliate attack damage bonus per stack from 6%/8%/10%/12% to 4%/6%/8%/10%.']
+7.23,"['Level 20 right talent: +80  Retaliate damage increased to +90.', 'Increased  Retaliate damage from 16/32/48/64 to 16/36/56/76.', 'Talents:']"
+7.22f,['Reduced  Retaliate attack damage bonus per stack from 6%/9%/12%/15% to 6%/8%/10%/12%.']
+7.22e,['Increased  Hoof Stomp cooldown from 13 on each level to 22/19/16/13.']
+7.22d,"['Reduced  Double Edge base damage from 150/200/250/300 to 120/180/240/300.', 'Increased  Stampede mana cost from 150 on each level to 150/200/250.']"
+7.22,"['Level 20 right talent: +70  Retaliate damage increased to +80.', 'Increased base armor from -1 to 0.', 'Talents:']"
+7.21d,"['Level 20 right talent: +50  Retaliate damage increased to +70.', 'Increased  Double Edge strength as damage from 40%/60%/80%/100% to 60%/80%/100%/120%.', 'Talents:']"
+7.21,"['Increased  strength gain from 4 to 4.6.', ' Retaliate no longer gains charges while it is active.']"
+7.20d,['Increased movement speed from 295 to 300.']
+7.20c,['Increased  Stampede slow duration from 1.8 to 2.3.']
+7.20b,['Increased  Retaliate max stacks from 10 to 13.']
+7.20,"['Retaliate damage: 16/32/48/64', 'Attack damage bonus per stack: 6%/9%/12%/15%', 'Max stacks: 10', 'Active duration: 20', 'Mana cost: 0', 'Cooldown: 55/50/45/40', 'Notes: The counter attacking and stack gaining is passive. The damage bonus only increases base attack damage.', 'Reduced  strength gain from 4.3 to 4.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', 'Reduced  Hoof Stomp damage from 100/150/200/250 to 80/110/140/170.', ' Double Edge\nChanged damage from 175/250/325/400 to 150/200/250/300 + 40%/60%/80%/100% of strength.\nReduced cast time from 0.5 to 0.4.', 'Changed damage from 175/250/325/400 to 150/200/250/300 + 40%/60%/80%/100% of strength.', 'Reduced cast time from 0.5 to 0.4.', 'Replaced  Return with  Retaliate.']"
+7.19,['Increased base  strength from 25 to 27.']
+7.18,['Increased base  strength from 23 to 25.']
+7.16,"['Increased base attack damage from 32-34 to 36-38.', 'Reduced  Hoof Stomp mana cost from 130 on each level to 115/120/125/130.']"
+7.13b,"['Reduced base armor from 0 to -1.', 'Reduced movement speed from 300 to 295.']"
+7.10,"['Level 20 right talent: +250  Double Edge damage increased to +300.', 'Talents:']"
+7.07c,['Reduced  agility gain from 1.6 to 1.']
+7.07,"['Level 10: +2 mana regen or +35 attack damage', 'Level 15: +10% magic resistance or 10% evasion', 'Level 20: +15  strength or +10% spell damage amplification', 'Level 25: +1s  Hoof Stomp stun duration or gain  Return aura [?]', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', "" Aghanim's Scepter upgraded  Stampede no longer destroys trees around allies who are sitting on a tree with  Tree Dance."", 'Reworked talents:']"
+7.06,"['Increased  strength gain from 4 to 4.3.', 'Reduced base health regeneration from 0.25 to 0.']"
+7.04,"[""Reduced  Aghanim's Scepter upgraded  Stampede incoming damage reduction from 50% to 40%.""]"
+7.03,"['Reduced base armor from 1 to 0 (total armor is now 2.14).', ""Reduced  Aghanim's Scepter upgraded  Stampede incoming damage reduction from 60% to 50%.""]"
+7.02,"['Level 10 right talent: +30 attack damage increased to +35.', 'Talents:']"
+7.01,['Reduced  agility gain from 2 to 1.6.']
+7.00,"['Level 10: +2 mana regen or +30 attack damage', 'Level 15: +10% magic resistance or 10% evasion', 'Level 20: +15  strength or +10% spell damage amplification', 'Level 25: +1s  Hoof Stomp stun duration or gain  Return aura [?]', 'Added talents:']"
+6.88f,[' Return no longer works for illusions.']
+6.88b,['Increased  Stampede slow duration from 1.5 to 1.8.']
+6.88,"['Increased  strength gain from 3.8 to 4.', 'Reduced  Double Edge cooldown from 6 to 5.']"
+6.87,"['Increased attack range from 128 to 150.', 'Reduced  Double Edge cooldown from 8 to 6.', 'Increased  Stampede buff duration from 3.75 to 4.']"
+6.86,"[""Increased  Return bonus damage from 30%/42%/54%/66% to 30%/45%/60%/75% of Centaur's  strength.""]"
+6.85,"[""Increased  Return bonus damage from 26%/34%/42%/50% to 30%/42%/54%/66% of Centaur's  strength.""]"
+6.84b,"[""Reduced  Aghanim's Scepter upgraded  Stampede incoming damage reduction from 70% to 60%.""]"
+6.84,"['Return damage is no longer reduced by Damage Block.', 'Now triggers when attacks land rather than when they start.', ' Return\nReturn damage is no longer reduced by Damage Block.\nNow triggers when attacks land rather than when they start.', ""Added  Aghanim's Scepter upgrade for Centaur Warrunner: Causes  Stampede to reduce 70% of all incoming damage for allied units and grants them unobstructed movement. Destroys Trees.""]"
+6.82,['Increased  Stampede mana cost from 80 to 100.']
+6.81,['Increased  Hoof Stomp mana cost from 85/100/115/130 to 130.']
+6.80,['Reduced  Stampede cooldown from 120/90/60 to 90/75/60.']
+6.79,['Increased  Stampede slow duration from 1.25 seconds to 1.5.']
+6.78,"[""Enabled in Captain's Draft.""]"
+6.77,"['Reduced Movement speed from 305 to 300.', ' Double Edge no longer interrupts channeling of the target (0.01 second ministun removed).', ' Stampede now applies a 100% slow instead of a stun.']"
+6.76c,"['Increased cooldown from 65 to 120/90/60.', 'Rescaled duration from 3/4/5 to 3.75.', 'Reworked damage from 100/150/200 + 2x  strength to 0 + 1/2/3x  strength.', 'Increased mana cost from 50 to 80.', 'Reduced collision radius from 120 to 105.', ' Stampede\nIncreased cooldown from 65 to 120/90/60.\nRescaled duration from 3/4/5 to 3.75.\nReworked damage from 100/150/200 + 2x  strength to 0 + 1/2/3x  strength.\nIncreased mana cost from 50 to 80.\nReduced collision radius from 120 to 105.', ""Removed Centaur Warrunner from Captain's Mode.""]"
+6.76,"['Duration: 3/4/5', ""Damage: 100/150/200 + 2x Centaur's  strength"", 'Stun duration: 1.25 seconds', 'Stampede Collision radius: 120', 'Cooldown: 65', 'Mana cost: 50', ""Note: Does not affect spell immune enemies. Affects all units under an allied player's control."", 'Increased  strength gain from 2.6 to 3.8.', ' Great Fortitude replaced with  Stampede']"
+6.75,[' Double Edge now deals its damage in a 190 radius around the target.']
+6.74,"['Increased  Return base damage from 16 to 16/18/20/22.', 'Increased  Great Fortitude  strength bonus from 12/24/36 to 15/30/45.']"
+6.73,['Reduced  Double Edge cooldown from 10 to 8.']
+6.72d,"['Increased collision size from 12 to 24.', 'Increased  Return base damage from 10 to 16.']"
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,"['Increased attack range from 100 to 128.', 'Increased Movement speed from 300 to 305.', 'Reduced  Double Edge cooldown from 12 to 10.', 'Reduced  Hoof Stomp cooldown from 15 to 13.']"
+6.70,['Increased  Hoof Stomp stun duration from 1.25/1.75/2.25/2.75 to 2/2.25/2.5/2.75.']
+6.67,"[""Reworked  Return damage from 12.5/25/37.5/50 to 10 + 26%/34%/42%/50% of Centaur's  strength as damage.""]"
+6.63,"['No longer has a 75/90/105/120 mana cost.', ""Damage to self is no longer lethal (can't be used to deny self anymore)."", "" Double Edge\nNo longer has a 75/90/105/120 mana cost.\nDamage to self is no longer lethal (can't be used to deny self anymore).""]"
+6.61,['Reduced  Double Edge cooldown from 25 to 12.']
+6.48b,"[' Double Edge now deals magical damage to Centaur, instead of pure.']"
+6.42,"['No longer deals damage to melee attackers in 2 instances (it used to deal 5/10/15/20 upon attack start and 10/20/30/40 upon reaching attack point).', 'Reduced damage to melee attackers from 15/30/45/60 to 12.5/15/37.5/50.', 'Increased damage to ranged attackers from 5/10/15/20 to 12.5/15/37.5/50.', ' Return\nNo longer deals damage to melee attackers in 2 instances (it used to deal 5/10/15/20 upon attack start and 10/20/30/40 upon reaching attack point).\nReduced damage to melee attackers from 15/30/45/60 to 12.5/15/37.5/50.\nIncreased damage to ranged attackers from 5/10/15/20 to 12.5/15/37.5/50.']"
+6.35,['Increased base armor from 0 to 1 (total armor is now 3.14).']
+6.34,['Increased  Hoof Stomp radius from 275 to 315.']
+6.27b,['Increased  Hoof Stomp mana cost from 80/100/115/130 to 85/100/115/130.']
+6.21,['Increased  Hoof Stomp cooldown from 10.5 to 15.']
+6.20,"['Rescaled stun duration from 0.75/1.5/2.25/3 to 1.25/1.75/2.25/2.75.', 'Increased damage from 50/100/150/200 to 100/150/200/250.', ' Hoof Stomp\nRescaled stun duration from 0.75/1.5/2.25/3 to 1.25/1.75/2.25/2.75.\nIncreased damage from 50/100/150/200 to 100/150/200/250.']"
+6.00,"['Increased cooldown from 8.5 to 10.5.', 'Reduced radius from 350 to 275.', ' Hoof Stomp\nIncreased cooldown from 8.5 to 10.5.\nReduced radius from 350 to 275.']"
+5.65,"['Changed damage type against ranged units from HP Removal to Physical.', 'Now deals the damage dealt to ranged units to melee units as well.\nThis means it deals 5/10/15/20 damage to melee units upon attack start, and then 10/20/30/40 again upon reaching attack point.', ' Return\nChanged damage type against ranged units from HP Removal to Physical.\nNow deals the damage dealt to ranged units to melee units as well.\nThis means it deals 5/10/15/20 damage to melee units upon attack start, and then 10/20/30/40 again upon reaching attack point.']"
+5.58,"['The Centaur summons a tremendous amount of inner strength and releases a very powerful attack. It can only be done at melee range, and it damages both the Warchief and the enemy unit.', 'Cast range: 150', 'Damage: 175/250/325/400', 'Mana cost: 75/90/105/120', 'Cooldown: 25', 'Notes: Deals Magical damage to the target and Pure to self. The self-damage is lethal. Interrupts the target upon cast.', 'Increased base  agility from 14 to 15.', 'Reduced base  intelligence and gain from 16 + 2 to 15 + 1.7.', 'Reduced base attack damage from 32-42 to 32-34 (total attack damage is now 55-57).', 'Reduced base armor from 1 to 0 (total armor is now 2.14).', 'Replaced  Insult with  Double Edge']"
+5.55,"['Reduced base  strength from 24 to 23.', 'Increased base  agility and gain from 12 + 1.25 to 14 + 2.', 'Increased base  intelligence and gain from 15 1.5 to 16 + 2.', 'Increased base armor from 0 to 1 (total armor is now 2.96).', ' Hoof Stomp\nReduced stun duration from 1/1.75/2.5/3.25 to 0.75/1.5/2.25/3.\nIncreased mana cost from 80/95/105/120 to 80/100/115/130.\nIncreased cooldown from 7 to 8.5.', 'Reduced stun duration from 1/1.75/2.5/3.25 to 0.75/1.5/2.25/3.', 'Increased mana cost from 80/95/105/120 to 80/100/115/130.', 'Increased cooldown from 7 to 8.5.', 'Increased  Insult radius from 200/300/400/600 to 200/350/500/700.']"
+5.53,['Created.']

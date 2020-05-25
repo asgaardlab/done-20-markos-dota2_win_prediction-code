@@ -1,0 +1,32 @@
+7.26c,"['Level 15 left talent: +60  Fade Bolt hero attack damage reduction increased to +80.', 'Talents:']"
+7.26b,"['Level 10 left talent: +60 attack damage reduced to +50.', 'Level 10 right talent: +200 health reduced to +150.', 'Level 15 left talent: +75  Fade Bolt hero attack damage reduction reduced to +60.', 'Level 15 right talent: +125 cast range reduced to +100.', 'Level 20 left talent: +300  Telekinesis throw distance reduced to +240.', 'Level 20 right talent: -5s  Fade Bolt cooldown reduced to -4s.', 'Level 25 left talent: +50% spell damage amplification for  stolen spells reduced to +40%.', 'Level 25 right talent: -15s  Telekinesis cooldown reduced to -12s.', 'Talents:']"
+7.25,['Increased  Fade Bolt mana cost from 120/130/140/150 to 135/140/145/150.']
+7.24,['Reduced  Arcane Supremacy debuff duration amplification from 20%/28%/36%/44% to 16%/24%/32%/40%.']
+7.23,"['Level 15 left talent: +60  Fade Bolt hero attack damage reduction increased to +75.', 'Increased armor from -1 to 0.', 'Talents:']"
+7.22,['Increased base  agility and gain from 19 + 2.1 to 23 + 2.5.']
+7.21,"['Level 15 left talent: +45  Fade Bolt hero attack damage reduction increased to +60.', 'Increased  intelligence gain from 2.7 to 3.1.', 'Reduced  Telekinesis lift duration from 1/1.4/1.8/2.2 to 0.8/1.2/1.6/2.0.', 'Talents:']"
+7.20d,"['Reduced lift duration from 1.1/1.5/1.9/2.3 to  1/1.4/1.8/2.2.', 'Increased cooldown from 28/26/24/22 to 34/30/26/22.', ' Telekinesis\nReduced lift duration from 1.1/1.5/1.9/2.3 to  1/1.4/1.8/2.2.\nIncreased cooldown from 28/26/24/22 to 34/30/26/22.']"
+7.20,"['Increased  strength gain from 1.8 to 2.', 'Increased base  agility and gain from 14 + 1.6 to 19 + 2.1.', 'Increased  intelligence gain from 2.4 to 2.7.', 'Increased base attack damage from 19-29 to 22-32.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', 'Replaced  Null Field with  Arcane Supremacy']"
+7.15,"['Reduced base  intelligence from 27 to 25.', 'Increased base attack damage from 17-27 to 19-29.']"
+7.14,['Rescaled  Telekinesis lift duration from 1.5/1.75/2/2.25 to 1.1/1.5/1.9/2.3.']
+7.13b,['Increased base  strength from 19 to 21.']
+7.12,['Increased  Telekinesis cooldown from 22 on each level to 28/26/24/22.']
+7.10,"['Level 15 left talent: +35  Fade Bolt hero attack damage reduction increased to +45.', 'Talents:']"
+7.07,"['Level 10: +60 attack damage or +60 gold per minute', 'Level 15: +15  intelligence or +150 health', 'Level 20: +8% spell damage amplification or +75 cast range', 'Level 25: +400  Telekinesis throw distance or 20% cooldown reduction', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', "" Telekinesis\nNeutral creeps targeted by Telekinesis now draw aggro and can be auto-attacked again.\nRemoved Telekinesis' cliffing restriction. [?]"", 'Neutral creeps targeted by Telekinesis now draw aggro and can be auto-attacked again.', ""Removed Telekinesis' cliffing restriction. [?]"", ' Null Field\nCan now be toggled between increasing allied magic resistance and reducing enemy magic resistance.\nThe toggle has a 30 seconds cooldown.\nIncreased radius from 900 to 1200.', 'Can now be toggled between increasing allied magic resistance and reducing enemy magic resistance.', 'The toggle has a 30 seconds cooldown.', 'Increased radius from 900 to 1200.', 'Reworked talents:']"
+7.06,"['Increased  strength gain from 1.5 to 1.8.', 'Reduced base health regeneration from 0.25 to 0.']"
+7.03,"['Reduced attack range from 600 to 550.', 'Increased  Telekinesis mana cost from 120 to 125.']"
+7.02,"['Level 10 left talent: +50 attack damage increased to +60.', 'Talents:']"
+7.00,"['Level 10: +50 attack damage or +60 gold per minute', 'Level 15: +15  intelligence or +150 health', 'Level 20: +8% spell damage amplification or +75 cast range', 'Level 25: +400  Telekinesis throw distance or 20% cooldown reduction', 'Increased base damage from 75/150/225/300 to 80/160/240/320.', 'Increased damage reduction per bounce 4% to 8%.', ' Fade Bolt\nIncreased base damage from 75/150/225/300 to 80/160/240/320.\nIncreased damage reduction per bounce 4% to 8%.', 'Added talents:']"
+6.87,"['Increased turn rate from 0.5 to 0.7.', 'Increased  Fade Bolt base damage from 70/140/210/280 to 75/150/225/300.', 'Increased  Null Field magic resistance bonus from 5%/10%/15%/20% to 10%/14%/18%/22%.']"
+6.86,"['Increased hero attack damage reduction from 14/20/26/32 to 20/25/30/35.', 'Increased non-hero attack damage reduction from 7/10/13/16 to 10/13/15/17.', ' Fade Bolt\nIncreased hero attack damage reduction from 14/20/26/32 to 20/25/30/35.\nIncreased non-hero attack damage reduction from 7/10/13/16 to 10/13/15/17.']"
+6.84,[' Null Field now also affects creeps.']
+6.83,"['Reduced  Fade Bolt mana cost from 150 on each level to 120/130/140/150.', 'Stolen spells no longer get refreshed when they get restolen after having a different spell in-between.', ""Reduced  Aghanim's Scepter upgraded  Spell Steal cooldown from 5 to 2.""]"
+6.79,"['Increased  Telekinesis cooldown from 18 to 22.', "" Spell Steal can no longer steal the Aghanim's Scepter upgrade of the enemy if they have a scepter and Rubick doesn't."", ""Added  Aghanim's Scepter upgrade for Rubick: Reduces  Spell Steal cooldown from 20/18/16 to 5 on each level, increases cast range from 1000 to 1400 and makes all stolen spells be considered to have their Aghanim's Scepter upgrade.""]"
+6.76,['Reduced  Fade Bolt damage from 75/150/225/300 to 70/140/210/280.']
+6.75,"['Reduced movement speed from 300 to 290.', 'Reduced  Fade Bolt bounce radius from 500 to 440.']"
+6.74,"[""Added to Captain's Mode.""]"
+6.73,"['Reduced  Telekinesis mana cost from 160 to 120.', ' Fade Bolt\nIncreased mana cost from 90/95/100/105 to 150 on each level.\nIncreased cooldown from 10 on each level to 16/14/12/10.', 'Increased mana cost from 90/95/100/105 to 150 on each level.', 'Increased cooldown from 10 on each level to 16/14/12/10.']"
+6.72d,['Fixed a bug with  Spell Steal projectile reaching Rubick while dead.']
+6.72c,"['Fixed being able to get units stuck with  Telekinesis.', 'Reduced  Fade Bolt bounce radius from 600 to 500.', 'Fixed interaction between  Spell Steal and  Whirling Axes.']"
+6.72b,"['Fixed  Telekinesis interaction with  Elder Dragon Form.', 'Fixed  Cheese and the lowest level of  Black King Bar being stealable.']"
+6.72,['Created.']

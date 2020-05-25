@@ -1,0 +1,58 @@
+7.26b,"['Level 10 left talent: +3 mana regen reduced to +2.5.', 'Level 10 right talent: +20 movement speed reduced to +15.', 'Level 15 left talent: +6  Viscous Nasal Goo max stacks reduced to +5.', 'Level 15 right talent: +250 health reduced to +200.', 'Level 20 left talent: +25  Quill Spray damage per stack reduced to +20.', 'Level 20 right talent: +25 health regen reduced to +20.', 'Level 25 left talent: +30  Warpath attack damage per stack reduced to +24.', 'Level 25 right talent: 15% spell lifesteal reduced to 13%.', 'Talents:\nLevel 10 left talent: +3 mana regen reduced to +2.5.\nLevel 10 right talent: +20 movement speed reduced to +15.\nLevel 15 left talent: +6  Viscous Nasal Goo max stacks reduced to +5.\nLevel 15 right talent: +250 health reduced to +200.\nLevel 20 left talent: +25  Quill Spray damage per stack reduced to +20.\nLevel 20 right talent: +25 health regen reduced to +20.\nLevel 25 left talent: +30  Warpath attack damage per stack reduced to +24.\nLevel 25 right talent: 15% spell lifesteal reduced to 13%.']"
+7.23,['Increased  Viscous Nasal Goo armor reduction per stack from 1.4/1.8/2.2/2.6 to 1.4/1.9/2.4/2.9.']
+7.22c,['Increased base attack damage from 22-32 to 25-35.']
+7.22,"['Increased base armor from 0 to 1.', ""Increased  Aghanim's Scepter upgraded  Viscous Nasal Goo radius from 750 to 825."", 'Increased  Warpath attack damage per stack from 18/24/30 to 22/28/34.']"
+7.21,"['Increased  strength gain from 2.5 to 2.9.', 'Reduced  Viscous Nasal Goo mana cost from 25 on each level to 12/16/20/24.']"
+7.20e,"['Increased  strength gain from 2.2 to 2.5.', ' Bristleback now works against towers as well.']"
+7.20d,['Increased movement speed from 285 to 290.']
+7.20,"['Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', 'Increased  Viscous Nasal Goo armor reduction per stack from 1/1.4/1.8/2.2 to 1.4/1.8/2.2/2.6.', 'Talents:', 'Level 10 left talent: +2 mana regen increased to +3.', 'Level 20 right talent: +20 health regen increased to +25.']"
+7.17,"[' Viscous Nasal Goo now has a base armor reduction of 2, on top of the reduction per stack.']"
+7.16,"['Talents:', 'Level 25 left talent: +20  Warpath attack damage per stack increased to +30.']"
+7.13b,"['Reduced base armor from 1 to 0.', 'Reduced movement speed from 290 to 285.']"
+7.07,"['Level 10: +2 mana regen or +8  strength', 'Level 15: +4  Viscous Nasal Goo max stacks or +225 health', 'Level 20: 10% spell lifesteal or +50 attack speed', 'Level 25: +25  Quill Spray damage per stack or +30 health regen', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06e,['Reduced base attack damage from 26-36 to 22-32 (total damage is now 44-54).']
+7.06d,"['Reduced  strength gain from 2.5 to 2.2.', 'Reduced  Warpath attack damage bonus per stack from 20/25/30 to 18/24/30.']"
+7.06,"['Increased  strength gain from 2.2 to 2.5.', 'Reduced base health regeneration from 0.25 to 0.', 'Talents:', 'Level 20 left talent changed: -40s respawn time -> 10% spell lifesteal.']"
+7.05,"['Increased  Quill Spray radius from 650 to 700.', 'Talents:', 'Level 15 right talent: +200 health increased to +225.', 'Level 25 right talent: +25 health regen increased to +30.', 'Level 25 left talent: +20  Quill Spray damage per stack increased to +25.']"
+7.04,['Increased  Quill Spray radius from 625 to 650.']
+7.03,"['Talents:', 'Level 10 right talent: +7  strength increased to +8.', 'Level 20 right talent: +45 attack speed increased to +50.', 'Level 20 left talent: -35s respawn time increased to -40s.']"
+7.02,"['Increased  Quill Spray damage cap from 450 to 550.', ""Increased  Aghanim's Scepter upgraded  Viscous Nasal Goo radius from 700 to 750."", 'Talents:', 'Level 15 left talent changed: +20 movement speed -> +4  Viscous Nasal Goo max stacks.', 'Level 20 left talent: -30s respawn time increased to -35s.', 'Level 25 left talent changed: +4  Viscous Nasal Goo max stacks -> +20  Quill Spray damage per stack.']"
+7.00,"['Level 10: +2 mana regen or +7  strength', 'Level 15: +20 movement speed or +200 health', 'Level 20: -30s respawn time or +45 attack speed', 'Level 25: +4  Viscous Nasal Goo max stacks or +25 health regen', ' Quill Spray now deals damage as it quickly expands outwards at a speed of 2400, instead of being instant.', 'Increased  Warpath max stacks from 5/6/7 to 5/7/9.', 'Added talents:']"
+6.87,"['Increased attack range from 128 to 150.', ""Increased  Aghanim's Scepter upgraded  Viscous Nasal Goo radius from 600 to 700."", 'Reduced  Bristleback passive  Quill Spray release threshold from 230 to 210.']"
+6.86,"[""Added  Aghanim's Scepter upgrade for Bristleback: Turns  Viscous Nasal Goo into a non-targeted AoE spell, which launches Goo towards all enemies around Bristleback in a 600 radius."", 'Reduced  Viscous Nasal Goo mana cost from 30 to 25.', 'Increased  Quill Spray damage cap from 400 to 450.']"
+6.85,['Reduced  Bristleback passive  Quill Spray release threshold from 250 to 230.']
+6.84c,['Increased Base Attack Time from 1.7 to 1.8']
+6.84,"['Reduced movement speed from 295 to 290.', 'Rescaled  Viscous Nasal Goo armor reduction from 1/1/2/2 to 1/1.4/1.8/2.2.']"
+6.83,['Increased  Quill Spray stack damage from 30 on each level to 30/32/34/36.']
+6.81,"['All stacks now grant the same amount of movement speed, instead of the first stack granting more than the following stacks. [?]', 'Increased movement speed bonus per stack from 1%/2%/3% to 3%/4%/5%. [?]', ' Warpath\nAll stacks now grant the same amount of movement speed, instead of the first stack granting more than the following stacks. [?]\nIncreased movement speed bonus per stack from 1%/2%/3% to 3%/4%/5%. [?]']"
+6.80,['Reduced base attack damage from 30-40 to 26-36 (total damage is now 48-58).']
+6.79,"['Reduced attack point from 0.4 to 0.3.', ' Viscous Nasal Goo\nIs now dispellable.\nReduced cast time from 0.4 to 0.3.', 'Is now dispellable.', 'Reduced cast time from 0.4 to 0.3.', ' Warpath', 'Increased max stacks from 5 on each level to 5/6/7.\nIncreased stack duration from 10 to 14.', 'Increased stack duration from 10 to 14.']"
+6.78,['Increased  Quill Spray stack duration from 10 to 14.']
+6.75,"['Increased  Quill Spray damage cap from 220 to 400.', ' Warpath\nAll stacks now grant the same amount of attack damage, instead of the first stack granting more than the following stacks. [?]\nIncreased attack damage bonus per stack from 10/15/20 to 20/25/30. [?]', 'All stacks now grant the same amount of attack damage, instead of the first stack granting more than the following stacks. [?]', 'Increased attack damage bonus per stack from 10/15/20 to 20/25/30. [?]', ' Bristleback now properly procs passive quills as the threshold is reached, rather than on the first damage instance after it is reached.']"
+6.74,['Increased  Quill Spray damage cap from 180 to 220.']
+6.73,"['Reduced attack point from 0.5 to 0.4.', 'Increased turn rate from 0.6 to 1.0.', 'Reduced  Viscous Nasal Goo cast time from 0.5 to 0.4.']"
+6.72d,"['Increased collision size from 12 to 24.', ' Quill Spray is no longer blocked by Damage Block.']"
+6.72c,"['Reduced collision size from 24 to 12.', 'Fixed  Warpath granting the base damage and the bonus damage on the first stack, instead of the base damage only.']"
+6.72,"['Increased attack range from 100 to 128.', 'Increased  Warpath attack damage bonus per stack from 4/8/12 to 10/15/20.']"
+6.71,"['Increased back damage reduction from 10%/20%/30%/40% to 16%/24%/32%/40%.', 'Increased side damage reduction from 5%/10%/15%/20% to 8%/12%/16%/20%.', ' Bristleback\nIncreased back damage reduction from 10%/20%/30%/40% to 16%/24%/32%/40%.\nIncreased side damage reduction from 5%/10%/15%/20% to 8%/12%/16%/20%.']"
+6.67,['Increased  Warpath max stacks from 4 to 5.']
+6.63,"[' Warpath now grants 10/20/30 base + 4/8/12 attack damage per stack, instead of 30/40/50 base + 5/10/15 attack speed bonus per stack.']"
+6.60,"['Increased  intelligence gain from 2.2 to 2.8.', ' Bristleback\nIncreased side angles from 90° to 110°.\nReduced passive  Quill Spray release threshold from 300 to 250.', 'Increased side angles from 90° to 110°.', 'Reduced passive  Quill Spray release threshold from 300 to 250.']"
+6.55,['Rescaled  Quill Spray mana cost from 30/35/40/45 to 35 on each level.']
+6.52,"['Reduced side angles from 110° to 90°.', 'Increased passive  Quill Spray release threshold from 200 to 300.', ' Bristleback\nReduced side angles from 110° to 90°.\nIncreased passive  Quill Spray release threshold from 200 to 300.']"
+6.49,['Reduced  strength gain from 2.7 to 2.2.']
+6.48b,['Reduced base armor from 2 to 1 (total armor is now 3.38).']
+6.47,['Fixed  Warpath buff carrying over to the next hero in Deathmatch.']
+6.44,"['Reduced movement speed from 300 to 295.', 'Reduced  Quill Spray damage cap from 220 to 180.']"
+6.42,"['Reduced movement speed from 305 to 300.', "" Quill Spray's damage is now capped at 220.""]"
+6.35,['Increased base armor from 1 to 2 (total armor is now 4.38).']
+6.34,"['Reduced radius from 700 to 650.', 'Reduced base damage from 30/50/70/90 to 20/40/60/80.', ' Quill Spray\nReduced radius from 700 to 650.\nReduced base damage from 30/50/70/90 to 20/40/60/80.', ' Bristleback\nReduced back damage reduction from 15%/30%/45%/60% to 10%/20%/30%/40%.\nFixed being unable to reduce damage instances which were enough to kill Bristleback before the reduction.', 'Reduced back damage reduction from 15%/30%/45%/60% to 10%/20%/30%/40%.', 'Fixed being unable to reduce damage instances which were enough to kill Bristleback before the reduction.']"
+6.33,"['Increased  strength gain increased from 2 to 2.7.', 'Increased  intelligence gain increased from 1.4 to 2.2.', 'Increased movement speed from 290 to 305.', 'Increased base attack damage from 21-31 to 26-36 (total damage is now 52-62).', 'Changed  Viscous Nasal Goo legacy hotkey from V to G.', 'Reworked  Quill Spray']"
+6.20,"['Reduced  Viscous Nasal Goo movement speed slow per stack from 4%/8%/12%/16% to 3%/6%/9%/12%.', 'Reduced  Bristleback rear angle from [ Info Needed ] to [ Info Needed ].']"
+6.19,['Increased  Viscous Nasal Goo mana cost from 10/15/20/25 to 30 on each level.']
+6.17,"['Fixed some issues on  Bristleback.', ' Warpath\nIncreased attack speed bonus from 100 to 150.\nIncreased buff duration from 6 to 10.', 'Increased attack speed bonus from 100 to 150.', 'Increased buff duration from 6 to 10.']"
+6.11,['Fixed  Viscous Nasal Goo adding an extra -3 armor to affected targets.']
+6.10,['Fixed memory leak issues on  Viscous Nasal Goo.']
+6.09b,"['Increased base movement speed slow from 5%/10%/15%/20% to 20% on each level.', 'Now reduces an extra 4%/8%/12%/16% movement speed per stack. [?]', ' Viscous Nasal Goo\nIncreased base movement speed slow from 5%/10%/15%/20% to 20% on each level.\nNow reduces an extra 4%/8%/12%/16% movement speed per stack. [?]', ' Warpath can no longer trigger upon attacking allies.']"
+6.08,"['Reduced mana cost from 20/25/30/35 to 10/15/20/25.', 'Increased slow from 4%/8%/12%/16%/ to 5%/10%/15%/20%.', ' Viscous Nasal Goo\nReduced mana cost from 20/25/30/35 to 10/15/20/25.\nIncreased slow from 4%/8%/12%/16%/ to 5%/10%/15%/20%.', ' Warpath now also grants 30% movement speed when proccing.']"
+6.07,['Created.']

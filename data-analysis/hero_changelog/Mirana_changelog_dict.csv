@@ -1,0 +1,54 @@
+7.26c,"['Level 15 right talent: -4s  Sacred Arrow cooldown reduced to -3.5s.', 'Level 25 left talent: -55s  Moonlight Shadow cooldown increased to -60s.', 'Talents:']"
+7.26b,"['Level 10 left talent: +200 health reduced to +150.', 'Level 10 right talent: +15 attack damage reduced to +12.', 'Level 15 left talent: +80  Leap attack speed reduced to +65.', 'Level 15 right talent: -5s  Sacred Arrow cooldown reduced to -4s.', 'Level 20 left talent: 25  Mana Break reduced to 20.', 'Level 20 right talent: +12% spell damage amplification reduced to +10%.', 'Level 25 left talent: -70s  Moonlight Shadow cooldown reduced to -55s.', 'Talents:']"
+7.25,"['Increased base attack damage from 25-30 to 27-32.', 'Increased  Sacred Arrow base damage from 40/120/200/280 to 60/150/240/330.']"
+7.23,['Reduced  Sacred Arrow max stun duration from 5 on each level to 3.5/4/4.5/5.']
+7.22h,"['Reduced  Sacred Arrow projectile speed from 950 to 900.', 'Reduced  Leap attack speed from 60/80/100/120 to 25/50/75/100.']"
+7.22g,"['Reduced base damage from 80/160/240/320 to 40/120/200/280.', 'Increased maximum bonus damage from 140 to 180.', ' Sacred Arrow\nReduced base damage from 80/160/240/320 to 40/120/200/280.\nIncreased maximum bonus damage from 140 to 180.', 'Increased  Moonlight Shadow mana cost from 75 to 125.']"
+7.22e,"['Increased base  intelligence from 19 to 22.', ' Sacred Arrow\nRescaled cooldown from 17 on each level to 18/17/16/15.\nIncreased base damage from 50/140/230/320 to 80/160/240/320.', 'Rescaled cooldown from 17 on each level to 18/17/16/15.', 'Increased base damage from 50/140/230/320 to 80/160/240/320.']"
+7.22d,"['Reduced passive  Starstorm trigger interval from 9 to 8.', 'Reduced  Leap charge replenish time from 60/50/40/30 to 45/40/35/30.']"
+7.22c,"['Increased base mana regeneration from 0 to 0.4.', 'Reduced  Starstorm cast time from 0.5 to 0.4.']"
+7.22,"['Increased attack point from 0.3 to 0.35.', 'Increased base attack speed from 100 to 115.', 'Reduced passive  Starstorm trigger interval from 10 to 9.']"
+7.21c,['Increased base  intelligence and gain from 17 + 1.7 to 19 + 1.9.']
+7.21,"['Increased  agility gain from 3.2 to 3.7.', 'Reduced movement speed from 295 to 290.', 'Increased  Sacred Arrow projectile speed from 857 to 950.']"
+7.20,"['Increased  strength gain from 2.15 to 2.2.', 'Increased  intelligence gain from 1.65 to 1.7.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', "" Leap now locks Mirana's facing angle during the leap, so she cannot turn during it anymore.""]"
+7.19b,"['Level 15 left talent: +100  Leap attack speed reduced to +80.', 'Talents:']"
+7.18,"['Level 10 right talent: +20 attack damage reduced to +15.', 'Level 25 left talent: -70s  Moonlight Shadow cooldown reduced to -70s.', 'Talents:']"
+7.17,"['Level 25 left talent: -80s  Moonlight Shadow cooldown reduced to -75s.', 'Talents:']"
+7.16,"['Increased  Leap attack speed bonus from 40/60/80/100 to 60/80/100/120.', 'Increased  Moonlight Shadow duration from 15 to 18.']"
+7.15,['Increased base  strength from 17 to 18.']
+7.14,"['Increased attack speed bonus from 25/50/75/100 to 40/60/80/100.', 'Increased speed duration from 2 to 2.5.', ' Leap\nIncreased attack speed bonus from 25/50/75/100 to 40/60/80/100.\nIncreased speed duration from 2 to 2.5.', ' Moonlight Shadow now grants 15% movement speed to invisible allies. [?]']"
+7.12,['Rescaled base attack damage from 21-32 to 25-30.']
+7.10,"['Level 25 left talent: -70s  Moonlight Shadow cooldown increased to -80s.', 'Reduced  Starstorm mana cost from 100/120/140/160 to 80/105/130/155.', 'Talents:']"
+7.07b,['Reduced base  agility and gain from 20+3.6 to 18+3.2.']
+7.07,"['Level 10: +150 health or +8  agility', 'Level 15: +30 attack speed or +5% spell damage amplification', 'Level 20: -4s  Sacred Arrow cooldown or +50 attack damage', 'Level 25: +2  Sacred Arrow multishot [?] or +100  Leap attack speed', 'Reduced movement speed from 300 to 295.', 'Increased turn rate from 0.4 to 0.5.', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', ' Leap\nNow has 3 charges with a 60/50/40/30 seconds replenish time, instead of a 30/26/22/18 seconds cooldown.\nThe movement and attack speed bonus upon leaping now only affects the caster, instead of all allies within a 775 radius.\n[U] Can no longer be cast during Leap. [?]\nReduced leap distance from 600/700/800/900 to 550 on each level.\n[U] Reduced leap speed from 1600 to 1300.\nIncreased movement speed bonus from 8%/12%/16%/20% to 8%/16%/24%/32%.\nIncreased attack speed bonus from 16/32/48/64 to 25/50/75/100.\nReduced speed duration from 5 to 2.\nIncreased mana cost from 40/35/30/20 to 40 on each level.', 'Now has 3 charges with a 60/50/40/30 seconds replenish time, instead of a 30/26/22/18 seconds cooldown.', 'The movement and attack speed bonus upon leaping now only affects the caster, instead of all allies within a 775 radius.', '[U] Can no longer be cast during Leap. [?]', 'Reduced leap distance from 600/700/800/900 to 550 on each level.', '[U] Reduced leap speed from 1600 to 1300.', 'Increased movement speed bonus from 8%/12%/16%/20% to 8%/16%/24%/32%.', 'Increased attack speed bonus from 16/32/48/64 to 25/50/75/100.', 'Reduced speed duration from 5 to 2.', 'Increased mana cost from 40/35/30/20 to 40 on each level.', 'Reworked talents:']"
+7.06d,['Increased  agility gain from 3.3 to 3.6.']
+7.06c,['Increased  Leap movement speed bonus from 4%/8%/12%/16% to 8%/12%/16%/20%.']
+7.06,"['Increased  strength gain from 1.85 to 2.15.', 'Reduced base health regeneration from 0.25 to 0.', 'Increased base attack damage from 18-29 to 21-32 (total attack damage is now 41-52).', 'Reduced  Starstorm second meteor impact delay from 1 to 0.8.', ' Leap\nIncreased attack speed bonus from 8/16/24/32 to 16/32/48/64.\nReduced attack speed bonus duration from 10 to 5.', 'Increased attack speed bonus from 8/16/24/32 to 16/32/48/64.', 'Reduced attack speed bonus duration from 10 to 5.']"
+7.02,"['Level 20 left talent changed: +8 armor -> -4s  Sacred Arrow cooldown.', 'Level 20 right talent: +40 attack damage increased to +50.', 'Talents:']"
+7.00,"['Level 10: +150 health or +8  agility', 'Level 15: +30 attack speed or +5% spell damage amplification', 'Level 20: +8 armor or +40 attack damage', 'Level 25: +2  Sacred Arrow multishot [?] or +100  Leap attack speed', ""Added a status buff indicator for  Aghanim's Scepter upgraded  Starstorm's passive cast."", 'Reduced  Sacred Arrow vision radius from 650 to 500.', ' Leap\nNo longer disjoints projectiles.\nCan no longer be cast while rooted.', 'No longer disjoints projectiles.', 'Can no longer be cast while rooted.', 'Added talents:']"
+6.88f,['Increased passive  Starstorm trigger interval from 9 to 10.']
+6.88e,['Increased passive  Starstorm trigger interval from 8 to 9.']
+6.88c,"[""The passive  Starstorm granted by  Aghanim's Scepter no longer releases a secondary meteor on the closest enemy.""]"
+6.87,"["" Leap's speed buff is now dispellable."", ""Added  Aghanim's Scepter upgrade for Mirana: Causes  Starstorm to passively trigger every 8 seconds if enemies are within its range. Does not trigger while Mirana is invisible.""]"
+6.86,"['Increased attack range from 600 to 630.', 'Increased  Starstorm main radius from 625 to 650.', ' Sacred Arrow now instantly kills any non-hero, non-ancient creep it collides with.']"
+6.85,"['Increased  agility gain from 2.75 to 3.3.', 'Increased  Starstorm secondary radius from 325 to 425.']"
+6.84,"['Second meteor now hits the closest enemy within the radius, instead of a random enemy.', 'Increased secondary radius from 175 to 325.', ' Starstorm\nSecond meteor now hits the closest enemy within the radius, instead of a random enemy.\nIncreased secondary radius from 175 to 325.']"
+6.82,"['Reduced speed from 2000 to 1600.', 'Rescaled distance from 630/720/780/870 to 600/700/800/900.', ' Leap:\nReduced speed from 2000 to 1600.\nRescaled distance from 630/720/780/870 to 600/700/800/900.']"
+6.81b,"['Reduced minimum stun duration from 0.5 to 0.01. [?]', 'Reduced base damage from 90/180/270/360 to 50/140/230/320.', 'Increased maximum bonus damage from 100 to 140.', ' Sacred Arrow\nReduced minimum stun duration from 0.5 to 0.01. [?]\nReduced base damage from 90/180/270/360 to 50/140/230/320.\nIncreased maximum bonus damage from 100 to 140.\nOverall, at maximum distance, the damage is still 190/280/370/460 like before.']"
+6.81,['Reduced  Sacred Arrow vision radius from 800 to 650.']
+6.79,"['Reduced night vision from 1200 to 800.', ' Leap\nNow applies the movement and attack speed boost at the cast location upon cast, instead of landing location upon landing.\nIncreased attack speed bonus from 4/8/12/16 to 8/16/24/32.', 'Now applies the movement and attack speed boost at the cast location upon cast, instead of landing location upon landing.', 'Increased attack speed bonus from 4/8/12/16 to 8/16/24/32.']"
+6.78,"[' Starstorm will now choose a new target for the second star if the first died before impact.', ' Sacred Arrow now deals up to 100 extra damage based on distance the arrow traveled.', 'Reduced  Moonlight Shadow cooldown from 160/140/120 to 140/120/100.']"
+6.77,['Increased  Moonlight Shadow duration from 11 to 15.']
+6.76,"['Reduced  Sacred Arrow cooldown from 20 to 17.', 'Reduced  Moonlight Shadow mana cost from 175 to 75.']"
+6.75,"['Increased  Starstorm Secondary target damage from 50% of the original to 75% of the original. [?]', 'Reduced  Sacred Arrow cooldown from 25 to 20.']"
+6.74,['Reduced  Moonlight Shadow cooldown from 180/160/140 to 160/140/120.']
+6.73,['Fixed  Sacred Arrow damaging but not stunning invisible units.']
+6.69,['Reduced  Leap cooldown from 40/35/30/20 to 30/26/22/18.']
+6.68,"['Increased duration from 7/9/11 to 11 on each level.', 'Rescaled cooldown from 160 on each level to 180/160/140.', ' Moonlight Shadow\nIncreased duration from 7/9/11 to 11 on each level.\nRescaled cooldown from 160 on each level to 180/160/140.']"
+6.66,['Reduced  Moonlight Shadow mana cost from 200/250/300 to 175 on each level.']
+6.65,['Increased  Starstorm radius from 600 to 625.']
+6.63,[' Starstorm no longer has a 60% chance to hit enemies within 600-900 range.']
+6.50,"['Increased cooldown from 20 on each level to 40/35/30/20.', 'Reduced mana cost from 60/55/50/45 to 40/35/30/20.', ' Leap\nIncreased cooldown from 20 on each level to 40/35/30/20.\nReduced mana cost from 60/55/50/45 to 40/35/30/20.']"
+6.49,[' Leap no longer turns Mirana invulnerable for the leap duration.']
+6.42,['Reduced  Sacred Arrow collision radius from 130 to 115.']
+6.38,['Created.']

@@ -1,0 +1,51 @@
+7.26c,"['Level 10 right talent: +250 attack range increased to +275.', 'Level 15 left talent: +30  Dual Breath damage per second reduced to +25.', 'Talents:']"
+7.26b,"['Level 10 left talent: 8% spell damage amplification reduced to +6%.', 'Level 10 right talent: +300 attack range reduced to +250.', 'Level 15 left talent: +40  Dual Breath damage per second reduced to +30.', 'Level 15 right talent: +350 health reduced to +275.', 'Level 20 left talent: +400  Dual Breath cast range/distance reduced to +325.', 'Level 20 right talent: +60  Liquid Fire attack speed slow reduced to +50.', 'Level 25 left talent: +1.25s  Ice Path duration reduced to +1s.', 'Talents:']"
+7.24,"['Level 20 left talent changed: +150 gold per minute -> +400  Dual Breath cast range/distance.', ' Dual Breath now deals its first tick of damage immediately as the fire debuff is placed, instead of 0.5 seconds after.', 'Talents:']"
+7.23e,"['Level 15 right talent changed: +35% experience gain -> +350 health.', 'Talents:']"
+7.23c,"['Level 15 right talent: +40% experience gain reduced to +35%.', 'Talents:']"
+7.23,['Increased  strength gain from 2.8 to 3.']
+7.22,"[' Liquid Fire now applies its effects around the target even when it dies before impact, or when the attack gets evaded or disjointed.']"
+7.21,"['Level 10 right talent changed: +30% experience gain -> +300 attack range.', 'Level 15 right talent changed: +300 attack range -> +40% experience gain.', 'Increased  intelligence gain from 2.8 to 3.2.', 'Talents:']"
+7.20,"['Increased  strength gain from 2.6 to 2.8.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', ' Macropyre now deals damage via a debuff which it places on enemies. The debuff lingers for 2 seconds after leaving the area.']"
+7.15,"['Reduced base  intelligence from 28 to 26.', 'Increased base attack damage from 25-33 to 27-35.']"
+7.13b,['Increased base  strength from 25 to 27.']
+7.10,"['Level 10 right talent: +25% experience gain increased to +30%.', 'Level 15 right talent: +250 attack range increased to +300.', 'Talents:']"
+7.08,['Reduced attack backswing from 0.5 to 0.3.']
+7.07,"['Level 10: +8% spell damage amplification or +25% experience gain', 'Level 15: +35  Dual Breath damage per second or +125 cast range', 'Level 20: +150 gold per minute or +400 attack range', 'Level 25: +1.25s  Ice Path duration or  Macropyre deals pure damage and pierces spell immunity', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reduced  Dual Breath cast time from 0.65 to 0.55.', 'Reduced  Macropyre cast time from 0.65 to 0.55.', 'Reworked talents:']"
+7.06,"['Level 25 right talent changed: -50s respawn time ->  Macropyre deals pure damage and pierces spell immunity.', 'Increased  strength gain from 2.3 to 2.6.', 'Reduced base health regeneration from 0.25 to 0.', ' Dual Breath\nIncreased starting radius from 200 to 225.\nIncreased end radius from 250 to 275.', 'Increased starting radius from 200 to 225.', 'Increased end radius from 250 to 275.', 'Talents:']"
+7.03,"['Level 10 right talent: +20% experience gain increased to +25%.', 'Level 15 left talent: +25  Dual Breath damage per second increased to +35.', 'Talents:']"
+7.02,"['Level 10 right talent: +15% experience gain increased to +20%.', 'Level 15 left talent changed: +250 health -> +25  Dual Breath damage per second.', 'Talents:']"
+7.00,"['Level 10: +8% spell damage amplification or +15% experience gain', 'Level 15: +250 health or +125 cast range', 'Level 20: +150 gold per minute or +400 attack range', 'Level 25: +1.25s  Ice Path duration or -50s respawn time', 'Is no longer a unique attack modifier.', 'Increased attack speed slow from 20/30/40/50 to 30/40/50/60.', ' Liquid Fire\nIs no longer a unique attack modifier.\nIncreased attack speed slow from 20/30/40/50 to 30/40/50/60.', 'Increased  Macropyre radius from 240 to 260.', 'Added talents:']"
+6.88,['Increased  Ice Path stun duration from 1/1.4/1.8/2.2 to 1/1.5/2/2.5.']
+6.87,"['No longer has unit targeting.', 'Increased cast range and max distance from 900 to 1400.', ""Increased  Aghanim's Scepter duration from 20 to 30."", "" Macropyre\nNo longer has unit targeting.\nIncreased cast range and max distance from 900 to 1400.\nIncreased  Aghanim's Scepter duration from 20 to 30.""]"
+6.86,['Increased base attack damage from 18-26 to 25-33 (total attack damage from 46-54 to 53‒61).']
+6.85b,['Increased  Dual Breath cast range from 550 to 750. [?]']
+6.85,"[""Increased fiery wave travel speed from 850 to 1050, to match the icy wave's speed."", 'Increased damage per second from 16/26/56/76 to 20/40/60/80.', "" Dual Breath\nIncreased fiery wave travel speed from 850 to 1050, to match the icy wave's speed.\nIncreased damage per second from 16/26/56/76 to 20/40/60/80."", 'Increased  Ice Path cast range and max distance from 1100 to 1200.']"
+6.84,"['Increased base  strength from 24 to 25.', ' Macropyre\nIncreased damage radius from 225 to 240.\nIncreased duration from 7 ( 14) to 10 ( 20).', 'Increased damage radius from 225 to 240.', 'Increased duration from 7 ( 14) to 10 ( 20).']"
+6.83,['Reduced  Liquid Fire damage per second from 15/20/25/30 to 12/16/20/24.']
+6.82,"['Increased movement speed slow from 30% on each level to 28%/32%/36%/40%.', 'Increased attack speed slow from 30 on each level to 28/32/36/40.', ' Dual Breath\nIncreased movement speed slow from 30% on each level to 28%/32%/36%/40%.\nIncreased attack speed slow from 30 on each level to 28/32/36/40.']"
+6.81,"['Increased cast range from 500 to 550.', 'Increased travel distance from 700 to 750.', ' Dual Breath\nIncreased cast range from 500 to 550.\nIncreased travel distance from 700 to 750.', 'Reduced  Liquid Fire cooldown from 20/15/10/5 to 20/15/10/4.', "" Aghanim's Scepter upgraded  Macropyre\nIncreased path distance from 1350 to 1800.\nNow increases duration from 7 to 14."", 'Increased path distance from 1350 to 1800.', 'Now increases duration from 7 to 14.']"
+6.80,"['Removed the 35/70/105/140 impact damage of both breaths.', 'Increased damage per second from 5/10/15/20 to 16/36/56/76.', 'Reduced damage interval from 1 to 0.5 (dealing 8/18/28/38 damage per interval).', 'Increased attack speed slow from 20 to 30.', 'Increased slow and damage per second duration from 4 to 5.', ' Dual Breath\nRemoved the 35/70/105/140 impact damage of both breaths.\nIncreased damage per second from 5/10/15/20 to 16/36/56/76.\nReduced damage interval from 1 to 0.5 (dealing 8/18/28/38 damage per interval).\nIncreased attack speed slow from 20 to 30.\nIncreased slow and damage per second duration from 4 to 5.', 'Rescaled  Ice Path damage from 25/50/75/100 to 50 on each level.', 'Increased  Liquid Fire damage per second from 10/15/20/25 to 15/20/25/30.']"
+6.79,"[' Liquid Fire is now an active attack modifier, instead of a passive one (same cooldown, still no mana cost).']"
+6.77,['Reduced  Ice Path damage from 100 on each level to 25/50/75/100.']
+6.76,"['Increased effect delay from 0.4 to 0.5.', 'Increased mana cost from 75 to 90.', ' Ice Path\nIncreased effect delay from 0.4 to 0.5.\nIncreased mana cost from 75 to 90.']"
+6.75,['Reworked  Ice Path']
+6.73,"['Reduced  Ice Path cooldown from 16/15/14/13 to 12/11/10/9.', 'Increased  Macropyre duration from 5 to 7.']"
+6.72c,"['Reduced damage interval from 1 to 0.5.', 'Reduced damage per interval from 100/140/180  125/175/225) to 50/70/90 ( 62.5/87.5/112.5).', ' Macropyre\nReduced damage interval from 1 to 0.5.\nReduced damage per interval from 100/140/180  125/175/225) to 50/70/90 ( 62.5/87.5/112.5).\nTotal damage is still the same, just in smoother intervals.']"
+6.72,['Increased  Macropyre path width from 200 to 225.']
+6.71,['Increased  Macropyre damage per second from 75/125/175 to 100/140/180.']
+6.70,['Increased base attack damage from 14-26 to 18-26 (total attack damage is now 46-54).']
+6.69,"[' Liquid Fire now affects siege creeps.', "" Aghanim's Scepter now also increases  Macropyre path distance from 900 to 1350.""]"
+6.68,['Increased  Macropyre path distance from 600/750/900 to 900 on each level.']
+6.67,['Increased base armor from -1 to 1 (total armor is now 2.4).']
+6.65,"['Increased stun duration from 0.8/1.2/1.6/2 to 1/1.33/1.66/2.', 'Reduced cooldown from 16 on each level to 16/15/14/13.', ' Ice Path\nIncreased stun duration from 0.8/1.2/1.6/2 to 1/1.33/1.66/2.\nReduced cooldown from 16 on each level to 16/15/14/13.', 'Increased  Macropyre travel speed from 600 ( 1500) to 1500 ( 3000).']"
+6.60,"['Increased  Ice Path stun duration from 0.5/1/1.5/2 to 0.8/1.2/1.6/2.', 'Replaced  Auto Fire with  Liquid Fire']"
+6.50,"['Increased radius from 100 to 175.', 'Increased duration from 5 to 8.', ' Auto Fire\nIncreased radius from 100 to 175.\nIncreased duration from 5 to 8.', 'Reduced  Macropyre cooldown from 60/75/90 to 60 on each level.']"
+6.41,['Reduced base attack damage from 24-36 to 14-26 (total attack damage is now 42-54).']
+6.40,['Reduced movement speed from 305 to 290.']
+6.38,['Increased  Dual Breath mana cost from 120/130/140/150 to 135/140/155/170.']
+6.35,['Improved Attack Animation from 0.70/0.65 to 0.4/0.5.']
+6.34,"['Increased path width from 100 to 150.', 'Reduced path delay from 1 to 0.5.', ' Ice Path\nIncreased path width from 100 to 150.\nReduced path delay from 1 to 0.5.', 'Increased  Macropyre damage per second from 75/100/125 to 75/125/175.']"
+6.33,"['Fixed a minor casting bug with  Dual Breath.', 'Increased  Macropyre travel speed from 300 to 600.']"
+6.31,"['Reduced travel distance from 900 to 700.', 'Increased mana cost from 120 on each level to 120/130/140/150.', ' Dual Breath\nReduced travel distance from 900 to 700.\nIncreased mana cost from 120 on each level to 120/130/140/150.', ""Reduced the Dual Breath's range to match the animation, mana cost increased.""]"
+6.30,['Created.']

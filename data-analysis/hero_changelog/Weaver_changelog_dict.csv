@@ -1,0 +1,69 @@
+7.26b,"['Level 10 left talent: +8  agility reduced to +6.', 'Level 10 right talent: +75  Shukuchi damage reduced to +60.', 'Level 15 left talent: +14  strength reduced to +11.', 'Level 15 right talent: 20  Mana Break reduced to 15.', 'Level 20 right talent: +0.5  The Swarm armor reduction per tick reduced to +0.4.', 'Level 25 right talent: +200  Shukuchi movement speed reduced to +160.', 'Talents:']"
+7.25b,"['Reduced  agility gain from 3.6 to 3.1.', 'Reduced  Shukuchi movement bonus from 220/240/260/280 to 200/220/240/260.']"
+7.25,"['Increased base  intelligence from 13 to 16.', 'Increased  Intelligence gain from 1.8 to 2.', 'Increased base mana regeneration from 0.4 to 0.75.', 'Increased  Shukuchi movement bonus from 225 on each level to 220/240/260/280.']"
+7.24,['Reduced  The Swarm damage interval from 1.25/1.1/0.95/0.8 to 1.15/1.0/0.85/0.7.']
+7.23e,"['Level 10 left talent changed: +20% experience gain -> +8  agility.', 'Talents:']"
+7.23c,"['Level 10 left talent: +35% experience gain reduced to +20%.', 'Talents:']"
+7.23,"['Now grants a 225 movement speed bonus, instead of setting it to a minimum of 550. [?]', 'Now removes the movement speed limit for the unit while active.', ' Shukuchi\nNow grants a 225 movement speed bonus, instead of setting it to a minimum of 550. [?]\nNow removes the movement speed limit for the unit while active.']"
+7.22f,['Increased base armor from -1 to 0.']
+7.22e,['Increased  strength gain from 1.8 to 2.']
+7.22c,['Increased  Geminate Attack bonus damage from 10/20/30/40 to 10/25/40/55.']
+7.22,"['Increased base mana regeneration from 0 to 0.4.', 'Increased base attack speed from 100 to 120.']"
+7.21b,[' Geminate Attack now deals 10/20/30/40 bonus physical damage on the second hit.']
+7.21,"['Level 10 right talent changed: +7  strength -> +75  Shukuchi damage.', 'Level 15 left talent changed: +75  Shukuchi damage -> +14  strength.', 'Increased  agility gain from 3.1 to 3.6.', 'Talents:']"
+7.20,"['Reduced base health regeneration from 2.5 to 1.', 'Reduced base mana regeneration from 0.9 to 0.', ' The Swarm\nNo longer pierces spell immunity.\n Beetles now have a higher targeting priority for auto-attacks.', 'No longer pierces spell immunity.', ' Beetles now have a higher targeting priority for auto-attacks.', 'Increased  Geminate Attack cooldown from 7/6/5/3 to 9/7/5/3.']"
+7.19d,['Increased  Shukuchi mana cost from 60 to 70.']
+7.19c,"['Level 10 right talent changed: 20  Mana Break [?] -> +7  strength.', 'Level 15 right talent changed: +12  strength -> 20  Mana Break [?].', 'Reduced base  intelligence from 15 to 13.', 'Increased  The Swarm cooldown from 35/30/25/20 to 44/36/28/20.', 'Increased  Time Lapse cooldown from 60/50/40 to 70/55/40.', 'Talents:']"
+7.19b,['Increased  The Swarm mana cost from 70/80/90/100 to 110 on each level.']
+7.19,['Reduced movement speed from 280 to 275.']
+7.18,"['Increased  agility gain from 2.8 to 3.1.', 'Increased  Shukuchi damage from 80/110/140/170 to 100/125/150/175.']"
+7.16,['Increased  Shukuchi damage from 75/100/125/150 to 80/110/140/170.']
+7.15,['Increased base  strength from 15 to 16.']
+7.14,"['Increased base health regeneration from 1.5 to 2.5.', 'Increased  The Swarm damage from 14/16/18/20 to 18/20/22/24.']"
+7.10,"['Level 10 left talent: +25% experience gain increased to +35%.', 'Talents:']"
+7.07,"['Level 10: +30  Shukuchi damage or +6  strength', 'Level 15: +7 all stats or +25 attack damage', 'Level 20: +15  agility or +200 health', 'Level 25: +200  Shukuchi movement speed or +35% magic resistance', 'Reduced movement speed from 285 to 280.', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06,"['Increased  strength gain from 1.5 to 1.8.', 'Reduced base health regeneration from 0.25 to 0.']"
+7.03,"['Level 25 right talent: +25% magic resistance increased to +30%.', 'Reduced base attack damage from 39-49 to 36-46 (total attack damage is now 50-60).', 'Reduced movement speed from 290 to 285.', 'Talents:']"
+7.02,"['Level 25 right talent: +20% magic resistance increased to +25%.', 'Reduced base attack damage from 41-51 to 39-49 (total attack damage is now 53-63).', 'Reduced  The Swarm damage from 20 on each level to 14/16/18/20.', 'Talents:']"
+7.01,['Increased  Geminate Attack cooldown from 6/5/4/3 to 7/6/5/3.']
+7.00,"['Level 10: +30  Shukuchi damage or +6  strength', 'Level 15: +7 all stats or +25 attack damage', 'Level 20: +15  agility or +200 health', 'Level 25: +200  Shukuchi movement speed or +20% magic resistance', 'Increased  Agility gain from 2.5 to 2.8.', 'Added talents:']"
+6.88,['Increased base attack damage from 39-49 to 41-51 (total attack damage is now 55-65).']
+6.87,"[' Shukuchi now applies its phase effect immediately, instead of after the fade time.', ' Time Lapse now disjoints projectiles for Weaver or the targeted ally.', ""Reduced  Aghanim's Scepter upgraded  Time Lapse cooldown from 20 to 16.""]"
+6.86,"['Increased base attack damage from 36-46 to 39-49 (total attack damage is now 53-63).', 'Reduced  The Swarm damage interval from 1.4/1.25/1.1/0.95 to 1.25/1.1/0.95/0.8.']"
+6.85,"['Reduced mana cost from 100 to 70/80/90/100.', 'Reduced cooldown from 36/33/30/27 to 35/30/25/20.', ' The Swarm\nReduced mana cost from 100 to 70/80/90/100.\nReduced cooldown from 36/33/30/27 to 35/30/25/20.']"
+6.84,"['no longer ignores ancient creeps, Roshan and creep-heroes.', 'Rescaled damage over time from 15/20/25/30 to 20 on each level.', 'Rescaled damage interval from 1.35 on each level to 1.4/1.25/1.1/0.95.', 'Rescaled duration from 14/16/18/20 to 16 on each level.', ' The Swarm\nno longer ignores ancient creeps, Roshan and creep-heroes.\nRescaled damage over time from 15/20/25/30 to 20 on each level.\nRescaled damage interval from 1.35 on each level to 1.4/1.25/1.1/0.95.\nRescaled duration from 14/16/18/20 to 16 on each level.', ' Geminate Attack\nNo longer has a max distance limit of 1300 range.\nNow launches the second attack 0.25 seconds after the first attack, instead of only when the first attack hits the target.', 'No longer has a max distance limit of 1300 range.', 'Now launches the second attack 0.25 seconds after the first attack, instead of only when the first attack hits the target.', ""Added  Aghanim's Scepter upgrade for Weaver: Reduces  Time Lapse cooldown from 60/50/40 to 20 on each level and allows targeting allied heroes with it.""]"
+6.82,"['Increased  The Swarm duration from 8/12/16/20 to 14/16/18/20.', ' Shukuchi\nNo longer ignore invisible units\nReduced damage from 90/110/130/150 to 75/100/125/150.', 'No longer ignore invisible units', 'Reduced damage from 90/110/130/150 to 75/100/125/150.', ' Geminate Attack\nCan now proc item effects just like regular attacks.\nIncreased cooldown from 6/5/4/2.5 to 6/5/4/3.', 'Can now proc item effects just like regular attacks.', 'Increased cooldown from 6/5/4/2.5 to 6/5/4/3.']"
+6.79,['Increased Base Attack Time from 1.7 to 1.8.']
+6.77,['Increased  Shukuchi damage from 90/100/110/120 to 90/110/130/150.']
+6.76,['Increased base attack damage from 27-37 to 32-42 (total attack damage is now 50-60).']
+6.75,['Reduced  The Swarm attack interval from 1.5 to 1.35.']
+6.72,"['Reduced base armor from 0 to -1 (total armor is now 0.96).', 'Reduced  The Swarm damage from 21/24/27/30 to 15/20/25/30.']"
+6.70,"[""Added to Captain's Mode."", 'Increased  The Swarm vision from 250 to 321.']"
+6.68,"['Reduced vision from 500 to 250.', 'Increased mana cost from 75 to 100.', ' The Swarm\nReduced vision from 500 to 250.\nIncreased mana cost from 75 to 100.']"
+6.67c,"['Non-hero units now require 8 hits to destroy  The Swarm beetles, instead of 4 (heroes still need 4).']"
+6.67,"[""Removed from Captain's Mode."", 'Replaced Urna Swarm with  The Swarm']"
+6.64,"['When having multiple Scarabs selected, casting Infestation now causes the highlighted Scarab to use it, instead of all selected Scarabs simultaneously.']"
+6.63,"['Increased base attack damage from 27-37 to 32-42 (total attack damage is now 46-56).', ' Geminate Attack\nNow works against buildings.\nIncreased max distance from 900 to 1300.', 'Now works against buildings.', 'Increased max distance from 900 to 1300.']"
+6.61,"['Corpse search radius: 600', 'Max allows Skarabs: 2/4/6/8', 'Mana cost: 10', 'Cooldown: 14/11/8/5', ""Notes: Raises 1 scarab per cast. Skarabs lasts until killed, have 200 health, 6 armor, 450 movement speed, 1400/1400 vision, can't attack, are spell immune and have the Infestation and Burrow abilities."", 'Watchers replaced with Urna Swarm.', 'Urna Swarm:']"
+6.55,['Reduced Watchers vision from 1800/1800 to 1400/1400.']
+6.52,['Reduced  Time Lapse cooldown from 120/90/60 to 60/50/40.']
+6.50,['Reduced  Geminate Attack cooldown fron 7/6/5/3.5 to 6/5/4/2.5.']
+6.42,"['Are no longer spell immune.', 'Reduced gold bounty from 20-25 to 10-13', 'Watchers\nAre no longer spell immune.\nReduced gold bounty from 20-25 to 10-13']"
+6.41,['Watchers can no longer block neutral creeps from spawning.']
+6.40,"['Reduced mana cost from 25 to 10.', 'Reduced cooldown from 30/25/20/15 to 20/15/10/5.', 'Watchers\nReduced mana cost from 25 to 10.\nReduced cooldown from 30/25/20/15 to 20/15/10/5.']"
+6.39,"['Increased  Shukuchi damage from 90 on each level to 90/100/110/120.', 'Reduced  Geminate Attack cooldown from 7/6/5/4 to 7/6/5/3.5.', 'Reduced  Time Lapse mana cost from 150 on each level to 150/75/0.']"
+6.38,"['Increased attack range from 400 to 425.', 'Increased base armor from -1 to 0 (total armor is now 1.96).', 'Watchers\nIncreased max allowed Watchers from 1/2/4/6 to 2/4/6/8.\nReduced mana cost from 50 to 25.\nReduced cooldown from 60 on each level to 30/25/20/15.', 'Increased max allowed Watchers from 1/2/4/6 to 2/4/6/8.', 'Reduced mana cost from 50 to 25.', 'Reduced cooldown from 60 on each level to 30/25/20/15.']"
+6.35,['Increased base attack damage from 17-27 to 27-37 (total attack damage is now 41-51).']
+6.34,"['Increased max allowed Watchers from 1/2/3/4 to 1/2/4/6.', 'Reduced cooldown from 90 to 60.', 'Watchers\nIncreased max allowed Watchers from 1/2/3/4 to 1/2/4/6.\nReduced cooldown from 90 to 60.']"
+6.33b,"['Fixed some spell interactions with Watchers.', 'Fixed  Time Lapse not giving Weaver back its own mana cost after cast.']"
+6.33,"['Increased corpse search radius from 300 to 600.', 'Increased movement speed from 350 to 522.', 'Watchers\nIncreased corpse search radius from 300 to 600.\nIncreased movement speed from 350 to 522.']"
+6.32,"['No longer dies whenever Weaver dies.', 'Increased vision from 1800/800 to 1800/1800.', 'Watchers\nNo longer dies whenever Weaver dies.\nIncreased vision from 1800/800 to 1800/1800.']"
+6.28,"['Increased base  Strength from 14 to 15.', 'Watchers\nReduced health from 75 to 1.\nAre now spell immune.', 'Reduced health from 75 to 1.', 'Are now spell immune.']"
+6.22,['Reduced base  intelligence from 18 to 15.']
+6.20,['Increased  Geminate Attack cooldown from 6/5/4/3 to 7/6/5/4.']
+6.17,['Reduced base  Agility from 18 to 14.']
+6.13,['Reduced  Strength gain from 1.9 to 1.5.']
+6.07,['Fixed some memory leak issues with  Time Lapse.']
+6.03,"['Increased max allowed Watchers from 1/1/2/2 to 1/2/3/4.', 'Increased Watcher duration from 30/60/60/infinite to infinite on each level.', 'Increased cooldown from 30 to 90.', 'Watchers\nIncreased max allowed Watchers from 1/1/2/2 to 1/2/3/4.\nIncreased Watcher duration from 30/60/60/infinite to infinite on each level.\nIncreased cooldown from 30 to 90.']"
+6.02,"['Reduced  Strength gain from 2.5 to 1.9.', ' Shukuchi\nRescaled damage from 25/50/75/100 to 90 on each level.\nIncreased cooldown from 9 on each level to 13/11/9/7.', 'Rescaled damage from 25/50/75/100 to 90 on each level.', 'Increased cooldown from 9 on each level to 13/11/9/7.', 'Increased  Geminate Attack max proc distance from 450 to 900.', 'Fixed  Time Lapse not going on cooldown when used.']"
+6.00,['Created']

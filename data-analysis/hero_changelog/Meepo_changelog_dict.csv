@@ -1,0 +1,55 @@
+7.26b,"['Level 10 left talent: +20 attack damage reduced to +15.', 'Level 10 right talent: +8  strength reduced to +6.', 'Level 15 left talent: +40  Poof damage reduced to +30.', 'Level 15 right talent: 20% evasion reduced to 15%.', 'Level 20 left talent: 10% lifesteal reduced to 8%.', 'Level 20 right talent: -4s  Earthbind cooldown reduced to -3s.', 'Level 25 left talent: -5s  Poof cooldown reduced to -4s.', 'Level 25 right talent: +400 health reduced to +325.', 'Talents:']"
+7.25c,"['Reduced base  agility from 24 to 17.', 'Increased  Divided We Stand level requirement from 3/10/18 to 4/11/18.']"
+7.25a,"['Level 10 right talent: +10  strength reduced to +8.', 'Reduced  Divided We Stand clone experience gain from 40% to 30%.', 'Talents:']"
+7.23,"['Level 10 left talent: +15 attack damage increased to +20.', 'Level 15 left talent: +30  Poof damage increased to +40.', 'Talents:']"
+7.22,"['Level 10 right talent: +7  strength increased to +10.', 'Level 10 left talent: +10 attack damage increased to +15.', 'Level 15 right talent: 15% evasion increased to 20%.', 'Increased base attack damage from 20-26 to 22-28.', 'Talents:']"
+7.21c,"['Increased  strength gain from 1.6 to 1.8.', 'Increased base  agility and gain from 23 + 1.6 to 24 + 1.8.']"
+7.21,"['Increased  agility gain from 1.4 to 1.6.', 'Increased movement speed from 320 to 330.']"
+7.20c,"['Level 15 left talent: +40  Poof damage reduced to +30.', 'Reduced  Divided We Stand clone experience gain from 50% to 40%.', 'Talents:']"
+7.20b,"['Level 10 left talent: +15 attack damage reduced to +10.', 'Level 15 right talent changed: 10% lifesteal -> 15% evasion.', 'Level 20 left talent  changed: 15% evasion -> 10% lifesteal.', 'Level 25 right talent: +600 health reduced to +400.', 'Reduced  agility gain from 2.2 to 1.4.', 'Reduced  Poof damage from 80/100/120/140 to 70/90/110/130.', 'Reduced  Ransack hero health steal from 8/12/16/20 to 6/10/14/18.', 'Talents:']"
+7.20,"['Increased movement speed from 310 to 320.', 'Reduced base health regeneration from 1.75 to 0.25.', 'Reduced base mana regeneration from 0.9 to 0.', 'Replaced  Geostrike with  Ransack']"
+7.18,['Increased base armor from 1 to 3.']
+7.17,['Increased base armor from -1 to 1.']
+7.16,"['Increased base health regeneration from 1.5 to 1.75.', ' Earthbind\nNow fully affects invisible enemies.\nIncreased projectile speed from 857 to 900.', 'Now fully affects invisible enemies.', 'Increased projectile speed from 857 to 900.']"
+7.15,['Increased base  strength from 23 to 24.']
+7.07c,"['Level 10 right talent changed: 10% lifesteal -> +7  strength.', 'Level 10 left talent changed: +30 movement speed -> +20 attack damage.', 'Level 15 right talent changed: + 10  strength -> 10% lifesteal.', 'Level 20 right talent changed: +40 attack damage -> -4s  Earthbind cooldown.', 'Level 25 left talent: -4s  Poof cooldown increased to -5s.', 'Level 25 right talent: +700 health reduced to +600.', 'Reduced magic resistance from 35% to 25%.', 'Talents:']"
+7.07,"['Level 10: +15 attack damage or +4 armor', 'Level 15: +25 movement speed or 15% lifesteal', 'Level 20: +25 attack speed or 10% evasion', 'Level 25: -3s  Poof cooldown or +400 health', 'Reduced movement speed from 315 to 310.', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06,"['Increased  strength gain from 1.3 to 1.6.', 'Reduced base health regeneration from 0.25 to 0.']"
+7.02,"['Level 15 left talent: +20 movement speed increased to +25.', 'Reduced base armor from 1 to -1 (total armor is now 2.29).', 'Talents:']"
+7.01,[' Divided We Stand clones are now allowed to pickup runes.']
+7.00,"['Level 10: +15 attack damage or +4 armor', 'Level 15: +20 movement speed or 15% lifesteal', 'Level 20: +25 attack speed or 10% evasion', 'Level 25: -3s  Poof cooldown or +400 health', 'Reduced  strength gain from 1.6 to 1.3.', ' Earthbind no longer interrupts channeling spells. [?]', ' Poof can no longer be cast while rooted.', "" Divided We Stand\nIncreased level requirement from 3/10/17 to 3/10/18.\nNow always fully copies the main Meepo's attributes. [?]"", 'Increased level requirement from 3/10/17 to 3/10/18.', ""Now always fully copies the main Meepo's attributes. [?]"", 'Added talents:']"
+6.88b,['Increased  Agility gain from 1.9 to 2.2.']
+6.88,['Increased  Geostrike damage per second from 8/16/24/32 to 10/20/30/40.']
+6.87,"['Increased base attack damage from 16-22 to 20-26.', 'Increased attack range from 128 to 150.']"
+6.84,"[' Earthbind and  Poof no longer ignores ancient creeps, Roshan and creep-heroes.', 'Increased  Geostrike damage per second from 7/14/21/28 to 8/16/24/32.', ' Divided We Stand no longer reduces respawn time by 20%.']"
+6.83,['Rescaled  Divided We Stand respawn time reduction from 10%/20%/30% to 20% on each level.']
+6.82,"[""Meepo clones' boot item slots now match whichever slot Meepo Prime has his boots in, instead of always being in the upper left slot.""]"
+6.81,['Increased base movement speed from 305 to 315.']
+6.80,"['Reduced level requirement from 4/11/18 to 3/10/17.', ""Now reduces Meepo's respawn time by 10%/20%/30%."", "" Divided We Stand\nReduced level requirement from 4/11/18 to 3/10/17.\nNow reduces Meepo's respawn time by 10%/20%/30%.""]"
+6.79,"['Reduced base armor from 2 to 1 (total armor is now 4.29).', 'Improved turn rate from 0.5 to 0.65.', 'Reduced night vision from 1800 to 800.', 'Reduced  Earthbind cast point from 0.5 to 0.3.', ' Divided We Stand\nRescaled level requirement from 6/11/16 to 4/11/18.\nReduced clone stats sharing from 30% to 0% (still 100% when upgraded)', 'Rescaled level requirement from 6/11/16 to 4/11/18.', 'Reduced clone stats sharing from 30% to 0% (still 100% when upgraded)']"
+6.78,['Increased base magic resistance from 25% to 35%.']
+6.76,"['Reduced  Poof cooldown from 14/12/10/8 to 12/10/8/6.', "" Aghanim's Scepter now also increases clones stats sharing from 30% to 100%.""]"
+6.75,"['Increased  Geostrike damage per second from 5/10/15/20 to 7/14/21/28.', 'Increased clones stats sharing from 25% to 30%.']"
+6.73c,"[""Fixed Meepo clone from  Aghanim's Scepter interaction with  Tranquil Boots.""]"
+6.73b,"['Fixed Meepo clones not respawning with full mana.', 'Fixed Meepo clones interaction with  Tranquil Boots.']"
+6.73,['Increased  Poof damage from 50/80/110/140 to 80/100/120/140.']
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,"['Increased attack range from 100 to 128.', ""Added  Aghanim's Scepter upgrade for Meepo: Grants an extra Meepo clone. Meepo cannot drop his Aghanim's Scepter once acquired.""]"
+6.71,"[""Meepo can now cast  Eul's Scepter of Divinity on his clones.""]"
+6.70,['Reduced  Poof cooldown from 16/14/12/10 to 14/12/10/8.']
+6.69,"['Increased  Strength gain from 1.3 to 1.6.', 'Increased base attack damage from 11-17 to 16-22 (total attack damage is now 39-45).', 'Fixed some targeting issues with casting  Poof.']"
+6.68b,"[""Meepo clones can no longer use  Arcane Boots' active ability.""]"
+6.68,"['Increased movement speed from 300 to 305.', 'Reduced  Poof mana cost from 140/120/100/80 to 80.']"
+6.61,['Increased  Geostrike damage per second from 4/8/12/16 to 5/10/15/20.']
+6.60,"['Rescaled damage from 60/80/100/120 to 50/80/110/140.', 'Reduced cooldown from 20/18/16/14 to 16/14/12/10.', ' Poof\nRescaled damage from 60/80/100/120 to 50/80/110/140.\nReduced cooldown from 20/18/16/14 to 16/14/12/10.']"
+6.58,"[' Earthbind no longer pierces spell immunity.', 'Rescaled  Poof damage from 40/80/120/160 to 60/80/100/120.']"
+6.57,['Reduced  Geostrike damage per second from 15 on each level to 4/8/12/16.']
+6.51,['Reduced  Poof cast point from 2 to 1.5.']
+6.50,['Increased base  Strength from 17 to 23.']
+6.49,"['Reduced mana cost from 225/210/195/180 to 140/120/100/80.', 'Reduced cooldown from 60/50/40/30 to 20/18/16/14.', ' Poof\nReduced mana cost from 225/210/195/180 to 140/120/100/80.\nReduced cooldown from 60/50/40/30 to 20/18/16/14.']"
+6.43,['Reduced clones stats sharing from 40% to 25%.']
+6.42,"['Meepo clones now gain 40% of any bonus stats the primary has, instead of only having base attributes + Attribute Bonus.', 'Fixed Meepo clones interaction with  Aegis of the Immortal.']"
+6.41,"[""Meepo clones are no longer hit by  Thundergod's Wrath (Meepo Prime is still hit).""]"
+6.40,"['Fixed a rare critical bug regarding leveling with Meepo.', ' Earthbind no longer affects Roshan.']"
+6.39,['Created.']

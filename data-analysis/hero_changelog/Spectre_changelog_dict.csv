@@ -1,0 +1,61 @@
+7.26c,"['Level 10 left talent: +4 all stats increased to +5.', 'Talents:']"
+7.26b,"['Level 10 right talent: +6 health regen reduced to +5.', 'Level 10 left talent: +5 all stats reduced to +4.', 'Level 15 right talent: +15  Desolate damage reduced to +12.', 'Level 15 left talent: -10s  Spectral Dagger cooldown reduced to -8s.', 'Level 20 right talent:+500 health from to +400.', 'Level 20 left talent: +18%  Spectral Dagger movement speed slow/bonus reduced to +14%.', 'Level 25 right talent: +40%  Haunt damage reduced to +32%.', 'Level 25 left talent: +6%  Dispersion damage reflected reduced to 5%.', 'Talents:']"
+7.25,"['Increased base health regeneration from 1.5 to 2.5.', 'Reduced  Shadow Step cooldown from 70 to 35.']"
+7.24,['Increased base health regeneration from 0 to 1.5.']
+7.22,"[""Added  Aghanim's Scepter upgrade for Spectre: Grants Spectre the  Shadow Step ability:""]"
+7.21b,"['Level 10 left talent: +4 all stats increased to +5.', 'Increased base  strength from 21 to 23.', 'Talents:']"
+7.21,"['Level 20 left talent: +20%  Spectral Dagger movement speed slow/bonus reduced to +18%.', 'Increased  strength gain from 2.3 to 2.5.', 'Increased  agility gain from 1.8 to 2.1.', 'Increased  Spectral Dagger movement speed bonus for Spectre and slow on enemies from 8%/12%/16%/20% to 10%/14%/18%/22%.', 'Talents:']"
+7.20e,['Increased  Haunt illusion damage dealt from 40%/55%/70% to 40%/60%/80%.']
+7.20d,['Increased movement speed from 285 to 290.']
+7.20c,['Increased  Haunt illusion damage dealt from 40%/50%/60% to 40%/55%/70%.']
+7.20,"['Level 10 right talent: +5 health regen increased to +6.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', 'Talents:']"
+7.19c,"['Level 10 left talent changed: +15  Desolate damage -> +4 all stats.', 'Level 15 right talent changed: +8 all stats -> +15  Desolate damage.', 'Level 25 left talent: +8%  Dispersion damage reflected reduced to +6%.', 'Increased  Desolate search radius from 375 to 500.', 'Reduced  Dispersion damage reflection from 10%/14%/18%/22% to 7%/12%/17%/22%.', 'Increased  Haunt mana cost from 150 on each level to 150/200/250.', 'Talents:']"
+7.19b,"['Reduced  Spectral Dagger caster buff linger duration from 2 to 1.', 'Increased  Desolate search radius from 325 to 375.', 'Reduced  Dispersion max radius from 1000 to 700.']"
+7.17,"['Level 15 left talent: -8s  Spectral Dagger cooldown increased to -10s.', 'Talents:']"
+7.15,['Increased base  strength from 20 to 21.']
+7.14,"['Reduced  Spectral Dagger mana cost from 130/140/150/160 to 100/120/140/160.', 'Increased  Haunt illusion damage dealt from 40% on each level to 40%/50%/60%.']"
+7.12,['Increased  Spectral Dagger damage from 50/100/150/200 to 90/140/190/240.']
+7.10,"['Level 25 right talent: +20%  Haunt illusion damage dealt increased to +40%.', 'Talents:']"
+7.07c,"['Now pierces spell immunity.', 'Reduced damage from 20/35/50/65 to 20/30/40/50.', ' Desolate\nNow pierces spell immunity.\nReduced damage from 20/35/50/65 to 20/30/40/50.']"
+7.07,"['Level 10: +5 armor or +20 attack damage', 'Level 15: +25 movement speed or +8 all stats', 'Level 20: +20  strength or +30 attack speed', 'Level 25: -10s  Spectral Dagger cooldown or +400 health', 'Reduced movement speed from 290 to 285.', 'Increased turn rate from 0.4 to 0.5.', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', "" Desolate now applies a debuff that reduces the target's vision by 40%/50%/60%/70% for 5 seconds."", 'Reworked talents:']"
+7.06f,['Increased  Haunt illusion damage dealt from 30% to 40%.']
+7.06e,"['Level 15 left talent: +20 movement speed increased to +25.', 'Increased base  strength from 19 to 20.', 'Talents:']"
+7.06,"['Increased  strength gain from 2 to 2.3.', 'Reduced base health regeneration from 0.25 to 0.', 'Increased  Haunt cooldown from 140/130/120 to 180/150/120.']"
+7.03,"['Level 15 left talent: +15 movement speed increased to +20.', 'Level 15 right talent: +6 all stats increased to +8.', 'Level 20 left talent: +15  strength increased to +20.', 'Level 20 right talent: +25 attack speed increased to +30.', 'Talents:']"
+7.02,['Level 20 left talent: Increased  strength bonus from 12 to 15.']
+7.00,"['Level 10: +5 armor or +20 attack damage', 'Level 15: +15 movement speed or +6 all stats', 'Level 20: +12  strength or +25 attack speed', 'Level 25: -10s  Spectral Dagger cooldown or +400 health', 'Added talents:']"
+6.87,"['Reduced  agility gain from 2.2 to 1.8.', 'Increased attack range from 128 to 150.', "" Spectral Dagger's slow no longer pierces spell immunity. [?]"", ' Haunt\nHaunt illusions are no longer immune to disables.\nIncreased cooldown from 120 on each level to 140/130/120.', 'Haunt illusions are no longer immune to disables.', 'Increased cooldown from 120 on each level to 140/130/120.']"
+6.85,"[' Desolate now fully works against non-hero units as well.', ' Dispersion\nNow reflects damage before any kind of reduction.\nNow reflects damage back in the same type as it was received, instead of always being pure.', 'Now reflects damage before any kind of reduction.', 'Now reflects damage back in the same type as it was received, instead of always being pure.']"
+6.84,"[' Dispersion damage no longer ignores ancient creeps, Roshan and creep-heroes.', 'Instead of destroying the target Illusion,  Reality now lets you swap positions with it.']"
+6.82c,"['Reduced movement speed from 295 to 290.', 'Reduced  Haunt illusion damage from 40% to 30%.']"
+6.82,"['Increased movement speed bonus for Spectre and slow on enemies from 5%/9%/14%/18% to 8%/12%/16%/20%.', 'Reduced projectile speed from 857 to 800.', ' Spectral Dagger\nIncreased movement speed bonus for Spectre and slow on enemies from 5%/9%/14%/18% to 8%/12%/16%/20%.\nReduced projectile speed from 857 to 800.']"
+6.79,"['Reduced cooldown from 8 to 0 (so it can now be used multiple times durng Haunt).', 'Reduced cast point from 0.3 to 0.', ' Reality\nReduced cooldown from 8 to 0 (so it can now be used multiple times durng Haunt).\nReduced cast point from 0.3 to 0.']"
+6.77,[' Haunt no longer ends when  Reality is used (Reality still replaces the targeted Haunt illusion though).']
+6.75,['Increased  Desolate damage from 20/30/40/50 to 20/35/50/65.']
+6.73,[' Dispersion no longer disables  Blink Dagger and consumables.']
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,['Increased attack range from 100 to 128.']
+6.70,"['No longer spreads the damage evenly between all enemies within the radius.', 'Now always deals the same damage, but gets weaker with greater distance\nDeals the full damage within a 300 radius, decreasing gradually until 1000 radius.', ' Dispersion\nNo longer spreads the damage evenly between all enemies within the radius.\nNow always deals the same damage, but gets weaker with greater distance\nDeals the full damage within a 300 radius, decreasing gradually until 1000 radius.']"
+6.68,"['Increased  Desolate damage from 15/25/35/45 to 20/30/40/50.', 'Increased  Dispersion damage reflection from 5%/10%/15%/20% to 10%/14%/18%/22%.']"
+6.67,['Reduced  Desolate enemy detection radius from 400 to 350.']
+6.65,"[' Dispersion now spreads the reflected damage up on all enemy units within range evenly, instead of dealing the same damage to all.']"
+6.61,['Reduced  Spectral Dagger cooldown from 25 to 16.']
+6.60,[' Spectral Dagger now has 200 radius vision along the path.']
+6.59,[' Spectral Dagger no longer has 500 radius vision along the path.']
+6.58,[' Haunt now ends whenever  Reality is used.']
+6.57,"[""Reduced illusions' damage from 50% to 40%."", 'Now has a 1 second delay during which they fade in before the images start attacking the targets.', "" Haunt\nReduced illusions' damage from 50% to 40%.\nNow has a 1 second delay during which they fade in before the images start attacking the targets.""]"
+6.55,['Rescaled  Haunt cooldown from 150/120/90 to 120 on each level.']
+6.53,['Increased  Dispersion radius from 600 to 1000.']
+6.50,['Reworked  Dispersion']
+6.42,['Reduced  Desolate enemy detection radius from [ Info Needed ] to 400.']
+6.36b,['Reduced base  agility and gain from 26 + 2.6 to 23 + 2.2.']
+6.36,['Fixed  Reality triggering  Essence Aura.']
+6.35,"['Increased base armor from -1 to 0 (total armor is now 3.64).', 'Changed  Desolate legacy hotkey from D to L (to preven conflicts with Spectral Dagger, which uses D).']"
+6.34,"['Reduced base attack damage from 36-40 to 23-27 (total attack damage is now 49-53).', 'Reduced  Spectral Dagger shadow trail duration from 20 to 12.', 'Replaced Vengeance with  Desolate']"
+6.33b,"['Fixed some lag issues with  Spectral Dagger.', "" Dispersion no longer works for Spectre's illusions."", ' Haunt\nReduced duration from 4/5/6.5 to 4/5/6.\nFixed some lag issues.', 'Reduced duration from 4/5/6.5 to 4/5/6.', 'Fixed some lag issues.']"
+6.33,"['Reworked Mercurial, the Avatar of Vengeance:', 'Renamed to Mercurial, the Spectre', 'Increased base  strength from 17 to 19.', 'Increased  intelligence gain from 1.3 to 1.9.', 'Reduced movement speed from 300 to 295.', 'Increased base attack damage from 18-22 to 36-40.', 'Replaced Phase with  Spectral Dagger']"
+6.30,['Fixed some lag issues caused by Vengeance.']
+6.29b,['Fixed Vengeance triggering off of some dying dummy units of allied spells.']
+6.29,"['Fixed a few Phase bugs.', 'Phase no longer destroys trees within a 200 radius around Spectre upon ending.', ' Haunt and Direct Vengeance now display a status debuff on the target.']"
+6.28,['Created.']

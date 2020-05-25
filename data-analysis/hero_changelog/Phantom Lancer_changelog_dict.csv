@@ -1,0 +1,62 @@
+7.26c,"['Level 20 left talent: +4  Juxtapose max illusions increased to +5.', 'Talents:']"
+7.26b,"['Level 10 left talent: +20 attack speed reduced to +16.', 'Level 10 right talent: 20% evasion reduced to 15%.', 'Level 15 left talent: +125  Spirit Lance damage reduced to +100.', 'Level 15 right talent: +250 health reduced to +200.', 'Level 20 left talent: +5  Juxtapose max illusions reduced to +4.', 'Level 20 right talent: +500  Phantom Rush range reduced to +400.', 'Level 25 left talent: 30% Critical Strike chance reduced to 24%.', 'Level 25 right talent: -5s  Doppelganger cooldown reduced to -4s.', 'Talents:']"
+7.25c,['Reduced base  agility from 29 to 26.']
+7.24,"['Level 15 right talent: +275 health reduced to +250.', 'Level 25 right talent: -6s  Doppelganger cooldown reduced to -5s.', 'Talents:']"
+7.23,"['Old: Causes  Spirit Lance to bounce up to 4 times, with a bounce distance of 400.', 'New: Reduces  Phantom Rush agility bonus duration from 2 to 1.5, but causes the rush buff to trigger on each attack, ignoring the cooldown. Removes minimum rush distance.', ""Reworked  Aghanim's Scepter upgrade.\nOld: Causes  Spirit Lance to bounce up to 4 times, with a bounce distance of 400.\nNew: Reduces  Phantom Rush agility bonus duration from 2 to 1.5, but causes the rush buff to trigger on each attack, ignoring the cooldown. Removes minimum rush distance.""]"
+7.22g,['Increased  Juxtapose illusion damage dealt from 20% to 22%.']
+7.22e,"['Level 15 right talent: +250 health increased to +275.', 'Reduced  Spirit Lance mana cost from 125/130/135/140 to 110/120/130/140.', 'Talents:']"
+7.22d,['Increased  Juxtapose illusion damage dealt from 18% to 20%.']
+7.22c,"['Level 10 right talent: 15% evasion increased to 20%.', 'Increased  Juxtapose illusion damage dealt from 16% to 18%.', 'Talents:']"
+7.22,"['Increased  strength gain from 2 to 2.2.', 'Increased  agility gain from 3 to 3.2.']"
+7.21c,['Increased  Phantom Rush agility bonus from 9/18/27/36 to 11/22/33/44.']
+7.21b,['Increased  Phantom Rush agility bonus from 6/14/22/30 to 9/18/27/36.']
+7.21,"['Level 10 right talent: 10% evasion increased to 15%.', 'Level 20 left talent: +4  Juxtapose max illusions increased to +5.', 'Increased  agility gain from 2.6 to 3.', 'Talents:']"
+7.20d,['Increased movement speed from 285 to 290.']
+7.20,"['Reduced base health regeneration from 3 to 1.5.', 'Reduced base mana regeneration from 0.9 to 0.', 'Reduced  Spirit Lance movement speed slow from 10%/20%/30%/40% to 10%/18%/26%/34%.', 'Increased  Juxtapose illusion damage taken  from 600% to 650%.']"
+7.19d,['Reduced  Spirit Lance cast range from 750 on each level to 525/600/675/750.']
+7.19c,['Reduced  agility gain from 2.8 to 2.6.']
+7.19b,"['Level 25 right talent: -7s  Doppelganger cooldown reduced to -6s.', 'Talents:']"
+7.19,"['Reduced base  intelligence from 21 to 19', 'Increased  Juxtapose illusion damage taken from 500% to 600%.']"
+7.18,['Reduced base  strength from 22 to 19.']
+7.16,[' Doppelganger can no longer be cast while rooted.']
+7.15,['Increased base  strength from 21 to 22.']
+7.10,"['Level 25 right talent: -5s  Doppelganger cooldown increased to -7s.', 'Talents:']"
+7.07,"['Level 10: +20 attack speed or +75  Spirit Lance damage', 'Level 15: 15% cooldown reduction or +8 all stats', 'Level 20: 15% evasion or 15% magic resistance', 'Level 25: +600  Phantom Rush range or +20  strength', 'Reduced movement speed from 290 to 285.', 'Increased base health regeneration from 1.5 to 3.', 'Increased base mana regeneration from 0.01 to 0.9.', ' Phantom Rush Range can now be toggled to disable it (default state is enabled).', ' Doppelganger now adds 2 seconds duration to all your illusions.', 'Reworked talents:']"
+7.06e,['Increased  agility gain from 2.6 to 2.8.']
+7.06d,['Increased base health regeneration from 0.5 to 1.5.']
+7.06,"['Increased  strength gain from 1.7 to 2.', 'Reduced base health regeneration from 0.75 to 0.5.', ' Phantom Rush agility bonus is now timed so that the first attack after the rush benefits from the agility bonus. [?]', 'Fixed  Doppelganger illusions lasting 7 seconds, instead of 8. [?]', 'Increased  Juxtapose max illusions cap from 5/7/9 to 6/8/10']"
+7.05,['Increased  Phantom Rush agility bonus from 6/12/18/24 to 6/14/22/30.']
+7.03,"[' Spirit Lance illusions now have a constant 5 gold/experience bounty, instead of scaling with levels.']"
+7.02,"['Level 10 right talent changed: +150 health -> +75  Spirit Lance damage.', 'Talents:']"
+7.00,"['Level 10: +20 attack speed or +150 health', 'Level 15: 15% cooldown reduction or +8 all stats', 'Level 20: 15% evasion or 15% magic resistance', 'Level 25: +600  Phantom Rush range or +20  strength', 'Now grants 6/12/18/24 agility for 2 seconds upon reaching the enemy and attacking it. [?]', 'Reduced minimum proc distance from 300 to 250.', ' Phantom Rush\nNow grants 6/12/18/24 agility for 2 seconds upon reaching the enemy and attacking it. [?]\nReduced minimum proc distance from 300 to 250.', ""Added  Aghanim's Scepter for Phantom Lancer: Causes  Spirit Lance to bounce to nearby enemies within 400 radius up to 5 times."", 'Added talents:']"
+6.87,['Increased attack range from 128 to 150.']
+6.85,"['Reduced  agility gain from 3 to 2.6.', ' Doppelganger now has a 0.1 second cast time.']"
+6.83c,"[""Enabled in Captain's Mode.""]"
+6.82c,['Reduced  Juxtapose max illusions cap from 6/8/10 to 5/7/9.']
+6.82,"[""Removed from Captain's Mode."", 'Rescaled base  agility and gain from 23 + 4.2 to 29 + 3.0.', 'Increased base  strength from 18 to 21.', 'Replaced  Doppelwalk with  Doppelganger']"
+6.79,[' Spirit Lance is now disjointable.']
+6.78,"['Reduced  Spirit Lance illusion damage dealt from 25% to 20%.', 'Reduced  Doppelwalk illusion damage dealt from 25% to 20%.', 'Reduced  Juxtapose illusions damage dealt from 25% to 20%.']"
+6.76,['Reduced collision size from 24 to 8.']
+6.75,"['Increased  agility gain from 2.8 to 4.2.', 'Increased  Spirit Lance slow duration from 3 to 3.25.']"
+6.73,"['Increased  Doppelwalk movement speed bonus from 10% to 15%.', 'Increased  Juxtapose max illusions cap from 2/3/4/5 to 2/4/6/8.']"
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,"['Reduced collision size from 24 to 12.', 'Increased base health regeneration from 0.25 to 0.75.', ' Juxtapose\nIncreased proc chance from 3%/6%/9%/12% to 12% on each level.\nReduced max illusions cap from 5 on each level to 2/3/4/5.', 'Increased proc chance from 3%/6%/9%/12% to 12% on each level.', 'Reduced max illusions cap from 5 on each level to 2/3/4/5.']"
+6.72,['Increased attack range from 100 to 128.']
+6.69,['Reduced  strength gain from 2 to 1.7.']
+6.67,['Increased  Juxtapose illusions damage taken from 400% to 450%.']
+6.63,['Increased  Juxtapose illusion duration from 15 to 20.']
+6.55,['Increased  Spirit Lance cast range from 600 to 750.']
+6.54,"['No longer mini-stuns the target upon projectile impact.', 'The slow is now applied upon projectile impact, instead of launch.', 'Now creates an illusion of Phantom Lancer upon projectile impact. The illusion deals 20% damage, takes 400% damage and lasts 2/4/6/8 seconds.', ""All of Phantom Lancer's illusions within 675 radius around him now cast a fake Spirit Lance whenever Phantom Lancer casts it."", 'Can no longer be disjointed.', 'Reduced damage from 100/150/215/310 to 100/150/200/250.', 'Reduced mana cost from 140 on each level to 125/130/135/140.', 'Reduced cooldown from 9 to 7.', "" Spirit Lance\nNo longer mini-stuns the target upon projectile impact.\nThe slow is now applied upon projectile impact, instead of launch.\nNow creates an illusion of Phantom Lancer upon projectile impact. The illusion deals 20% damage, takes 400% damage and lasts 2/4/6/8 seconds.\nAll of Phantom Lancer's illusions within 675 radius around him now cast a fake Spirit Lance whenever Phantom Lancer casts it.\nCan no longer be disjointed.\nReduced damage from 100/150/215/310 to 100/150/200/250.\nReduced mana cost from 140 on each level to 125/130/135/140.\nReduced cooldown from 9 to 7."", ' Doppelwalk\nReduced invisibility duration from 12 to 8.\nIncreased illusion damage taken from 300% to 400%.', 'Reduced invisibility duration from 12 to 8.', 'Increased illusion damage taken from 300% to 400%.', ' Juxtapose\nReduced max illusions cap from 6 to 5.\nIncreased illusions damage taken from 300% to 400%.', 'Reduced max illusions cap from 6 to 5.', 'Increased illusions damage taken from 300% to 400%.']"
+6.52,"[' Doppelwalk illusions will now automatically walk forwards for a short distance upon spawning, to make it less obvious to the enemies that the spell was cast.']"
+6.51,"['No longer grants 5%/10%/15% chance for evasion.', 'Now grants 10%/15%/20% magic resistance.', ' Phantom Edge\nNo longer grants 5%/10%/15% chance for evasion.\nNow grants 10%/15%/20% magic resistance.']"
+6.50,['Increased  strength gain from 1.5 to 2.0.']
+6.36,"['Increased base  and gain from 16 + 1.7 to 21 + 2.0.', 'Reduced  Doppelwalk cooldown from 30 on each level to 30/25/20/15.']"
+6.35,['Increased base armor from -1 to 0 (total armor is now 3.22).']
+6.20,['Reduced base  strength and gain from 19 + 2 to 18 + 1.5.']
+6.13,['Increased  agility gain from 2.7 to 2.8.']
+6.10,['Fixed some memory leak issues on  Spirit Lance.']
+6.06,['Increased  Spirit Lance damage from 80/135/200/295 to 100/150/215/310.']
+6.04,"['No longer turns the target ethereal.', 'Now slows movement speed by 10%/20%/30%/40% and attack speed by 10/20/30/40 for 3 seconds.', ' Spirit Lance\nNo longer turns the target ethereal.\nNow slows movement speed by 10%/20%/30%/40% and attack speed by 10/20/30/40 for 3 seconds.', 'Reduced  Doppelwalk invisibility duration from 20 to 12.']"
+6.03,['Reduced  Juxtapose max illusions cap from 8 to 6.']
+6.02,"['Reduced cooldown from 30/25/20/15 to 30 on each level.', 'Increased illusion damage dealt from 20% to 25%.', ' Doppelwalk\nReduced cooldown from 30/25/20/15 to 30 on each level.\nIncreased illusion damage dealt from 20% to 25%.', 'Increased  Juxtapose illusions damage dealt from 20% to 25%.', 'Reduced  Phantom Edge evasion chance from 10%/20%/30% to 5%/10%/15%.']"
+6.00,['Created.']

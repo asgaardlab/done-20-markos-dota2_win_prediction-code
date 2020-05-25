@@ -1,0 +1,88 @@
+7.26c,"['Level 10 left talent changed: +20 movement speed -> +35  Wrath of Nature base damage.', 'Level 15 left talent: +3  Treants summoned increased to +4.', 'Talents:']"
+7.26b,"['Level 10 left talent: +25 movement speed reduced to +20.', 'Level 10 right talent: +30 attack damage reduced to +25.', 'Level 15 left talent: +4  Treants summoned reduced to +3.', 'Level 15 right talent: +10 armor reduced to +8.', 'Level 20 left talent: 25% cooldown reduction reduced to 20%.', 'Level 20 right talent: +40 attack speed reduced to +30.', 'Level 25 left talent: 2x  Treant health/attack damage reduced to 1.8x.', 'Talents:']"
+7.25,"['Reduced attack backswing from 0.77 to 0.6.', ' Wrath of Nature\nNow grants the caster 4/5/6 attack damage for each unit killed by it for 50 seconds.\nIncreased cooldown from 60 to 85.', 'Now grants the caster 4/5/6 attack damage for each unit killed by it for 50 seconds.', 'Increased cooldown from 60 to 85.']"
+7.23c,['Reduced base attack damage from 27-41 to 27-37.']
+7.23,"['Increased base  agility and gain from 18 + 3.3 to 22 + 3.6.', 'Increased  intelligence gain from 3.5 to 3.7.']"
+7.22f,['Increased  intelligence gain from 3.3 to 3.5.']
+7.22,"['Reduced base attack damage from 29-43 to 27-41.', 'Reduced  Treant attack damage from 25-29/28-32/31-35/34-38 to 22-26/26-30/30-34/34-38.']"
+7.21c,['Reduced  Treant attack damage from 34-38 on each level to 25-29/28-32/31-35/34-38.']
+7.21,"['Level 20 left talent changed: -4s  Sprout cooldown -> 25% cooldown reduction.', 'Increased  intelligence gain from 2.9 to 3.3.', ' Tango now uses the ward duration when targeting  Sprout, instead of the tree duration, similar to  Iron Branch trees.', 'Talents:']"
+7.20d,"['Increased  agility gain from 2.8 to 3.3.', 'Increased  Wrath of Nature number of bounces from 16 to 18.']"
+7.20c,"['Increased  agility gain from 2.4 to 2.8.', 'Increased base armor from 1 to 2.']"
+7.20,"['Level 10 left talent: +35 movement speed reduced to +25.', 'Increased  strength gain from 2.4 to 2.6.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', ' Treant\nRescaled gold bounty from 18-24 to 20-20.\nReduced experience bounty from 39 to 16.', 'Rescaled gold bounty from 18-24 to 20-20.', 'Reduced experience bounty from 39 to 16.', ' Wrath of Nature no longer pierces spell immunity.', 'Talents:']"
+7.19b,['Reduced base attack damage from 32-46 to 29-43.']
+7.18,['Increased  agility gain from 1.9 to 2.4.']
+7.16,"['Level 10 left talent: +40 movement speed reduced to +35.', 'Talents:']"
+7.15,"['Reduced base  intelligence from 25 to 23.', 'Increased base attack damage from 30-44 to 32-46.']"
+7.13b,['Increased base  strength and gain from 19 + 2.1 to 21 + 2.4.']
+7.10,"['Level 10 left talent: +30 movement speed increased to +40.', 'Level 15 right talent: +8 armor increased to +10.', 'Reduced  Wrath of Nature cooldown from 70/65/60 to 60 on each level.', 'Talents:']"
+7.08,['Reduced  Wrath of Nature cooldown from 90/75/60 to 70/65/60.']
+7.07,"['Level 10: +250 health or +30 attack damage', 'Level 15: +4  Treants summoned or +20  intelligence', 'Level 20: +10 armor or +35 attack speed', 'Level 25: 2x  Treant health/attack damage or 0s  Teleportation cooldown', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06f,"['Reduced movement speed from 295 to 290.', 'Reduced  Sprout vision radius from 750 to 500.']"
+7.06d,['Increased  Treant attack damage from 30-34 to 34-38.']
+7.06,"['Level 25 right talent changed: -40s respawn time -> 0s  Teleportation cooldown.', 'Increased  strength gain from 1.8 to 2.1.', 'Reduced base health regeneration from 0.25 to 0.', 'Talents:']"
+7.05,['Increased base attack damage from 24-38 to 30-44 (total attack damage is now 55-69).']
+7.04,"['Level 10 left talent: +225 health increased to +250.', 'Level 15 left talent changed: +35 movement speed -> +4  Treants summoned.', 'Talents:']"
+7.03,"['Level 15 left talent: +20 movement speed increased to +35.', 'Level 15 right talent: +15  intelligence increased to +20.', ""Reduced  Nature's Call mana cost from 160 on each level to 130/140/150/160."", 'Talents:']"
+7.02,"['Level 10 left talent: +175 health increased to +225.', 'Level 10 right talent: +20 attack damage increased to +30.', 'Level 20 left talent: +8 armor increased to +10.', 'Talents:']"
+7.01,"['Level 15 left talent: +15 movement speed increased to +20.', 'Level 15 right talent: +10  intelligence increased to +15.', 'Level 25 left talent changed: +6  Treants summoned -> 2x  Treant health/attack damage.', 'Level 25 right talent: -35s respawn time increased to -40s.', 'Talents:']"
+7.00,"['Level 10: +175 health or +20 attack damage', 'Level 15: +15 movement speed or +10  intelligence', 'Level 20: +8 armor or +35 attack speed', 'Level 25: +6  Treants summoned or -35s respawn time', 'Reduced  Sprout vision radius from 1000 to 750.', "" Wrath of Nature\nReduced base damage from 140/180/225 ( 155/210/275) to 110/140/170 ( 135/170/205).\nIncreased damage increase per bounce from 7% to 11%.\n Aghanim's Scepter no longer increases number of bounces from 16 to 18."", 'Reduced base damage from 140/180/225 ( 155/210/275) to 110/140/170 ( 135/170/205).', 'Increased damage increase per bounce from 7% to 11%.', "" Aghanim's Scepter no longer increases number of bounces from 16 to 18."", 'Added talents:']"
+6.87,"['Increased gold bounty from 14-20 to 18-24.', 'Reduced vision range from 1000/800 to 500/500.', 'Treants and Greater Treants\nIncreased gold bounty from 14-20 to 18-24.\nReduced vision range from 1000/800 to 500/500.']"
+6.86,"['Increased base  intelligence from 21 to 25.', 'Increased Treants attack damage from 26-30 to 30-34', 'Increased Greater Treants attack damage from 78-90 to 90-102.']"
+6.85,"['Reduced cast time from 0.5 to 0.35.', 'Reduced mana cost from 100/120/140/160 to 70/90/110/130.', ' Sprout\nReduced cast time from 0.5 to 0.35.\nReduced mana cost from 100/120/140/160 to 70/90/110/130.', 'Treants and Greater Treants\nIncreased movement speed from 300 to 325.\nReduced vision range during the day from 1200 to 1000.', 'Increased movement speed from 300 to 325.', 'Reduced vision range during the day from 1200 to 1000.', ""Reduced Greater Treants' base attack time from 1.75 to 1."", "" Aghanim's Scepter upgraded  Wrath of Nature now applies a 4 second debuff on the units it hits, which will spawn the extra treant if the unit dies during that time.""]"
+6.84,"['Increased cast range from 600 on each level to 625/700/775/850.', 'Increased duration from 3/3.75/4.5/5.25 to 3/4/5/6.', ' Sprout\nIncreased cast range from 600 on each level to 625/700/775/850.\nIncreased duration from 3/3.75/4.5/5.25 to 3/4/5/6.', 'Increased Treants attack damage from 21-23 to 26-30.', "" Aghanim's Scepter now also spawns a Treant for every non-hero and a Greater Treant for every hero killed with  Wrath of Nature.""]"
+6.82,['Reduced Treants magic resistance from 20% to 0%.']
+6.80,['Increased  Wrath of Nature mana cost from 150/200/250 to 175/225/275.']
+6.79,"['Increased gold bounty from 12-16 to 14-20.', 'Increased experience bounty from 20 to 30.', 'Treants\nIncreased gold bounty from 12-16 to 14-20.\nIncreased experience bounty from 20 to 30.']"
+6.75,"['Reduced movement speed from 300 to 295.', 'Reduced Treants magic resistance from 33% to 20%.']"
+6.74,"['Increased  Teleportation mana cost from 50/45/40/35 to 50 on each level.', 'Increased  Wrath of Nature mana cost from 150/175/200 to 150/200/250.']"
+6.73,['Increased  Wrath of Nature cooldown from 90/60/60 to 90/75/60.']
+6.72c,['Increased base  strength from 17 to 19.']
+6.72,['Increased  Wrath of Nature number of bounces from 12/14/16 ( 14/16/18) to 16 (18) on each level.']
+6.71,['Changed  Sprout targeting type from unit to ground or unit.']
+6.70,['Increased base attack damage from 18-32 to 24-38 (total attack damage is now 45-59).']
+6.69,"['Improved trapping coding to prevent heroes from popping out of it sometimes.', 'Changed targeting type from ground or unit to unit only.', ' Sprout\nImproved trapping coding to prevent heroes from popping out of it sometimes.\nChanged targeting type from ground or unit to unit only.', 'Treants can now attack flying units.', 'Changed  Wrath of Nature targeting type from unit to ground or unit.\nThis allows the player to cast the ability by clicking on the minimap.', "" Aghanim's Scepter now also increases number of bounces from 12/14/16 to 14/16/18.""]"
+6.68,"['Increased base  agility and gain from 15 + 1.5 to 18 + 1.9.', ' Teleportation now has a minimap indicator for allies.']"
+6.67,"['Changed targeting type from unit to ground or unit.', 'Fixed not being cut down by  Wild Axes.', ' Sprout\nChanged targeting type from unit to ground or unit.\nFixed not being cut down by  Wild Axes.']"
+6.65,['Treants now have 33% magic resistance.']
+6.63b,['Fixed  Wrath of Nature targeting couriers.']
+6.63,"['Reduced  Teleportation cooldown from 60/50/40/30 to 50/40/30/20.', 'Increased  Wrath of Nature cast range from 650 to global (bounce distance is already global).']"
+6.61,"['Reduced mana cost from 115/140/165/205 to 100/120/140/160.', 'Reduced cooldown from 11 on each level to 11/10/9/8.', ' Sprout\nReduced mana cost from 115/140/165/205 to 100/120/140/160.\nReduced cooldown from 11 on each level to 11/10/9/8.']"
+6.60,"["" Sprout is now blocked by  Linken's Sphere."", "" Teleportation can now be targeted inside the enemy's base area (restriction no longer needed due to new backdoor protection).""]"
+6.59,['Reduced  Wrath of Nature mana cost from 200/380/610 to 150/175/200.']
+6.58,[' Sprout can now be cast on self.']
+6.57,"[""Fixed  Shackleshot and  Nature's Guise not working with  Sprout trees.""]"
+6.52b,"[""Fixed a rare bug involving  Sprout and  Lone Druid's  Spirit Bear.""]"
+6.44,['Fixed  Sprout trees respawning when their trunks are still there at 5 minute marks.']
+6.39,['Added disablehelp support for  Sprout.']
+6.37,['Reduced  Teleportation mana cost from 75/65/55/50 to 50/45/40/35.']
+6.33,[' Teleportation now creates a visual effect at the targeted location during the cast time.']
+6.31,[' Teleportation can no longer target the enemy base area.']
+6.29,['Fixed some issues with  Sprout sometimes pushing the targeted hero out.']
+6.25,['Increased movement speed from 295 to 300.']
+6.20,"['Increased movement speed from 280 to 295.', 'Reduced  Sprout duration from 3/4/5/6 to 3/3.75/4.5/5.25.']"
+6.19b,"['Fixed some issues on  Sprout.', 'Increased  Treant attack damage from 19-21 to 21-23.']"
+6.05,"[""Increased  Nature's Call cooldown from 30 to 37.""]"
+6.04,"[""Tweaked  Sprout's tree positioning.""]"
+6.00,"['Reduced Acquisition range from 650 to 600.', 'Increased base armor from -1 to 1 (total armor is now 3.1).', 'Recoded  Sprout so it can be used by multiple Prophets and fixed an abusable bug.']"
+5.75,['Reduced  Teleportation cast time from 3 on each level to 3/2.5/2/1.5.']
+5.72,"[""Changed Nature's Prophet base regen type from only regenerate at night to always regenerate. [?]"", 'Reduced base health regen from 0.5 to 0.25.']"
+5.61,"['Reduced  Treant base health from 575 to 550.', ' Sprout\nReduced mana cost from 125/160/185/220 to 115/140/165/205.\nReduced cooldown from 12 to 11.', 'Reduced mana cost from 125/160/185/220 to 115/140/165/205.', 'Reduced cooldown from 12 to 11.']"
+5.60,['Increased  Wrath of Nature cooldown from 90/60/30 to 90/60/60.']
+5.59,"['No longer increases cast range.', 'No longer increases damage increment per bounce.', "" Aghanim's Scepter upgraded  Wrath of Nature\nNo longer increases cast range.\nNo longer increases damage increment per bounce.""]"
+5.58,"['Reduced night vision from 1700 to 800.', 'Increased base attack damage from 17-26 to 18-32.', 'Reduced  intelligence gain from 3.00 to 2.90.']"
+5.57,"['Reduced  Wrath of Nature cast range from global to 650.', "" Aghanim's Scepter upgraded  Wrath of Nature now increases cast range from 650 to global.""]"
+5.55,"['Reduced base attack damage from 21-23 to 19-21.', 'Changed damage type from Chaos damage to Basic damage.', 'Reduced base health from 600 to 575.', ' Treant\nReduced base attack damage from 21-23 to 19-21.\nChanged damage type from Chaos damage to Basic damage.\nReduced base health from 600 to 575.', ' Teleportation\nRescaled mana cost from 70 on each level to 75/65/55/50.\nReduced cast time from 4 to 3.', 'Rescaled mana cost from 70 on each level to 75/65/55/50.', 'Reduced cast time from 4 to 3.']"
+5.50,"['Sprouts a ring of trees around an enemy unit, trapping it in place.', 'Mana Cost: 125/160/185/220', 'Cooldown: 12', 'Cast Range: 600', 'Duration: 3/4/5/6', 'Sprout Vision Radius: 1000', 'Increased base health from 100 to 150.', 'Replaced  Entangling Roots with  Sprout.']"
+5.40,"['Reduced base damage from 155/210/275 to 150/200/250.', 'Reduced number of bounces from 14/16/16 to 12/14/16.', ' Wrath of Nature\nReduced base damage from 155/210/275 to 150/200/250.\nReduced number of bounces from 14/16/16 to 12/14/16.', ""Added  Aghanim's Scepter Upgrade for Nature's Prophet: Increases  Wrath of Nature base damage and damage increment per bounce.\nIncreases base damage from 150/200/250 to 155/210/275.\nIncreases damage increment per bounce from 7% to 10%."", 'Increases base damage from 150/200/250 to 155/210/275.', 'Increases damage increment per bounce from 7% to 10%.']"
+5.35,"['Increased base  intelligence from 18 to 21.', ' Wrath of Nature\nReduced base damage from 175/235/295 to 155/210/275.\nReduced damage increment per bounce from 8% to 7%.', 'Reduced base damage from 175/235/295 to 155/210/275.', 'Reduced damage increment per bounce from 8% to 7%.']"
+5.31,"['Summons damaging energy to swath around the map and damage a bunch of random enemies.', 'Each enemy hit beyond the first adds 8% damage.', 'Cast Range: Global', 'Bounce Distance: Global', 'Number of Bounces: 14/16/16', 'Damage Increment per Bounce: 8%', 'Base Damage: 175/235/295', 'Mana Cost: 200/380/590', 'Cooldown: 90/60/30', 'Replaced  Rapid Experience with  Wrath of Nature']"
+5.10,['Increased  Entangling Roots damage per second from 25 to 30.']
+4.0beta9,['Reduced  Teleportation cast time from 5 to 4.']
+4.0beta6,['Reduced base attack damage from 17-24 to 17-26.']
+4.0beta5,"['Reduced  Entangling Roots mana cost from 125 on each level to 100/115/120/125.', 'Increased  Teleportation cast time from 0.33 to 5.']"
+4.0beta2,"['Nearby friendly heroes gain a bonus to their experience rate.', 'Bonus experience: 10%/20%/30%', 'Radius: 700', 'Bonus mana regen: 1%', 'Added a 4th level to all basic abilities.', 'Reduced base attack damage from 17-36 to 17-24.', 'Reduced base armor from 1 to 0.', 'Reduced base  intelligence from 19 to 18.', ' Entangling Roots\nReduced cast range from 800 to 600.\nRescaled duration from 2/4/6 to 3/3.67/4.33/5.\nIncreased mana cost from 75 to 125.\nReduced cooldown from 15 to 12.', 'Reduced cast range from 800 to 600.', 'Rescaled duration from 2/4/6 to 3/3.67/4.33/5.', 'Increased mana cost from 75 to 125.', 'Reduced cooldown from 15 to 12.', ' Teleportation\nRescaled cooldown from 60/50/30 to 60/50/40/30.\nIncreased mana cost from 50/35/25 to 70 on each level.', 'Rescaled cooldown from 60/50/30 to 60/50/40/30.', 'Increased mana cost from 50/35/25 to 70 on each level.', "" Nature's Call\nIncreased number of treants from 2/3/4 to 2/3/4/5.\nReduced cast range from 800 to 750.\nIncreased mana cost from 125 to 160.\nRescaled radius from 150/225/300 to 150/225/300/375.\nIncreased cooldown from 25 to 30."", 'Increased number of treants from 2/3/4 to 2/3/4/5.', 'Reduced cast range from 800 to 750.', 'Increased mana cost from 125 to 160.', 'Rescaled radius from 150/225/300 to 150/225/300/375.', 'Increased cooldown from 25 to 30.', ' Treant\nIncreased base health from 500 to 600.\nIncreased base movement speed from 280 to 300.', 'Increased base health from 500 to 600.', 'Increased base movement speed from 280 to 300.', 'Replaced  Tranquility Aura with  Rapid Experience']"
+3.2j,"['Increased base attack damage from 20-20 to 17-36.', 'Increased base armor from 0 to 1.', 'Increased base  intelligence from 18 to 19.', ' Entangling Roots\nIncreased cooldown from 6/8/10 to 15.\nReduced duration from 3/5/7 to 2/4/6.', 'Increased cooldown from 6/8/10 to 15.', 'Reduced duration from 3/5/7 to 2/4/6.', ""Increased  Nature's Call cooldown from 20 to 25."", ' Treant\nReduced base health from 600 to 500.\nReduced base movement speed from 300 to 280.', 'Reduced base health from 600 to 500.', 'Reduced base movement speed from 300 to 280.']"
+2.60,"['Increased base attack damage from 10-10 to 20-20.', 'Reduced base attack time from 2.50 to 1.60.', 'Reduced base armor from 2 to 0.', 'Reduced base movement speed from 300 to 280.', ' Teleportation\nIncreased mana cost from 50/25/15 to 50/35/25.\nReduced cooldown from 60/50/40 to 60/50/30.', 'Increased mana cost from 50/25/15 to 50/35/25.', 'Reduced cooldown from 60/50/40 to 60/50/30.', ' Tranquility Aura\nIncreased number of ability levels from 1 to 3\nRescaled health regeneration bonus from 200% to 200%/350%/500%', 'Increased number of ability levels from 1 to 3', 'Rescaled health regeneration bonus from 200% to 200%/350%/500%']"
+0.96,"['Increased base attack range from 550 to 600.', 'Increased  Entangling Roots damage per second from 15/15/20 to 25 on each level.']"
+0.60,['Created']

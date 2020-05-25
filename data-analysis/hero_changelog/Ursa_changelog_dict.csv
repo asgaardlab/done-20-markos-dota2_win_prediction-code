@@ -1,0 +1,67 @@
+7.26c,"['Level 10 left talent changed: +6  strength -> +175 health.', 'Level 10 right talent changed: +1.5 mana regen -> +20  Fury Swipes stack duration.', 'Level 15 left talent changed: +20  Fury Swipes stack duration -> +2 mana regen.', 'Level 20 left talent: +13  Fury Swipes damage per stack reduced to +12.', 'Reduced  strength gain from 2.8 to 2.6.', 'Talents:']"
+7.26b,"['Level 10 left talent: +8  strength reduced to +6.', 'Level 10 right talent: +2 mana regen reduced to +1.5.', 'Level 15 left talent: +25s  Fury Swipes stack duration reduced to +20.', 'Level 15 right talent: +14  agility reduced to +12.', 'Level 20 left talent: +16  Fury Swipes damage per stack reduced to +13.', 'Level 20 right talent: +1.5s  Enrage duration reduced to +1.2s.', 'Level 25 right talent: +600  Earthshock radius reduced to +480.', 'Talents:']"
+7.25a,"['Reduced base movement speed from 315 to 310.', 'Rescaled  Overpower cooldown from 16/13/10/7 to 15/13/11/9.', 'Reduced  Fury Swipes damage from 10/20/30/40 to 9/18/27/36.']"
+7.25,"['Level 25 left talent changed: 80%  Enrage status resistance -> +3  Overpower attacks.', 'Reduced number of attacks from 4/5/6/7 to 3/4/5/6.', 'Reduced mana cost from 75 on each level to 55/60/65/70.', 'Reduced cooldown from 16/14/12/10 to 16/13/10/7.', ' Overpower\nReduced number of attacks from 4/5/6/7 to 3/4/5/6.\nReduced mana cost from 75 on each level to 55/60/65/70.\nReduced cooldown from 16/14/12/10 to 16/13/10/7.', 'Increased  Fury Swipes damage from 7/14/21/28 to 10/20/30/40.', ' Enrage\nNo longer multiplies Fury Swipes damage by 1.4/1.7/2.\nNow grants 50% status resistance.\nIncreased duration from 4 on each level to 4/4.5/5.\nReduced cooldown from 70/50/30 to 50/40/30.', 'No longer multiplies Fury Swipes damage by 1.4/1.7/2.', 'Now grants 50% status resistance.', 'Increased duration from 4 on each level to 4/4.5/5.', 'Reduced cooldown from 70/50/30 to 50/40/30.', 'Talents:']"
+7.23f,"["" Earthshock's leap now gets interrupted by roots and leashes. [?]""]"
+7.23e,"['Reduced  strength gain from 3.1 to 2.8.', 'Increased  Earthshock mana cost from 75 to 85.']"
+7.23c,"['Level 10 right talent: +3 mana regen reduced to +2.', 'Reduced  strength gain from 3.3 to 3.1.', 'Talents:']"
+7.23a,"['Reduced base armor from 2 to 1.', 'Reduced  Earthshock movement speed slow from 25%/35%/45%/55% to 10%/25%/40%/55%.', 'Increased  Enrage cooldown from 50/40/30 to 70/50/30.']"
+7.23,"['Reduced movement speed from 325 to 315.', ' Earthshock\nNow makes the caster jump 250 range forward over 0.25 seconds, applying Earthshock at the landing location.\nReduced cast time from 0.3 to 0.\nIncreased cooldown from 5 on each level to 9/8/7/6.', 'Now makes the caster jump 250 range forward over 0.25 seconds, applying Earthshock at the landing location.', 'Reduced cast time from 0.3 to 0.', 'Increased cooldown from 5 on each level to 9/8/7/6.']"
+7.22g,['Increased  Earthshock damage from 50/100/150/200 to 75/125/175/225.']
+7.21d,['Reduced base armor from 3 to 2.']
+7.21c,['Reduced movement speed from 330 to 325.']
+7.21b,"['Reduced base armor from 5 to 3.', 'Increased  Overpower cooldown from 10 on each level to 16/14/12/10.']"
+7.21,"['Increased  agility gain from 2.1 to 2.4.', 'Increased movement speed from 315 to 330.', 'Reduced  Fury Swipes damage from 10/16/22/28 to 7/14/21/28.']"
+7.20e,['Increased movement speed from 305 to 315.']
+7.20c,"['Level 15 right talent: +16  agility reduced to +14.', 'Reduced  Fury Swipes damage from 12/18/24/30 to 10/16/22/28', 'Talents:']"
+7.20,"['Level 10 right talent: +1.75 mana regen increased to +3.', 'Reduced base health regeneration from 2 to 0.5.', 'Reduced base mana regeneration from 0.9 to 0.', 'Talents:']"
+7.19d,['Reduced  Fury Swipes duration from 20 on each level to 8/12/16/20.']
+7.19c,"['Reduced  Earthshock damage from 90/140/190/240 to 50/100/150/200.', 'Reduced  Fury Swipes damage per stack from 15/20/25/30 to 12/18/24/30.', 'Reduced  Enrage Fury Swipes damage multiplier from 1.5/1.75/2 to 1.4/1.7/2.']"
+7.19b,['Increased  Overpower mana cost from 45/55/65/75 to 75 on each level.']
+7.18,"['Level 20 left talent: +12  Fury Swipes damage per stack increased to +16.', 'Increased  Overpower number of attacks from 3/4/5/6 to 4/5/6/7.', 'Talents:']"
+7.17,"['Level 20 right talent: +1s  Enrage duration increased to +1.5s.', 'Increased  Overpower duration from 15 to 20.', 'Talents:']"
+7.16,"['Level 15 left talent changed: -1s  Earthshock cooldown -> +25s  Fury Swipes stack duration.', 'Level 20 left talent changed: +25s  Fury Swipes stack duration -> +12  Fury Swipes damage per stack.', 'Level 25 left talent changed: +14  Fury Swipes damage per stack -> 80%  Enrage status resistance.', 'Talents:']"
+7.15,['Increased base  strength from 23 to 24.']
+7.14,['Increased base armor from 3 to 5.']
+7.13b,['Increased  strength gain from 3 to 3.3.']
+7.10,['Increased  Fury Swipes debuff duration against  Roshan from 6 to 10.']
+7.07,"['Level 10: +10% magic resistance or +25 attack damage', 'Level 15: +20 attack speed or +5 armor', 'Level 20: +250 health or +15 movement speed', 'Level 25: +10  Fury Swipes damage per stack or +14 all stats', 'Reduced movement speed from 310 to 305.', 'Increased base health regeneration from 0.5 to 2.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06,"['Reduced base attack damage from 27-31 to 24-28 (total attack damage is now 42-46).', 'Increased  strength gain from 2.7 to 3.', 'Reduced base health regeneration from 0.75 to 0.5.']"
+7.02,"['Level 10 left talent: +8% magic resistance increased to +10%.', 'Talents:']"
+7.00,"['Level 10: +8% magic resistance or +25 attack damage', 'Level 15: +20 attack speed or +5 armor', 'Level 20: +250 health or +15 movement speed', 'Level 25: +10  Fury Swipes damage per stack or +14 all stats', 'Added talents:']"
+6.88,"['Increased base health regeneration from 0.25 to 0.75.', 'Increased  Fury Swipes duration from 15 to 20.']"
+6.87,['Increased attack range from 128 to 150.']
+6.86,"[""Added  Aghanim's Scepter upgrade for Ursa: Reduces  Enrage cooldown from 50/40/30 to 30/24/18 and allows it to be cast while disabled."", ' Enrage is no longer dispellable.']"
+6.85,"['Reduced  Strength gain from 2.9 to 2.7.', 'Reduced  Earthshock cooldown from 6 to 5.', ' Enrage\nReduced Fury Swipes damage multiplier from 1.5/2/2.5 to 1.5/1.75/2.\nReduced cooldown from 50/45/40 to 50/40/30.', 'Reduced Fury Swipes damage multiplier from 1.5/2/2.5 to 1.5/1.75/2.', 'Reduced cooldown from 50/45/40 to 50/40/30.']"
+6.84b,['Reduced  Enrage Fury Swipes damage multiplier from 2/2.5/3 to 1.5/2/2.5.']
+6.84,['Reworked  Enrage']
+6.82,[' Overpower is now dispellable.']
+6.81,[' Fury Swipes is no longer a Unique Attack Modifier.']
+6.78,"['Duration is still 6 seconds on  Roshan.', 'Increased  Fury Swipes debuff duration from 6 to 15.\nDuration is still 6 seconds on  Roshan.']"
+6.75,"['Reduced  Earthshock cast point from 0.5 to 0.3.', 'Increased  Overpower cast point from 0 to 0.3.']"
+6.73,"['Increased base armor from 2 to 3 (total armor is now 5.52).', ' Earthshock\nIncreased radius from 365 to 385.\nReduced cooldown from 7 to 6.', 'Increased radius from 365 to 385.', 'Reduced cooldown from 7 to 6.', 'Increased  Fury Swipes damage from 10/15/20/25 to 15/20/25/30.', 'Increased  Enrage own health as damage from 4%/5%/6% to 5%/6%/7%.']"
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,"['Increased attack range from 100 to 128.', 'Increased  Earthshock damage from 70/120/170/220 to 90/140/190/240.', 'Reduced  Overpower cast point from 0.5 to 0.', 'Increased  Fury Swipes debuff duration from 5 to 6.', 'Attacks during  Enrage no longer trigger Fury Swipes twice.']"
+6.66,['Increased  Overpower cast point from 0 to 0.5.']
+6.65,"['Is no longer dispellable.', 'Can no longer be set to autocast.', 'Reduced cast point from 0.5 to 0.', 'Now ignores backswing animation.', ' Overpower\nIs no longer dispellable.\nCan no longer be set to autocast.\nReduced cast point from 0.5 to 0.\nNow ignores backswing animation.']"
+6.63,['Increased  Fury Swipes damage from 6/12/18/24 to 10/15/20/25.']
+6.60,"['Increased attack speed bonus from 100/200/300/400 to 400 on each level.', 'Rescaled number of attacks from 5 on each level to 3/4/5/6.', ' Overpower\nIncreased attack speed bonus from 100/200/300/400 to 400 on each level.\nRescaled number of attacks from 5 on each level to 3/4/5/6.']"
+6.59,['Increased  Fury Swipes buff duration from 3 to 5.']
+6.58,"["" Enrage damage is now directly added to Ursa's attack, instead of being dealt in a separate instance.""]"
+6.44,['Changed attack type from ranged to melee (attack range is 100 still). [?]']
+6.39,"['Reduced  Overpower cooldown from 15 to 10.', 'Reduced  Enrage cooldown from 40 to 25.']"
+6.38,['Reduced  Earthshock mana cost from 75/85/95/105 to 75 on each level.']
+6.36,['Increased base  Strength and gain from 21 + 2.3 to 23 + 2.9.']
+6.35,['Increased base armor from 1 to 2 (total armor is now 4.52).']
+6.25,['Reduced  Enrage cooldown from 75 to 40.']
+6.24,"['Reduced mana cost from 100/150/200 to 0/0/0.', 'Increased cooldown from 20 to 75.', ' Enrage\nReduced mana cost from 100/150/200 to 0/0/0.\nIncreased cooldown from 20 to 75.']"
+6.19,[' Overpower no longer grants 2%/4%/6%/8% movement speed.']
+6.17,"['Reduced  Strength gain from 2.6 to 2.3.', ' Enrage\nIncreased own health as damage from 3%/4.5%/6% to 4%/5%/6%.\nNo longer deals damage to allies.', 'Increased own health as damage from 3%/4.5%/6% to 4%/5%/6%.', 'No longer deals damage to allies.']"
+6.14,['Increased  Enrage duration from 10 to 15.']
+6.13,"['Reduced  Overpower movement speed bonus from 3%/6%/9%/12% to 2%/4%/6%/8%.', 'Reworked  Enrage']"
+6.00,"['Increased base armor from 0 to 1 (total armor is now 3.52).', ' Overpower\nReduced buff duration from 30 to 15.\nIncreased cooldown from 8 to 15.\nReduced mana cost from 55/65/75/85 to 45/55/65/75.', 'Reduced buff duration from 30 to 15.', 'Increased cooldown from 8 to 15.', 'Reduced mana cost from 55/65/75/85 to 45/55/65/75.']"
+5.78,['Reduced  Enrage mana cost from 45 to 40.']
+5.77,"['Reduced  Earthshock cooldown from 9.5 to 7.', 'Increased  Fury Swipes damage from 5/10/15/20 to 6/12/18/24.']"
+5.76,"['Reduced buff duration from infinite to 30.', 'Reduced cooldown from 9.5 to 8.', ' Overpower\nReduced buff duration from infinite to 30.\nReduced cooldown from 9.5 to 8.', 'Reduced  Enrage mana cost from 145 to 45.']"
+5.75,['Created.']

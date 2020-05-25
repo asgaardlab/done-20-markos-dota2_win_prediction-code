@@ -1,0 +1,69 @@
+7.26b,"['Level 10 left talent: +30 attack speed reduced to +25.', 'Level 10 right talent: +200 health reduced to +150.', 'Level 15 left talent: +25 movement speed reduced to +20.', 'Level 15 right talent: +30 attack damage reduced to +25.', 'Level 20 left talent: +50%  Open Wounds lifesteal reduced to +40%.', 'Level 20 right talent: 20% evasion reduced to 16%.', 'Level 25 left talent: +2s  Rage duration reduced to +1.5s.', 'Level 25 right talent: +1.5%  Feast max health as lifesteal reduced to +1.2%.', 'Talents:']"
+7.24b,"['Reduced base attack speed from 140 to 130.', 'Reduced base attack damage from 20-30 to 17-27.']"
+7.23b,"['Cooldown now begins upon leaving the infested unit, instead of upon cast.', 'Reduced infested hero movement speed bonus from 30%/40%/50% to 15%/20%/25%. [?]', 'Reduced max health bonus from 750/1000/1250 to 400/800/1200.', ""Increased  Aghanim's Scepter cooldown from 20 to 25."", "" Infest\nCooldown now begins upon leaving the infested unit, instead of upon cast.\nReduced infested hero movement speed bonus from 30%/40%/50% to 15%/20%/25%. [?]\nReduced max health bonus from 750/1000/1250 to 400/800/1200.\nIncreased  Aghanim's Scepter cooldown from 20 to 25.""]"
+7.23,"['Reduced  strength gain from 2.9 to 2.4.', 'Reduced base attack time from 1.85 to 1.7.', 'Increased base attack speed from 100 to 140.', 'Reduced base attack damage from 27-37 to 20-30.', 'Increased base armor from 0 to 1.', ' Rage\nNo longer grants 40/50/60/70 attack speed.\nNow grants 15% movement speed.', 'No longer grants 40/50/60/70 attack speed.', 'Now grants 15% movement speed.', "" Feast\nNow grants 15/30/45/60 attack speed.\nNo longer deals damage based on the target's max health.\nReduced max health as lifesteal from 1.5%/2.25%/3%/3.75% to 1.5%/2%/2.5%/3%."", 'Now grants 15/30/45/60 attack speed.', ""No longer deals damage based on the target's max health."", 'Reduced max health as lifesteal from 1.5%/2.25%/3%/3.75% to 1.5%/2%/2.5%/3%.', 'Reduced  Open Wounds lifesteal from 50% to 35%.', 'Reworked  Infest']"
+7.21d,['Increased  Rage cooldown from 16 to 18.']
+7.21c,['Reduced  strength gain from 3.2 to 2.9.']
+7.21b,"['Reduced  strength gain from 3.6 to 3.2.', 'Reduced  Feast lifesteal from 1.75%/2.5%/3.25%/4% to 1.5%/2.25%/3%/3.75%.']"
+7.21,"['Level 15 left talent: +30 movement speed reduced to +25.', 'Increased  strength gain from 3.1 to 3.6.', 'Increased movement speed from 310 to 325.', 'Increased base armor from -2 to 0.', 'Talents:']"
+7.20e,['Increased  agility gain from 1.9 to 2.4.']
+7.20,"['Level 25 right talent changed: +2%  Feast current health as damage/lifesteal -> +1%  Feast max health as damage/lifesteal.', 'Increased  intelligence gain from 1.75 to 1.8.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', 'Changed  Feast lifesteal from 4.5%/5.5%/6.5%/7.5% of current health to 1.75%/2.5%/3.25%/4% of max health.', 'Talents:']"
+7.16,"['Level 15 left talent: +35 movement speed reduced to +30.', 'Talents:']"
+7.13b,"['Reduced base armor from -1 to -2.', 'Reduced movement speed from 315 to 310.']"
+7.12,['Increased  Open Wounds mana cost from 140/130/120/110 to 140 on each level.']
+7.07,"['Level 10: +15 attack speed or +5 all stats', 'Level 15: +25 attack damage or +250 health', 'Level 20: +25 movement speed or 15% evasion', 'Level 25: +1s  Rage duration or +15 armor', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06e,['Reduced  strength gain from 3.3 to 3.1.']
+7.06,"['Increased  strength gain from 3 to 3.3.', 'Reduced base health regeneration from 0.25 to 0.']"
+7.05,"['Reduced  Rage attack speed bonus from 50/60/70/80 to 40/50/60/70.', 'Increased  Open Wounds mana cost from 110 on each level to 140/130/120/110.']"
+7.04,['Reduced base attack damage from 29-39 to 27-37 (total attack damage is now 52-62).']
+7.03,['Reduced base attack damage from 32-42 to 29-39 (total attack damage is now 54-64).']
+7.02,"['Level 15 right talent: +250 health increased to +250.', 'Talents:']"
+7.00,"['Level 10: +15 attack speed or +5 all stats', 'Level 15: +25 attack damage or +200 health', 'Level 20: +25 movement speed or 15% evasion', 'Level 25: +1s  Rage duration or +15 armor', 'Added talents:']"
+6.88,['Increased base attack time from 1.7 to 1.85.']
+6.87,"['Increased  strength gain from 2.4 to 3.', 'Increased attack range from 128 to 150.', ' Infest now requires at least level 2 to target ancient creeps.']"
+6.86,"['Increased  Rage attack speed bonus from 30/45/60/80 to 50/60/70/80.', 'Increased  Feast lifesteal from 4%/5%/6%/7% to 4.5%/5.5%/6.5%/7.5%.', 'Reduced  Infest cooldown from 100 on each level to 100/75/50.']"
+6.85,"['Reduced  Rage cooldown from 19 to 16.', ' Infest is now castable on ancient creeps (can also take  Control over them).']"
+6.84,"[' Feast is now considered as normal bonus damage (can crit and cleave off it).', 'Increased  Open Wounds lifesteal from 15%/20%/25%/30% to 50% on each level.', ""Added  Aghanim's Scepter upgrade for Lifestealer: Grants Lifestealer the  Assimilate ability.""]"
+6.83,"['Allows Lifestealer to take control of the unit he is infesting, including their abilities.', 'When taking control over a unit, it will maintain its cover, however it will become attackable by the enemy.', ""Controlled units share Lifestealer's movement speed."", 'Cannot be used on heroes.', 'If used on allied units, the unit will die upon consuming.', ' Infest now allows Lifestealer to control the unit he is in using a sub-ability.']"
+6.79,"['Increased  Rage cooldown from 17 to 19.', 'Increased  Open Wounds cast time from 0.01 to 0.2.', 'Increased  Infest cast time from 0.01 to 0.2.']"
+6.78c,['Increased  Rage cooldown from 15 to 17.']
+6.78,['Reduced  Open Wounds cast range from 600 to 200/300/400/500.']
+6.75,['Increased  Rage duration from 2.5/3.25/4/4.75 to 3/4/5/6.']
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,"['Naix infests a target, hiding in it. When he comes out, he consumes the unit, healing for based on its health and killing it.', ""Level 1: Can target allied and neutral units, heals N'aix for the unit's current health upon consuming."", ""Level 2: Can target allied, enemy and neutral units, heals N'aix for the unit's current health upon consuming."", ""Level 3: Can target allied, enemy and neutral units, heals N'aix for the unit's maximum health upon consuming."", 'Cooldown: 100/60/30', 'Mana cost: 50', 'Cast Range: 150', 'Note: This kills the infested unit.', 'Increased attack range from 100 to 128.', 'Reworked  Infest:']"
+6.70,['Increased  Open Wounds lifesteal from 10%/15%/20%/25% to 15%/20%/25%/30%.']
+6.68,"['Increased base attack damage from 27-37 to 32-42 (total attack damage is now 57-67).', 'Casting  Open Wounds now gives Lifestealer an attack order on the target.']"
+6.67,['Reduced  Open Wounds cooldown from 30/25/20/15 to 24/20/16/12.']
+6.66,['Added an allies-only visual effect to the  Infested unit.']
+6.65,['Increased movement speed from 300 to 315.']
+6.64,"['Fixed  Open Wounds interaction with  Infest, to make it possible to cast it on non-hero units again.']"
+6.60,"['Rescaled slow from stun/70%/30%/10%/10%/10%/10% to 70%/70%/60%/50%/30%/10%/10%/10%.', 'Can no longer be cast on non-hero units (to prevent a bug with  Infest).', ' Open Wounds\nRescaled slow from stun/70%/30%/10%/10%/10%/10% to 70%/70%/60%/50%/30%/10%/10%/10%.\nCan no longer be cast on non-hero units (to prevent a bug with  Infest).']"
+6.58,['Increased  Open Wounds mana cost from 70/80/90/100 to 100 on each level.']
+6.53,"['Rescaled  Open Wounds slow progression from [ Info Needed ] to stun/70%/30%/10%/10%/10%/10%', 'Reduced  Infest mana cost from 150/100/50 to 50 on each level.']"
+6.52b,[' Infest now properly dispels debuffs upon cast.']
+6.49,"['Increased base  strength and gain from 15 + 1.4 to 25 + 2.4.', 'Reduced base  agility and gain from 26 + 4.05 to 18 + 1.9.', 'Increased  intelligence gain from 1.5 to 1.75.', 'Increased base attack damage from 13-23 to 27-37 (total attack damage is now 52-62).', 'Reduced base armor from 1 to -1 (total armor is now 1.52).', 'Increased base movement speed from 295 to 300.', 'Removed Poison Sting.', 'Removed Anabolic Frenzy.', 'Reworked  Rage']"
+6.35,['Increased base armor from 0 to 1 (total armor is now 4.64).']
+6.27b,['Reduced  Rage cooldown from 120 to 90.']
+6.25,['Increased base attack damage from 8-18 to 13-23 (total attack damage is now 39-49).']
+6.20,"['Reduced Anabolic Frenzy movement speed bonus from 3%/6%/9%/12% to 3%/5%/7%/9%.', ' Rage\nReduced attack damage bonus from 10/20/30 to 10/15/20.\nReduced duration from 15/20/25 to 10/15/20.', 'Reduced attack damage bonus from 10/20/30 to 10/15/20.', 'Reduced duration from 15/20/25 to 10/15/20.']"
+6.12b,"['Increased  Feast lifesteal from 9%/18%/27%/36% to 10%/20%/30%/40%.', ' Rage\nIncreased duration from 13/18/22 to 15/20/25.\nReduced cooldown from 180/165/150 to 120 on each level.', 'Increased duration from 13/18/22 to 15/20/25.', 'Reduced cooldown from 180/165/150 to 120 on each level.']"
+6.12,"['Reduced lifesteal from 15%/30%/40%/50% to 9%/18%/27%/36%.', 'Is no longer a Unique Attack Modifier.', ' Feast\nReduced lifesteal from 15%/30%/40%/50% to 9%/18%/27%/36%.\nIs no longer a Unique Attack Modifier.', 'Reduced Poison Sting duration from 3 to 2.']"
+6.10,['Increased base attack time from 1.6 to 1.7.']
+6.05,[' Feast is now a Unique Attack Modifier.']
+6.00,"['Reduced base attack time from 1.7 to 1.6.', 'Improved Attack Animation from 0.46/0.54 to 0.39/0.44.', 'Improved Cast Animation from 0.4/1.100 to 0.0/0.510.', 'Increased turn rate from 0.25 to 2.1 [?].']"
+5.78,['Reduced  agility gain from 4.15 to 4.05']
+5.72,['Reduced base mana regen from 0.50 to 0.01.']
+5.71,"['Reduced base movement Speed from 299 to 295', 'Reduced  Feast lifesteal from 20/35/50/65% to 15/30/45/50.']"
+5.58,"['Increased base attack damage from 18-24 to 19-29.', 'Increased base attack time from 1.5 to 1.7.', 'Reduced  agility gain from 5.00 to 4.15.']"
+5.57,['Reduced  Rage (Pre 6.49) duration from 15/20/25 to 13/18/22.']
+5.55,"[""Shrugging off magic spells as if they were insects, Na'ix closes in on his prey, poison oozing from his jaws and a maddened rage in his eyes..."", 'Bonus Damage: 10/20/30', 'Mana Cost: 150/200/250', 'Duration: 15/20/25', 'Cooldown: 180/165/150', 'Increased  agility gain from 4.5 to 5.00.', 'Replaced  Siphon Strength (Pre 5.55) with  Rage (Pre 6.49).']"
+5.50,"['Increased Base HP from 100 to 150.', 'Reduced base attack damage from 23-29 to 18-24.', ""Removed  Aghanim's Scepter upgrade for Lifestealer.""]"
+5.40,"[""Added  Aghanim's Scepter upgrade for Lifestealer: Reduces  Siphon Strength (Pre 5.55) cooldown from 75 to 15.""]"
+5.35,"['Increased base attack damage from 13-19 to 23-29.', 'Increased base  agility from 21 to 26.']"
+5.31,['Increased base attack damage from 13-16 to 13-19.']
+5.10,"['Update Hero Model from Zergling to Ghoul.', ' Poison Sting\nReduced DPS from 6/8/9/10 to 2/4/7/10.\nIncreased Movement Speed Slow from 5/10/21/28% to 10/20/30/45%.\nReduced Poison Duration from 3/5/6/7 to 3.', 'Reduced DPS from 6/8/9/10 to 2/4/7/10.', 'Increased Movement Speed Slow from 5/10/21/28% to 10/20/30/45%.', 'Reduced Poison Duration from 3/5/6/7 to 3.']"
+4.1beta01,"[""Adds poison damage to this hero's normal attacks, slightly slowing movement speeds."", 'DPS: 6/8/9/10.', 'Movement Speed Slow: 5/10/21/28%.', 'Poison Duration: 3/5/6/7.', 'Reduced  Anabolic Frenzy movement speed bonus from 10/20/30/40% to 3/6/9/12%', 'Replaced  Drain Life with  Poison Sting']"
+4.0beta6,"['Increased base attack damage from 8-11 to 13-16.', 'Increased base armor from 0 to 1.']"
+4.0beta5,"['Increased base attack damage from 1-4 to 8-11.', 'Reduced turn rate from 0.5 to 0.25.', 'Increased Base  strength from 13 to 15.', 'Increased  strength gain from 1.2 to 1.3.', ' Drain Life\nRescaled mana cost from 100 to 60/80/100/120.\nIncreased duration from 3.00 to 3.05.', 'Rescaled mana cost from 100 to 60/80/100/120.', 'Increased duration from 3.00 to 3.05.']"
+4.0beta2,['Created.']

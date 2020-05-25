@@ -1,0 +1,70 @@
+7.26c,['Increased  Nethertoxin max damage per second from 60/80/100/120 to 80/100/120/140.']
+7.26b,"['Level 10 left talent: 10% spell lifesteal reduced to 8%.', 'Level 10 right talent: +25 attack speed reduced to +20.', 'Level 15 left talent: +6  Corrosive Skin attack speed slow/damage per second/magic resistance reduced to +5.', 'Level 15 right talent: +125 attack range reduced to +100.', 'Level 20 left talent: +90 attack damage reduced to +70.', 'Level 20 right talent: +100  Viper Strike damage per second reduced to +80.', 'Talents:']"
+7.25,"['Level 10 left talent: 8% spell lifesteal increased to 10%.', 'Increased  Viper Strike damage per second from 60/100/145 to 80/120/160.', 'Talents:']"
+7.23f,['Increased  Poison Attack mana cost from 20 to 25.']
+7.23,"['Increased base attack speed from 100 to 120.', 'Reworked  Poison Attack']"
+7.22f,"['Level 25 left talent: +120 attack damage increased to +160.', 'Talents:']"
+7.22e,"['Level 10 right talent: +20 attack speed increased to +25.', 'Level 15 right talent: +100 attack range increased to +125.', 'Increased base damage from 23-25 to 25-27.', 'Talents:']"
+7.22d,['Increased  Poison Attack damage per missing health point from 0.25/0.5/0.75/1 to 0.5/0.75/1/1.25.']
+7.21d,"['Reduced  agility gain from 2.8 to 2.5.', 'Increased  Nethertoxin cooldown from 5 to 6.']"
+7.21c,"['Reduced  agility gain from 3.3 to 2.8.', ' Poison Attack\nReduced movement speed slow from 25%/30%/35%/40% to 10%/20%/30%/40%.\nReduced attack speed slow from 25/30/35/40 to 10/20/30/40.', 'Reduced movement speed slow from 25%/30%/35%/40% to 10%/20%/30%/40%.', 'Reduced attack speed slow from 25/30/35/40 to 10/20/30/40.', ' Nethertoxin\nThe damage per second of multiple overlapping instances no longer stacks. [?]\nIncreased mana cost from 75 on each level to 70/80/90/100.', 'The damage per second of multiple overlapping instances no longer stacks. [?]', 'Increased mana cost from 75 on each level to 70/80/90/100.']"
+7.21,"['Increased  agility gain from 2.9 to 3.3.', ' Nethertoxin\nIncreased radius from 350 to 380.\nIncreased damage per second from 20/35/50/65 to 30/45/60/75.', 'Increased radius from 350 to 380.', 'Increased damage per second from 20/35/50/65 to 30/45/60/75.']"
+7.20,"['Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', ' Nethertoxin\nIncreased radius from 300 to 350.\nIncreased damage per second from 20/30/40/50 to 20/35/50/65.', 'Increased radius from 300 to 350.', 'Increased damage per second from 20/30/40/50 to 20/35/50/65.']"
+7.15,['Increased base  strength from 20 to 21.']
+7.07,"['Reduced movement speed from 285 to 275.', 'Reduced base armor from -1 to -2 (total armor is now 1.5).', 'Increased turn rate from 0.4 to 0.5.', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', ' Poison Attack\nNow deals 0.25/0.5/0.75/1 damage per missing health to the target, instead of a fixed 10/16/22/28.\nIncreased movement speed slow from 10%/20%/30%/40% to 25%/30%/35%/40%.\nIncreased attack speed slow from 10/20/30/40 to 25/30/35/40.\nIncreased debuff duration from 2 to 3.\nIncreased cooldown from 0 on each level to 6/4/2/0.\nIncreased mana cost from 20 on each level to 40/35/30/25.', 'Now deals 0.25/0.5/0.75/1 damage per missing health to the target, instead of a fixed 10/16/22/28.', 'Increased movement speed slow from 10%/20%/30%/40% to 25%/30%/35%/40%.', 'Increased attack speed slow from 10/20/30/40 to 25/30/35/40.', 'Increased debuff duration from 2 to 3.', 'Increased cooldown from 0 on each level to 6/4/2/0.', 'Increased mana cost from 20 on each level to 40/35/30/25.', 'Reworked  Nethertoxin into a completely new ability']"
+7.06d,['Reduced  Viper Strike cooldown from 60/45/30 to 50/40/30.']
+7.06c,"['Level 15 right talent: +10  strength increased to +15.', 'Talents:']"
+7.06,"['Increased  strength gain from 2.1 to 2.4.', 'Reduced base health regeneration from 0.25 to 0.', ' Viper Strike\nNow deals its first tick of damage immediately, instead of 1 second after the debuff is placed. [?]\nReduced cooldown from 70/50/30 to 60/45/30.', 'Now deals its first tick of damage immediately, instead of 1 second after the debuff is placed. [?]', 'Reduced cooldown from 70/50/30 to 60/45/30.']"
+7.05,"['Level 10 left talent: +150 health increased to +175.', 'Level 15 left talent: +14  agility increased to +16.', 'Level 15 right talent: +8  strength increased to +10.', 'Level 20 right talent changed: +7 armor ->  Poison Attack affects buildings.', 'Level 25 right talent changed:  Poison Attack affects buildings -> +20 armor.', 'Talents:']"
+7.03,"['Level 15 right talent: +7  strength increased to +8.', 'Talents:']"
+7.02,"['Level 10 left talent: +125 health increased to +150.', 'Talents:']"
+7.00,"['Level 10: +125 health or +15 attack damage', 'Level 15: +14  agility or +7  strength', 'Level 20: +75 attack range or +7 armor', 'Level 25: +80  Viper Strike damage per second or  Poison Attack affects buildings', 'Increased  Nethertoxin damage from 2.5/5/7.5/10 to 3/6/9/12 (max damage bonus from 40/80/120/160 to 48/96/144/192).', 'Added talents:']"
+6.88,"['Increased  strength gain from 1.9 to 2.1.', ""Reduced  Aghanim's Scepter upgraded  Viper Strike cooldown from 12 to 10.""]"
+6.87,"[' Poison Attack is no longer a unique attack modifier.', ' Corrosive Skin is now dispellable.']"
+6.85,"['Increased  agility gain from 2.5 to 2.9.', ' Nethertoxin is now disabled by Break.', ' Corrosive Skin no longer pierces spell immunity.']"
+6.84,['Reduced  Viper Strike cooldown from 80/50/30 to 70/50/30.']
+6.82,"['Now only procs on enemies within 1400 radius.', 'No longer procs on damage from other Corrosive Skins.', ' Corrosive Skin:\nNow only procs on enemies within 1400 radius.\nNo longer procs on damage from other Corrosive Skins.']"
+6.79,"['Reduced  Poison Attack cooldown from 4/3/0/0 to 0 on each level.', ' Corrosive Skin is now disabled during  Doom']"
+6.78,"[' Corrosive Skin now procs on any damage Viper receives, instead of only proccing on attacks.', ' Viper Strike can no longer be dispelled by Strong Dispels.']"
+6.77,['Increased base  strength from 17 to 20.']
+6.75,"['Increased  Nethertoxin damage from 2/4/6/8 to 2.5/5/7.5/10 (max damage bonus from 32/64/96/128 to 40/80/120/160).', 'Increased  Corrosive Skin debuff duration from 3 to 4.', ""Increased  Aghanim's Scepter upgraded  Viper Strike cast range from 800 to 900.""]"
+6.74,"['Increased damage per second from 6/12/18/24 to 10/16/22/28.', 'Poison Attack damage is now lethal.', ' Poison Attack\nIncreased damage per second from 6/12/18/24 to 10/16/22/28.\nPoison Attack damage is now lethal.']"
+6.72,[' Corrosive Skin debuff now stacks with  Poison Attack debuff.']
+6.71,"['Increased movement speed slow and magic resistance bonus from 5%/10%/15%/20% to 10%/15%/20%/25%.', 'Increased attack speed slow and damage per second from 5/10/15/20 to 10/15/20/25.', ' Corrosive Skin\nIncreased movement speed slow and magic resistance bonus from 5%/10%/15%/20% to 10%/15%/20%/25%.\nIncreased attack speed slow and damage per second from 5/10/15/20 to 10/15/20/25.']"
+6.69,"["" Aghanim's Scepter now also reduces  Viper Strike mana cost from 125/175/250 to 125 on each level.""]"
+6.68,"[""Added  Aghanim's Scepter upgrade for Viper: Increases  Viper Strike cast range from 500 to 800 and reduces cooldown from 80/50/30 to 12 on each level.""]"
+6.64,['Reduced movement speed from 290 to 285.']
+6.63,['Reduced movement speed from 300 to 290.']
+6.61,[' Nethertoxin no longer works on allied units.']
+6.60,"['Moved  Poison Attack from second into the first ability slot.', 'Replaced  Frenzy with  Nethertoxin']"
+6.58,['Reduced  Viper Strike cooldown from 80 on each level to 80/50/30.']
+6.39,['Reduced base attack damage from 28-30 to 23-25 (total attack damage is now 44-46).']
+6.36,['Increased  Poison Attack cooldown from 0 to 4/3/0/0.']
+6.33,['Increased base attack damage from 16-18 to 28-30 (total attack damage is now 49-51).']
+6.31,['Reduced  Poison Attack mana cost from 30 to 20.']
+6.26,[' Corrosive Skin now grants 5%/10%/15%/20% magic resistance.']
+6.17,['Increased  Corrosive Skin debuff duration from 2 to 3.']
+6.13,['Replaced  Trueshot Aura with  Corrosive Skin']
+6.04,"['Renamed to Poison Attack.', 'Changed legacy hotkey from W to C.', ' Poison Arrows\nRenamed to Poison Attack.\nChanged legacy hotkey from W to C.']"
+6.00,"['Improved Attack Animation from 0.300/0.700 to 0.330/1.000.', 'Improved Cast Animation from 0.500/0.830 to 0.300/0.510.']"
+5.79,['Increased  Poison Arrows mana cost from 27 to 30.']
+5.75,['Increased  Poison Arrows mana cost from 10 to 27.']
+5.72,['Reduced base regen from 0.50 to 0.25.']
+5.62,['Changed back movement type from horse to hover. [?]']
+5.61,['Changed movement type from hover to horse. [?]']
+5.58,"['Reduced base attack damage from 16-22 to 15-18.', 'Increased Base Attack Time from 1.5 to 1.7.', 'Reduced night vision from 1700 to 800.', 'Reduced base  strength from 18 to 17.', 'Reduced  intelligence gain from 2.00 to 1.8.', 'Increased  Poison Arrows from 4/8/12/16 to 6/12/18/24 DPS.', 'Reduced  Frenzy mana cost from 110/125/140/155 to 80/90/110/130.', ' Viper Strike\nIncreased damage per second from 50/85/130 to 60/100/145.\nReduced cooldown from 100/80/50 to 80 on each level.', 'Increased damage per second from 50/85/130 to 60/100/145.', 'Reduced cooldown from 100/80/50 to 80 on each level.']"
+5.57,"['Reduced  Poison Arrows  mana cost from 14 to 10.', ' Viper Strike\nIncreased cast range from 470 to 500.\nReduced damage per second from 55/90/150 to 50/85/130.', 'Increased cast range from 470 to 500.', 'Reduced damage per second from 55/90/150 to 50/85/130.']"
+5.55,"['Reduced  Trueshot Aura AoE from 900 to 300.', 'Increased  Viper Strike cast range from 300 to 470.']"
+5.54,"['Reduced bonus attack speed 30/60/90/120% to 25/50/75/100%.', 'Reduced extra damage taken from 10/20/30/35% to 10/15/20/25%.', 'Increased mana cost from 90/105/120/130 to 110/125/140/155.', ' Frenzy\nReduced bonus attack speed 30/60/90/120% to 25/50/75/100%.\nReduced extra damage taken from 10/20/30/35% to 10/15/20/25%.\nIncreased mana cost from 90/105/120/130 to 110/125/140/155.', 'Reduced  Trueshot Aura bonus ranged damage from 9/18/27/36% to 7/14/21/28%.']"
+5.50,"['Increased base HP from 100 to 150.', 'Increased  Poison Arrows mana cost from 13 to 14.', ' Frenzy\nReduced bonus attack speed 50/80/120/160% to 30/60/90/120%.\nIncreased bonus damage taken from 10/15/20/25 to 10/20/30/35%.\nIncreased cooldown from 10 to 40.', 'Reduced bonus attack speed 50/80/120/160% to 30/60/90/120%.', 'Increased bonus damage taken from 10/15/20/25 to 10/20/30/35%.', 'Increased cooldown from 10 to 40.', ""Removed  Aghanim's Scepter upgrade for Viper.""]"
+5.40,"['Reduced attack range from 600 to 575.', ""Added  Aghanim's Scepter upgrade for Viper: Increases  Viper Strike damage per second from 40/70/110 to 55/90/150.""]"
+5.35,"['Strike with a vicious bite, slowing movement and attack speeds significantly and dealing poison damage over time.', 'Deals 40/70/110 damage per second.', 'Attack/Movement Speed Slow: 40/60/80%.', 'Duration: 5.1s', 'Mana cost: 125/175/250.', 'Cooldown 100/80/50 seconds.', 'Cast range: 300', 'Projectile Speed: 1200.', 'Increased cast range from 600 to 700.', 'Now grants +1 bonus damage.', 'Increased mana cost from 13 to 14.', ' Poison Arrows\nIncreased cast range from 600 to 700.\nNow grants +1 bonus damage.\nIncreased mana cost from 13 to 14.', 'Replaced  Dark Prison with  Viper Strike.']"
+5.31,['Reduced base attack time from 1.63 to 1.5']
+4.0beta10,"['Reduced  Poison Arrows mana cost from 16 to 13.', 'Reduced  Frenzy mana cost from 100/115/130/145 to 90/105/120/130.']"
+4.0beta6,['Reduced base attack damage from 17-23 to 16-22.']
+4.0beta5,"['No longer grants bonus damage.', 'Increased mana cost from 8 to 16.', 'Reduced duration from 3 to 2.', 'Reduced DPS from 5/10/15/20 to 4/8/12/16.', ' Poison Arrows\nNo longer grants bonus damage.\nIncreased mana cost from 8 to 16.\nReduced duration from 3 to 2.\nReduced DPS from 5/10/15/20 to 4/8/12/16.', 'Increased  Frenzy mana cost from 100 to 100/115/130/145.']"
+4.0beta2,"[""Coats Viper's arrows with poison.  Adds bonus damage"", 'Applies a debuff that reduces movement speed, attack speed and applies a dps.', 'Bonus Damage: 10/20/30/40.', 'Movement Speed Slow: 10/20/30/40%', 'Attack Speed Slow: 10/20/30/40%', 'DPS: 5/10/15/20.', 'Duration: 3.', 'Cast range: 600.', 'Mana cost: 8.', 'Added a 4th level to all basic abilities.', 'Replaced  Dark Prison with  Poison Arrows.']"
+3.2j,"['Reduced base attack damage from 20-20 to 17-23.', 'Increased  Frenzy cooldown from 1 to 14 seconds.', ' Dark Prison\nIncreased cooldown from 15 to 30 seconds.\nIncreased mana cost from 90 to 110 seconds\nReduced duration from 4/6/8 to 2/3/4 seconds.', 'Increased cooldown from 15 to 30 seconds.', 'Increased mana cost from 90 to 110 seconds', 'Reduced duration from 4/6/8 to 2/3/4 seconds.']"
+2.60,"['Traps the subject in a magical prison.', 'Stun Duration: 4/6/8.', 'Creep Stun Duration 9/18/24.', 'Mana cost: 90.', 'Cooldown: 15.', 'Cast Range: 700.', 'Rescaled base attack damage from 10-10 to 20-20.', 'Now  Frenzy drains 4/7/10 hp per second.', 'Reduced  Frenzy mana cost from 50 to 20/30/40.', 'Replaced  Healing Wave with  Dark Prison']"
+0.96b,"['Reduced  Healing Wave heal per wave from 130/215/300 to 100/175/250.', 'Reduced  Trueshot Aura bonus damage from 15/30/45% to 10/20/30%.']"
+0.60,['Created. [?]']

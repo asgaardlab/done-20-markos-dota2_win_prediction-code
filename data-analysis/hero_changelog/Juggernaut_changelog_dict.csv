@@ -1,0 +1,83 @@
+7.26c,"['Level 15 right talent: +60 movement speed during  Blade Fury increased to +80.', 'Level 25 left talent: +0.8s  Omnislash duration increased to +1s.', "" Omnislash now waits for 0.15 seconds before ending when it doesn't find any valid target, rather than instantly ending"", 'Talents:']"
+7.26b,"['Level 10 left talent: +25 movement speed reduced to +20.', 'Level 10 right talent: +6 all stats reduced to +5.', 'Level 15 left talent: +25 attack speed reduced to +20.', 'Level 15 right talent: +75 movement speed during  Blade Fury reduced to +60.', 'Level 20 left talent: +130  Blade Fury damage per second reduced to +100.', 'Level 20 right talent: +10 armor reduced to +8.', 'Level 25 left talent: +1s  Omnislash duration reduced to +0.8s.', 'Level 25 right talent: +600 health reduced to +475.', 'Talents:']"
+7.25,"[""Reworked  Aghanim's Scepter upgrade:""]"
+7.24,"['Increased base attack damage from 12‒16 to 16-20.', 'Increased base movement speed from 300 to 305.']"
+7.23c,"['Level 15 left talent: +20 attack speed increased to +25.', 'Increased base attack speed from 100 to 110.', 'Talents:']"
+7.23b,"['Level 10 left talent: +20 movement speed increased to +25.', 'Level 10 right talent: +5 all stats increased to +6.', 'Talents:']"
+7.23,"['Level 15 right talent: +50 movement speed during  Blade Fury increased to +75.', 'Level 20 left talent: +100  Blade Fury damage per second increased to +130.', 'Talents:']"
+7.22f,"['Reduced base  strength from 21 to 20.', 'Reduced base  agility from 36 to 34.']"
+7.22e,['Reduced  Blade Fury damage per second from 90/115/140/160 to 85/110/135/160.']
+7.21d,['Increased  Omnislash cooldown from 130 to 140.']
+7.21c,['Reduced  Healing Ward movement speed from 400 to 350.']
+7.21b,['Reduced  Omnislash attack rate divisor from 1.8 to 1.7.']
+7.21,"['Level 15 right talent changed: +1s  Blade Fury duration -> +50 movement speed during  Blade Fury.', 'Increased  agility gain from 2.4 to 2.8.', 'Reduced base armor from 1 to 0.', 'Reduced  Healing Ward movement speed from 420 to 400.', ' Omnislash\nNow roots the caster during it. [?]\nIncreased cooldown from 130/120/110 to 130 on each level.', 'Now roots the caster during it. [?]', 'Increased cooldown from 130/120/110 to 130 on each level.', 'Talents:']"
+7.20e,['Reduced  Omnislash attack damage bonus from 30/45/60 to 30/40/50.']
+7.20d,"['Level 15 left talent: +25 attack speed reduced to +20.', 'Increased movement speed from 295 to 300.', ' Omnislash now applies a basic dispel on Juggernaut upon cast.', 'Talents:']"
+7.20,"['Cast range: 350', 'Search radius: 425', 'Attack rate multiplier: 1.8', 'Bonus attack damage: 30/45/60', 'Duration: 3/3.25/3.5', 'Cooldown: 130/120/110', 'Mana cost: 200/275/350', 'Notes: Performs instant attacks on each slash. Juggernaut is not disabled during Omnislash and can perform actions normally. Does not instantly kill creeps.', "" Aghanim's Scepter upgrade: Increases duration to 4/4.25/4.5 and reduces cooldown to 70."", 'Increased base  agility from 26 to 36.', 'Reduced base attack damage from 22-26 to 12-16.', 'Reduced base health regeneration from 2 to 0.5.', 'Reduced base mana regeneration from 0.9 to 0.', 'Reworked  Omnislash']"
+7.19,['Increased  Blade Fury damage per second from 80/105/130/155 to 90/115/140/160.']
+7.17,['Increased base armor from 0 to 1.']
+7.15,['Increased base  strength from 20 to 21.']
+7.08,['Reduced  Blade Dance critical damage from 200% to 180%.']
+7.07,"['Level 10: +20 attack damage or +175 health', 'Level 15: +7 armor or +20 attack speed', 'Level 20: +8 all stats or +20 movement speed', 'Level 25: +175  Blade Fury damage per second or +20  agility', 'Reduced movement speed from 300 to 295.', 'Increased base health regeneration from 0.5 to 2.', 'Increased base mana regeneration from 0.01 to 0.9.', ' Blade Fury\nNo longer silences Juggernaut while active.\n Omnislash is now inactive during Blade Fury. [?]', 'No longer silences Juggernaut while active.', ' Omnislash is now inactive during Blade Fury. [?]', 'Reworked talents:']"
+7.06,"['Increased  strength gain from 1.9 to 2.2.', 'Reduced base health regeneration from 0.75 to 0.5.']"
+7.05,['Reduced movement speed from 305 to 300.']
+7.03,"['Now has a 75 experience bounty.', 'Increased gold bounty from 25 to 75.', ' Healing Ward\nNow has a 75 experience bounty.\nIncreased gold bounty from 25 to 75.']"
+7.02,"['Level 10 right talent: +150 health increased to +175.', 'Level 15 left talent: +6 armor increased to +7.', ' Healing Ward now has a 25 gold bounty.', 'Talents:']"
+7.00,"['Level 10: +20 attack damage or +150 health', 'Level 15: +6 armor or +20 attack speed', 'Level 20: +8 all stats or +20 movement speed', 'Level 25: +175  Blade Fury damage per second or +20  agility', 'Added talents:']"
+6.88f,['Increased  Healing Ward mana cost from 120/125/130/135 to 140 on each level.']
+6.88e,['Reduced base attack damage from 24-28 to 22-26 (total attack damage is now 48-52).']
+6.87,"['Increased attack range from 128 to 150.', ' Healing Ward now follows Juggernaut by default.']"
+6.85,['Increased  Blade Fury damage per second from 80/100/120/140 to 80/105/130/155.']
+6.84,"['No longer ignores ancient creeps, Roshan and creep-heroes.', 'Now follows the same dispel rules as other sources of spell immunity (no longer dispels most positive buffs).', 'Increased cooldown from 30/25/22/18 to 42/34/26/18.', ' Blade Fury\nNo longer ignores ancient creeps, Roshan and creep-heroes.\nNow follows the same dispel rules as other sources of spell immunity (no longer dispels most positive buffs).\nIncreased cooldown from 30/25/22/18 to 42/34/26/18.', 'Reduced  Healing Ward movement speed from 450 to 420.', ' Omnislash\nNo longer ignores ancient creeps, Roshan and creep-heroes (still cannot be directly cast on them).\nNo longer mini-stuns the target upon cast.\nUsing items/abilities during Omnislash no longer requires facing direction.', 'No longer ignores ancient creeps, Roshan and creep-heroes (still cannot be directly cast on them).', 'No longer mini-stuns the target upon cast.', 'Using items/abilities during Omnislash no longer requires facing direction.']"
+6.83c,"['Reduced  agility gain from 2.85 to 2.4.', 'Rescaled  Blade Fury mana cost from 110 on each level to 120/110/100/90.', 'Rescaled  Healing Ward mana cost from 80/100/120/140 to 120/125/130/135.']"
+6.83b,"['Reduced base armor from 1 to 0 (total armor is now 3.64).', 'Reduced  Omnislash cast range from 450 to 350.']"
+6.83,"['Increased base  agility from 20 to 26.', 'Increased  Blade Dance critical strike chance from 15%/20%/25%/35% to 20%/25%/30%/35%.']"
+6.82,"['No longer gets canceled by the following abilities:  Chronosphere,  Toss,  Black Hole,  Global Silence,  Doom.', 'Reduced cooldown from 30/27/24/21 to 30/26/22/18.', ' Blade Fury\nNo longer gets canceled by the following abilities:  Chronosphere,  Toss,  Black Hole,  Global Silence,  Doom.\nReduced cooldown from 30/27/24/21 to 30/26/22/18.']"
+6.81b,"['Reduced base attack time from 1.5 to 1.4.', 'Rescaled  Omnislash damage per slash from 175-250 to 200-225.']"
+6.81,['Reduced base attack time from 1.6 to 1.5.']
+6.80,['Reduced  Blade Fury cooldown from 30/28/26/24 to 30/27/24/21.']
+6.79,"['Increased  Healing Ward movement speed from 300 to 450.', "" Omnislash\nReduced  Aghanim's Scepter upgraded cooldown from 110/100/90 to 70 on each level.\nNow jumps on units in ethereal form again (no longer ignores them, so it does not stop if only ethereal targets are within range)."", ""Reduced  Aghanim's Scepter upgraded cooldown from 110/100/90 to 70 on each level."", 'Now jumps on units in ethereal form again (no longer ignores them, so it does not stop if only ethereal targets are within range).']"
+6.78,[' Omnislash no longer jumps on  Tombstone Zombies.']
+6.75,"['Reduced base attack time from 1.7 to 1.6.', ' Omnislash now kills creeps and neutrals in one hit (This does not include player controlled units, ancient neutral creeps or Roshan).']"
+6.74,[' Omnislash now gives Juggernaut 200 flying vision during its duration.']
+6.73,"['Increased damage per slash from 150-250 to 175-250.', 'Increased number of slashes from 3/5/8 to 3/6/9.', "" Omnislash\nIncreased damage per slash from 150-250 to 175-250.\nIncreased number of slashes from 3/5/8 to 3/6/9.\nIncreased  Aghanim's Scepter upgraded number of slashes from 5/7/10 to 6/9/12.""]"
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,"['Increased base health regeneration from 0.25 to 0.75.', 'Increased attack range from 100 to 128.', 'Increased  Blade Dance critical strike chance from 10%/20%/25%/35% to 15%/20%/25%/35%.']"
+6.71,['Increased  Healing Ward max health as heal per second from 1%/2%/4%/5% to 2%/3%/4%/5%.']
+6.70,"[' Blade Fury now properly damages units in ethereal form.', 'Increased  Healing Ward movement speed from 150 to 300.']"
+6.69,[' Omnislash no longer wastes a strike by considering units in ethereal form in its search (fully ignores ethereal units).']
+6.68,"['Increased max health as heal per second from 1%/2%/3%/4% to 1%/2%/4%/5%.', 'Reduced mana cost from 140 on each level to 80/100/120/140.', ' Healing Ward\nIncreased max health as heal per second from 1%/2%/3%/4% to 1%/2%/4%/5%.\nReduced mana cost from 140 on each level to 80/100/120/140.']"
+6.66,['Reduced  Blade Fury cooldown from 30 on each level to 30/28/26/24.']
+6.63,['Reduced  Healing Ward cooldown from 75 to 60.']
+6.60,"[""Added  Aghanim's Scepter upgrade for Juggernaut: Increases  Omnislash number of slashes from 3/5/8 to 5/7/10 and cooldown from 130/120/110 to 110/100/90."", 'Changed  Omnislash legacy hotkey from N to E.']"
+6.51,"['Fixed  Impale,  Earth Spike,  Ravage and  Burrowstrike affecting Juggernaut during  Blade Fury.']"
+6.50,['Increased movement speed from 295 to 305.']
+6.49,"['Increased base  strength from 17 to 19.', 'Increased movement speed from 290 to 295.', 'Reduced base armor from 2 to 1 (total armor is now 3.8).']"
+6.48b,['Increased base armor from 0 to 2 (total armor is now 4.8).']
+6.35,['Increased base armor from -1 to 0 (total armor is now 2.8).']
+6.21,[' Blade Fury is now disabled during  Omnislash.']
+6.20,"['Increased mana cost from 125 to 140.', 'Increased cooldown from 50 to 75.', ' Healing Ward\nIncreased mana cost from 125 to 140.\nIncreased cooldown from 50 to 75.']"
+6.17,"['Reduced base  strength and gain from 19 + 2.2 to 17 + 1.9.', 'Reduced base  agility from 22 to 20.', ' Omnislash\nFixed Roshan stopping to attack when hit by Omnislash.\nNow ends once no valid target is found within range, instead of continuing to search for targets for the full duration.', 'Fixed Roshan stopping to attack when hit by Omnislash.', 'Now ends once no valid target is found within range, instead of continuing to search for targets for the full duration.']"
+6.10,"['Changed legacy hotkey from B to F.', 'Increased cooldown from 18 to 30.', ' Blade Fury\nChanged legacy hotkey from B to F.\nIncreased cooldown from 18 to 30.']"
+6.07,['Tweaked the pause effect on  Omnislash. (?)']
+6.04,"['Reduced number of slashes from 4/6/9 to 3/5/8.', 'Increased slash interval from 0.3 to 0.4.', ' Omnislash\nReduced number of slashes from 4/6/9 to 3/5/8.\nIncreased slash interval from 0.3 to 0.4.']"
+6.02,['Fixed  Omnislash not going on cooldown sometimes when used.']
+6.00,"['Increased base  strength from 17 to 19.', 'Increased  strength gain from 1.75 to 2.20.', 'Reduced  intelligence gain from 1.60 to 1.40.', ' Blade Fury\nReduced mana cost from 120 to 110.\nReduced cooldown from 20 to 18.', 'Reduced mana cost from 120 to 110.', 'Reduced cooldown from 20 to 18.', 'Increased  Omnislash number of slashes from 3/5/8 to 4/6/9.']"
+5.84,"['Increased damage per second from 70/90/110/130 to 80/100/120/140.', 'Increased mana cost from 82/89/96/100 to 120 on each level.', 'Increased radius from 210 to 250.', ' Blade Fury\nIncreased damage per second from 70/90/110/130 to 80/100/120/140.\nIncreased mana cost from 82/89/96/100 to 120 on each level.\nIncreased radius from 210 to 250.', ' Omnislash\nReduced damage per slash from 170-270 to 150-250.\nReduced slash interval from 0.5 to 0.3.', 'Reduced damage per slash from 170-270 to 150-250.', 'Reduced slash interval from 0.5 to 0.3.']"
+5.65,['Increased  Healing Ward cooldown from 40 to 50.']
+5.62,"['Reduced  strength gain from 1.95 to 1.75.', 'Increased  agility gain from 2.75 to 2.85.', 'Increased  intelligence gain from 1.5 to 1.6.']"
+5.60,"['Increased  Blade Fury damage per second from 50/70/90/110 to 70/90/110/130.', 'Reduced  Omnislash damage per slash from 200-300 to 170-270.']"
+5.59,['Increased  Omnislash cooldown from 130/95/60 to 130/120/110.']
+5.58,"['Increased base attack time from 1.5 to 1.7.', 'Reduced night vision from 1500 to 800.', 'Reduced base attack damage from 24-32 to 24-28.', 'Reduced base  strength from 19 to 17.', 'Reduced  strength gain from 2.25 to 1.95.', 'Reduced base  agility from 23 to 22.', 'Reduced  agility gain from 2.85 to 2.75.', 'Reduced base  intelligence from 19 to 17.', 'Reduced  intelligence gain from 1.8 to 1.5.', 'Reduced  Blade Fury damage per second from 70/90/110/130 to 50/70/90/110.', ' Omnislash\nReduced number of slashes from 4/6/10 to 3/5/8.\nReduced mana cost from 200/300/400 to 200/275/350.', 'Reduced number of slashes from 4/6/10 to 3/5/8.', 'Reduced mana cost from 200/300/400 to 200/275/350.']"
+5.54,"['Increased  strength gain from 2.1 to 2.25.', 'Reduced  Omnislash slash radius from 900 to 550.']"
+5.50,"['Increased base health from 100 to 150.', 'Increased  Blade Fury damage per second from 50/70/90/110 to 70/90/110/130.', 'Increased  Blade Dance proc chance from 10%/18%/26%/35% to 10%/18%/26%/36%.', ""Removed  Omnislash  Aghanim's Scepter Upgrade.""]"
+5.40,"[""Added  Aghanim's Scepter upgrade for Juggernaut: Increases  Omnislash damage per slash from 200-300 to 300-400.""]"
+5.35,['Now  Omnislash can hits nearby enemy units instead of only slashing the main target.']
+5.31,"['Increased  Blade Fury damage per second from 30/40/50/60 to 50/70/90/110.', ' Omnislash\nIncreased mana cost from 200 on each level to 200/300/400.\nIncreased cooldown from 60 on each level to 130/95/60.', 'Increased mana cost from 200 on each level to 200/300/400.', 'Increased cooldown from 60 on each level to 130/95/60.']"
+5.10,"['Reduced base attack time from 1.67 to 1.5.', 'Reduced base attack damage from 25-49 to 24-32.', 'Reduced  Blade Fury duration from 10 to 5.']"
+4.10,"['Reworked Omnislash triggers.', 'Fixed an Omnislash bug, the ministun was lasting indefinitely.', ' Omnislash\nReworked Omnislash triggers.\nFixed an Omnislash bug, the ministun was lasting indefinitely.']"
+4.0beta9,"['Increased  Blade Fury damage per second from 25/35/45/55 to 30/40/50/60.', 'Reduced  Healing Ward movement speed from 300 to 150.']"
+4.0beta6,"['Increased base attack damage from 12-34 to 25-49.', 'Increased base armor from 0 to 1.', 'Increased  Blade Fury damage per second from 20/30/40/50 to 25/35/45/55.', ' Omnislash\nIncreased number of slashes from 4/6/8 to 4/6/10.\nIncreased damage per slash from 150-250 to 200-300.', 'Increased number of slashes from 4/6/8 to 4/6/10.', 'Increased damage per slash from 150-250 to 200-300.']"
+4.0beta5,"['Reduced mana cost from 100 on each level to 82/89/96/100.', 'Increased duration from 5 to 10.', ' Blade Fury\nReduced mana cost from 100 on each level to 82/89/96/100.\nIncreased duration from 5 to 10.']"
+4.0beta2,['Created.']

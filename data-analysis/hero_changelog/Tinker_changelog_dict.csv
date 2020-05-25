@@ -1,0 +1,53 @@
+7.26b,"['Level 10 left talent: +150 cast range reduced to +125.', 'Level 10 right talent: +11% spell damage amplification reduced to +8%.', 'Level 15 left talent: +11% mana loss reduction reduced to +9%.', 'Level 15 right talent: +3s  March of the Machines duration reduced to +2.5s.', 'Level 20 left talent: +10  March of the Machines damage reduced to +8.', 'Level 20 right talent: +10 armor reduced to +8.', 'Level 25 left talent: 0.3s  Heat-Seeking Missile bash on hit reduced to 0.25s.', 'Level 25 right talent: +100  Laser damage reduced to +80.', 'Talents:']"
+7.25,"['Level 10 left talent: +125 cast range increased to +150.', 'Level 15 right talent: +2s  March of the Machines duration increased to +3s.', 'Talents:']"
+7.24,"['Level 15 right talent changed: +150 gold per minute -> +2s  March of the Machines duration.', 'Talents:']"
+7.23,"['Increased base  strength from 17 to 18.', 'Increased base mana regen from 0.25 to 0.75.']"
+7.22f,"['Level 10 right talent: +8% spell damage amplification increased to +11%.', 'Level 10 left talent: +100 cast range increased to +125.', 'Level 15 left talent: 15% spell lifesteal -> 11% mana loss reduction.', 'Talents:']"
+7.22d,"['Increased base  intelligence from 28 to 30.', 'Reduced  Heat-Seeking Missile cooldown from 25 to 18.']"
+7.22c,"['Level 15 left talent: 10% spell lifesteal increased to 15%.', 'Level 15 right talent changed: +30 movement speed -> +150 gold per minute.', 'Level 20 left talent: +8  March of the Machines damage increased to +10.', 'Rescaled  March of the Machines mana cost from 145/150/165/190 to 130/150/170/190.', 'Talents:']"
+7.22,"['Level 10 left talent: +75 cast range increased to +100.', 'Level 10 right talent: +6% spell damage amplification increased to +8%.', 'Increased base mana regeneration from 0 to 0.25.', 'Increased  intelligence gain from 2.5 to 3.3.', 'Talents:']"
+7.21,['Increased  intelligence gain from 2.2 to 2.5.']
+7.20,"['Level 15 right talent: +40 movement speed reduced to +30.', 'Increased  strength gain from 2.3 to 2.5.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', ' March of the Machines no longer collide with spell immune units.', 'Talents:']"
+7.15,"['Reduced base  intelligence from 30 to 28.', 'Increased base attack damage from 22-28 to 24-30.']"
+7.10,"['Level 20 right talent changed: +100 attack damage -> +10 armor.', ""Reduced  Aghanim's Scepter Laser bounce range from 650 to 400."", 'Increased mana cost from 95/120/145/170 to 110/130/150/170.', "" Laser\nReduced  Aghanim's Scepter Laser bounce range from 650 to 400.\nIncreased mana cost from 95/120/145/170 to 110/130/150/170."", 'Talents:']"
+7.08,['Reduced base movement speed from 305 to 290.']
+7.07d,['Increased  Laser cooldown from 14 on each level to 20/18/16/14.']
+7.07,"['Level 10: +6 armor or +8  intelligence', 'Level 15: +4% spell damage amplification or +225 health', 'Level 20: +15% magic resistance or +75 cast range', 'Level 25: +100  Laser damage or 20% spell lifesteal', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', ' Heat-Seeking Missile\nReduced projectile speed from 900 to 700.\nReduced mana cost from 120/140/160/180 to 80/100/120/140.', 'Reduced projectile speed from 900 to 700.', 'Reduced mana cost from 120/140/160/180 to 80/100/120/140.', ' Rearm now affects items in the backpack.', 'Reworked talents:']"
+7.06,"['Increased  strength gain from 2 to 2.3.', 'Reduced base health regeneration from 0.25 to 0.']"
+7.02,"['Level 10 left talent: +5 armor increased to +6.', 'Level 15 right talent: +200 health increased to +225.', 'Talents:']"
+7.00,"['Level 10: +5 armor or +8  intelligence', 'Level 15: +4% spell damage amplification or +200 health', 'Level 20: +15% magic resistance or +75 cast range', 'Level 25: +100  Laser damage or 20% spell lifesteal', 'Added talents:']"
+6.87,"['Increased base  intelligence from 27 to 30.', ' Rearm\nCan no longer refresh  Pipe of Insight.\nReduced mana cost from 125/225/325 to 100/200/300.', 'Can no longer refresh  Pipe of Insight.', 'Reduced mana cost from 125/225/325 to 100/200/300.']"
+6.86,"['Reduced cast time from 0.53 to 0.4.', 'Increased cast range from 550 to 650.', ""Increased  Aghanim's Scepter bounce radius from 550 to 650."", "" Laser\nReduced cast time from 0.53 to 0.4.\nIncreased cast range from 550 to 650.\nIncreased  Aghanim's Scepter bounce radius from 550 to 650.""]"
+6.85,['Reduced  Rearm channeling time from 3/2/1 to 3/1.5/0.75.']
+6.84,"['Increased  Laser hero blind duration from 3 on each level to 3/3.5/4/4.5.', 'Reduced  Rearm mana cost from 150/250/350 to 125/225/325.', "" Aghanim's Scepter upgraded  Laser\nNo longer increases cast range from 550 to 1100.\nNow causes it to bounce to enemy heroes with a 550 radius around the target."", 'No longer increases cast range from 550 to 1100.', 'Now causes it to bounce to enemy heroes with a 550 radius around the target.']"
+6.83,['Increased  Heat-Seeking Missile damage from 100/175/250/325 to 125/200/275/350.']
+6.82,['Changed  March of the Machines damage type from universal to magical [?]']
+6.81,"[' Laser no longer uses a projectile for the blind and applies it instantly upon cast.', ' Heat-Seeking Missile damage is no longer blocked by ethereal.']"
+6.80,"[""Added  Aghanim's Scepter for Tinker: Increases  Laser cast range from 550 to 1100 and  Heat-Seeking Missile rocket count from 2 to 4.""]"
+6.74,['Increased  March of the Machines duration from 5 to 6.']
+6.73,['Increased  Laser blind duration from 2 to 3.']
+6.72,['Increased  Heat-Seeking Missile number of rockets from 1/1/2/2 to 2 on each level.']
+6.69,"['Now only blinds the target, instead of blinding within a 200 radius.', 'Increased blind miss chance from 10%/15%/20%/25% to 100%', 'Reduced blind duration from 9/18 to 2.', ' Laser\nNow only blinds the target, instead of blinding within a 200 radius.\nIncreased blind miss chance from 10%/15%/20%/25% to 100%\nReduced blind duration from 9/18 to 2.']"
+6.68,['Increased base armor from 1 to 2 (total armor is now 3.82).']
+6.60,[' Rearm can no longer refresh  Black King Bar.']
+6.45,['Increased  Laser mana cost from 95/110/120/145 to 95/120/145/170.']
+6.43,[' Rearm can no longer refresh  Arcane Ring.']
+6.35,"['Increased movement speed from 285 to 305.', 'Increased base  intelligence from 21 to 27.']"
+6.26,[' Rearm can no longer refresh  Refresher Orb.']
+6.25,"['Reduced  intelligence gain from 3 to 2.2.', 'Tinker can now buy  Hand of Midas and  Necronomicon.', ' Rearm can no longer refresh  Hand of Midas,  Necronomicon and  Helm of the Dominator.']"
+6.22,"['Reduced base  strength from 19 to 17.', 'Reduced attack range from 550 to 500.', 'Reduced movement speed from 290 to 285.', ' Rearm\nReduced channel time from 4/3/2 to 3/2/1.\nIncreased mana cost from 150/225/300 to 150/250/350.', 'Reduced channel time from 4/3/2 to 3/2/1.', 'Increased mana cost from 150/225/300 to 150/250/350.']"
+6.20,['Increased  Rearm channel time from 3/2/1 to 4/3/2.']
+6.19b,['Increased  Rearm mana cost from 150/200/250 to 150/225/300.']
+6.17,"['No longer disables Tinker for the rearm time.', 'Can now be interrupted.', 'Increased mana cost from 125/150/175 to 150/200/250.', ' Rearm\nNo longer disables Tinker for the rearm time.\nCan now be interrupted.\nIncreased mana cost from 125/150/175 to 150/200/250.']"
+6.15,['Increased attack range from 500 to 550.']
+6.04b,['Increased  March of the Machines damage from 8/16/24/40 to 12/24/32/40.']
+6.04,"['Tinker can now buy  Manta Style again (since recasting it destroys previous illusions).', 'Tinker can no longer buy  Necronomicon.', 'Increased  March of the Machines mana cost from 135/150/165/180 to 145/150/165/190.']"
+6.03b,"['Reduced cast time from 3.53 to 0.53.', 'Reduced cast range from 400 to 300.', ' March of the Machines\nReduced cast time from 3.53 to 0.53.\nReduced cast range from 400 to 300.']"
+6.03,"['Tinker can no longer buy  Manta Style and  Hand of Midas.', ' March of the Machines\nIncreased cast time from 0.53 to 3.53.\nIncreased cast range from 300 to 400.\nNow sends the robots on its own for 5 seconds, instead of requiring channeling.\nIncreased robots speed from 300 to 400.', 'Increased cast time from 0.53 to 3.53.', 'Increased cast range from 300 to 400.', 'Now sends the robots on its own for 5 seconds, instead of requiring channeling.', 'Increased robots speed from 300 to 400.']"
+6.00,"['Increased number of targets from 1 on each level to 1/1/2/2.', 'Reduced damage from 110/220/330/440 to 100/175/250/325.', 'Reduced mana cost from 130/160/190/220 to 120/140/160/180.', 'Reduced cooldown from 35 to 25.', ' Heat-Seeking Missile\nIncreased number of targets from 1 on each level to 1/1/2/2.\nReduced damage from 110/220/330/440 to 100/175/250/325.\nReduced mana cost from 130/160/190/220 to 120/140/160/180.\nReduced cooldown from 35 to 25.', 'Reduced  Rearm channel time from 5/3/1 to 3/2/1.']"
+5.84b,['Increased movement speed from 270 to 290.']
+5.80,"['Increased damage from 60/120/180/240 to 80/160/240/320.', 'Increased mana cost from 95/105/120/135 to 95/110/120/145.', 'Increased cooldown from 1 to 14.', ' Laser\nIncreased damage from 60/120/180/240 to 80/160/240/320.\nIncreased mana cost from 95/105/120/135 to 95/110/120/145.\nIncreased cooldown from 1 to 14.']"
+5.79,['Reduced  Laser cooldown from 5 to 1.']
+5.78,['Reduced  Laser cooldown from 9 to 5.']
+5.77,"['Increased mana cost from 125/135/150/175 to 130/160/190/220.', 'Increased cooldown from 25 to 35.', ' Heat-Seeking Missile\nIncreased mana cost from 125/135/150/175 to 130/160/190/220.\nIncreased cooldown from 25 to 35.']"
+5.76,['Created.']

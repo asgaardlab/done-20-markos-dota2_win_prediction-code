@@ -1,0 +1,85 @@
+7.26c,"['Level 10 right talent: +2.5 mana regen reduced to +2.', 'Talents:']"
+7.26b,"['Level 10 left talent: +250 health reduced to +200.', 'Level 10 right talent: +3 mana regen reduced to +2.5.', 'Level 15 left talent: +1.5%  Static Field current health as damage reduced to +1.2%', 'Level 15 right talent: +30 movement speed reduced to +25.', 'Level 20 left talent: +0.5s  Lightning Bolt stun duration reduced to +0.4s.', 'Level 20 right talent: 15% cooldown reduction reduced to 12%.', 'Level 25 left talent: +145  Arc Lightning damage reduced to +115.', 'Level 25 right talent: +275 cast range reduced to +225.', 'Talents:']"
+7.25,"['Reduced attack point from 0.45 to 0.35.', 'Increased base movement speed from 295 to 300.']"
+7.23e,"['Level 10 left talent changed: +20% experience -> +250 health.', 'Talents:']"
+7.23c,"['Level 10 left talent: +25% experience gain reduced to +20%.', 'Talents:']"
+7.23,"['Level 25 left talent: +155  Arc Lightning damage reduced to +145.', 'Increased  Nimbus mana cost from 275 to 325.', 'Talents:']"
+7.22f,['Increased base  intelligence from 21 to 22.']
+7.22e,"['Increased damage from 225/325/425 to 250/350/450.', 'Increased mana cost from 225/325/450 to 250/350/450.', "" Thundergod's Wrath\nIncreased damage from 225/325/425 to 250/350/450.\nIncreased mana cost from 225/325/450 to 250/350/450.""]"
+7.22d,"['Increased base armor from 0 to 1.', 'Increased  Static Field damage from 5%/7%/9%/11% to 6%/8%/10%/12%.']"
+7.22,"['Level 10 right talent changed: +6 armor -> +3 mana regen.', 'Increased base mana regeneration from 0 to 0.25.', 'Reduced attack point from 0.633 to 0.45.', 'Talents:']"
+7.21d,"['Increased base  intelligence and gain from 20 + 3.1 to 21 + 3.3.', 'Increased  Static Field current health as damage from 4%/6%/8%/10% to 5%/7%/9%/11%.']"
+7.21,"['Increased  intelligence gain from 2.7 to 3.1.', 'Reduced movement speed from 300 to 295.', "" Static Field now only affects enemies hit by Zeus' spells, instead of affecting every enemy in a 1200 radius around him. [?]""]"
+7.20,"['Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', "" Nimbus' Lightning Bolt interval is no longer affected by cooldown reductions.""]"
+7.19d,['Increased  Arc Lightning mana cost from 65/70/75/80 to 80 on each level.']
+7.19c,"['Level 25 left talent: +170  Arc Lightning damage reduced to +155.', 'Reduced  strength gain from 2.3 to 2.1.', 'Talents:']"
+7.19,['Reduced  Nimbus radius from 500 to 450.']
+7.17,['Increased  Lightning Bolt mana cost from 75/95/115/135 to 90/105/120/135.']
+7.16,"['Level 15 right talent: +40 movement speed reduced to +30.', 'Increased base attack damage from 28-36 to 33-41.', 'Reduced  strength gain from 2.6 to 2.3.', 'Rescaled  Arc Lightning damage from 85/100/115/145 to 70/95/120/145.', ' Lightning Bolt\nIncreased cast range from 700 on each level to 700/750/800/850.\nIncreased damage from 100/175/275/350 to 125/200/275/350.', 'Increased cast range from 700 on each level to 700/750/800/850.', 'Increased damage from 100/175/275/350 to 125/200/275/350.', 'Talents:']"
+7.15,"['Reduced base  intelligence from 22 to 20.', 'Increased base attack damage from 26-34 to 28-36.']"
+7.14,"['Level 15 left talent: +1%  Static Field current health as damage increased to +1.5%.', 'Talents:']"
+7.13b,['Increased base  strength from 19 to 21.']
+7.12,"['Increased base attack damage from 21-29 to 26-34.', 'Increased attack range from 350 to 380.']"
+7.10,"['Level 25 right talent: +200 cast range increased to +275.', 'Talents:']"
+7.07,"['Level 10: +25 movement speed or +2 mana regen', 'Level 15: +15% magic resistance or +7 armor', 'Level 20: +0.5s  Lightning Bolt stun duration or +75  Arc Lightning damage', 'Level 25: +2%  Static Field current health as damage or +200 cast range', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06c,['Increased movement speed from 295 to 300.']
+7.06,"['Level 20 left talent changed: -40s respawn time -> +0.5s  Lightning Bolt stun duration.', 'Increased  strength gain from 2.3 to 2.6.', 'Reduced base health regeneration from 0.25 to 0.', 'Talents:']"
+7.05,"['Level 10 left talent changed: +200 health -> +25 movement speed.', 'Level 15 left talent: +10% magic resistance increased to +15%.', 'Level 15 right talent: +5 armor increased to +7.', 'Level 20 right talent changed: +35 movement speed -> +75  Arc Lightning damage.', 'Increased base  intelligence from 20 to 22.', 'Talents:']"
+7.03,"['Level 10 left talent: +175 health increased to +200.', 'Level 25 left talent: +1.5%  Static Field current health as damage increased to +2%.', 'Reduced  Nimbus cooldown and duration from 40 to 35.', 'Talents:']"
+7.02,"['Level 10 left talent: +150 health increased to +175.', 'Reduced strike interval from 2.5 to 2.25.', 'Reduced duration from 50 to 40.', 'Reduced cooldown from 50 to 40.', ' Nimbus\nReduced strike interval from 2.5 to 2.25.\nReduced duration from 50 to 40.\nReduced cooldown from 50 to 40.', 'Talents:']"
+7.01,"['Level 20 left talent: -35s respawn time increased to -40s.', 'Level 20 right talent: +30 movement speed increased to +35.', 'Talents:']"
+7.00,"[""No longer increases  Thundergod's Wrath damage from 225/325/425 to 440/540/640."", 'Now grants Zeus a new ability,  Nimbus', "" Aghanim's Scepter\nNo longer increases  Thundergod's Wrath damage from 225/325/425 to 440/540/640.\nNow grants Zeus a new ability,  Nimbus""]"
+6.88b,['Increased  Lightning Bolt stun duration from 0.1 to 0.2.']
+6.88,['Reduced  Arc Lightning cooldown from 1.75 to 1.6.']
+6.87,"[""Static Field's damage is now flagged as HP Removal. [?]"", 'Reduced current health as damage from 5%/7%/9%/11% to 4%/6%/8%/10%.', "" Static Field\nStatic Field's damage is now flagged as HP Removal. [?]\nReduced current health as damage from 5%/7%/9%/11% to 4%/6%/8%/10%."", ""Reduced  Thundergod's Wrath damage from 225/350/475 to 225/325/425.""]"
+6.84,"['Reduced vision radius from 1000 to 500.', 'Fixed sometimes hitting invisible units depending on the order of player slots.', "" Thundergod's Wrath\nReduced vision radius from 1000 to 500.\nFixed sometimes hitting invisible units depending on the order of player slots.""]"
+6.82,['Increased  Static Field radius from 1000 to 1200.']
+6.81b,"['Increased vision and True Sight duration from 3 to 4.5.', 'Increased hero search radius from 250 to 325.', ' Lightning Bolt\nIncreased vision and True Sight duration from 3 to 4.5.\nIncreased hero search radius from 250 to 325.']"
+6.81,"['Reduced  Arc Lightning cast point from 0.4 to 0.2.', ' Lightning Bolt\nCan now be cast on the ground, affecting the closest enemy hero in a 250 range.\nReduced True Sight radius from 900 to 750.\nReduced flying vision radius from 900 to 750.', 'Can now be cast on the ground, affecting the closest enemy hero in a 250 range.', 'Reduced True Sight radius from 900 to 750.', 'Reduced flying vision radius from 900 to 750.']"
+6.80,['Increased  Arc Lightning cast range from 700 to 850.']
+6.77,['Increased  strength gain from 1.8 to 2.3.']
+6.76,"['Increased damage from 210/335/460 to 225/350/475.', ""Increased  Aghanim's Scepter upgraded damage from 400/500/600 to 440/540/640."", "" Thundergod's Wrath\nIncreased damage from 210/335/460 to 225/350/475.\nIncreased  Aghanim's Scepter upgraded damage from 400/500/600 to 440/540/640.""]"
+6.75,"['Reduced  Arc Lightning cooldown from 2 to 1.75.', ""Reduced  Thundergod's Wrath cooldown from 120 to 90.""]"
+6.73,"['Increased  Arc Lightning damage from 85/100/115/130 to 85/100/115/145.', 'Reduced  Lightning Bolt cooldown from 6.5 to 6.', ' Static Field now also affects creeps, invisible and fogged units.']"
+6.72c,"['Increased  Lightning Bolt vision radius from 1000/750 to 1000/1000.', ""Increased  Thundergod's Wrath vision radius from 1000/750 to 1000/1000.""]"
+6.72,"['Reduced cooldown from 2.25 to 2.', 'Reduced mana cost from 65/72/79/87 to 65/70/75/80.', ' Arc Lightning\nReduced cooldown from 2.25 to 2.\nReduced mana cost from 65/72/79/87 to 65/70/75/80.']"
+6.71,"['Increased  Static Field radius from 900 to 1000.', ""Increased  Aghanim's Scepter upgraded  Thundergod's Wrath damage from 355/460/570 to 400/500/600.""]"
+6.70,['Reduced  Lightning Bolt cooldown from 7 to 6.5.']
+6.68,['Reduced  Arc Lightning cooldown from 2.5 to 2.25.']
+6.67,['Increased  Static Field radius from 800 to 900.']
+6.63,['Reduced base  agility and gain from 15 + 1.7 to 11 + 1.2.']
+6.60,"['Can now be cast while the lightning of a previous cast is still bouncing.', 'Increased cooldown from 2 to 2.5.', ' Arc Lightning\nCan now be cast while the lightning of a previous cast is still bouncing.\nIncreased cooldown from 2 to 2.5.', "" Lightning Bolt is now fully blocked by  Linken's Sphere, instead of mini-stun only.""]"
+6.41,"["" Thundergod's Wrath no longer hits  Meepo clones.""]"
+6.36,"[' Lightning Bolt no longer turns the target invulnerable for 0.01 seconds before applying the damage.', 'Reduced  Static Field radius from 1000 to 800.']"
+6.35,"['Increased  strength gain from 1.4 to 1.8.', 'Increased  intelligence gain from 2.5 to 2.8.', 'Increased base movement speed from 290 to 295.', 'Increased  Static Field radius from 600 to 1000.']"
+6.33b,['Fixed  Static Field having a minor effect even without having it learned.']
+6.29b,['Increased  Static Field radius from 500 to 600.']
+6.28,['Reworked  Static Field']
+6.17,"['Increased cast range from 600 to 700.', 'Reduced mana cost from 75/95/115/160 to 75/95/115/135', 'Reduced cooldown from 8 to 7.', ' Lightning Bolt\nIncreased cast range from 600 to 700.\nReduced mana cost from 75/95/115/160 to 75/95/115/135\nReduced cooldown from 8 to 7.']"
+6.10,"[""Fixed some memory leak issues on  Lightning Bolt,  Static Field and  Thundergod's Wrath.""]"
+6.00,"['Increased Acquisition range from 400 to 500.', 'Improved Attack Animation from 0.500/0.500 to 0.633/0.366.', 'Improved Cast Animation from 0.300/0.510 to 0.400/0.500.', 'Reduced base movement speed from 300 to 290.', 'Reduced base  strength and gain from 20 + 2 to 19 + 1.4.', 'Increased  Arc Lightning mana cost from 50/57/64/71 to 65/72/79/86.', ' Static Field no longer affects sleeping units (neutral creeps at night).']"
+5.80,"[""Reduced  Thundergod's Wrath damage from 225/350/475 ( 350/475/600) to 210/335/460 ( 365/460/570).""]"
+5.79,"['Reduced Radius from 450/500/550/600 to 400.', 'Rescaled HP removal from 15% to 7/9/11/13%.', ' Static Field (pre 6.28)\nReduced Radius from 450/500/550/600 to 400.\nRescaled HP removal from 15% to 7/9/11/13%.']"
+5.75,"['Increased  Lightning Bolt mana cost from  75/95/115/125 to 75/95/115/160', ""Rescaled  Thundergod's Wrath cooldown from  125/100/80 to 120.""]"
+5.72,['Increased  Static Field (pre 6.28) mana cost from 13 to 20.']
+5.71,"['Reduced Acquisition range from 650 to 400.', 'Increased  Arc Lightning damage from 75/85/100/115 to 85/100/115/130.', 'Increased  Lightning Bolt damage from 75/150/225/300 to 100/175/275/350.', ""Increased  Thundergod's Wrath damage from 200/300/425 ( 300/425/525) to 225/350/475 ( 300/475/600).""]"
+5.61,"['Increased  Static Field (pre 6.28) mana cost from 11/11/10/9 to 13.', 'Reduced  Arc Lightning cooldown from 3 to 2 seconds.']"
+5.58,"['Increased Attack Range from 150 to 350.', 'Reduced base attack damage by from 26-29 to 21-29.', 'Increased Base  strength from 18 to 20.', 'Reduced Base  agility from 17 to 15.', 'Increased  intelligence gain from 2.25 to 2.5.', ""Reduced  Thundergod's Wrath damage from 200/325/450 to 200/300/425.""]"
+5.57,"['Increased damage from 75/80/85/95 to 75/85/100/115.', 'Reduced mana cost 85/100/115/125 to 50/57/64/71.', 'Reduced cooldown from 8 to 3 seconds.', ' Arc Lightning\nIncreased damage from 75/80/85/95 to 75/85/100/115.\nReduced mana cost 85/100/115/125 to 50/57/64/71.\nReduced cooldown from 8 to 3 seconds.', 'Reduced  Lightning Bolt mana cost from 80/100/125/150 to 75/95/115/125.', ' Static Field (pre 6.28)\nIncreased radius from 150/250/350/450 to 450/500/550/600.\nRescaled mana cost from 10 to 11/11/10/9.', 'Increased radius from 150/250/350/450 to 450/500/550/600.', 'Rescaled mana cost from 10 to 11/11/10/9.', ""Added  Aghanim's Scepter Upgrade for Zeus: Increases  Thundergod's Wrath damage from 200/325/450 to 300/425/525""]"
+5.56,"['Increased damage from 75 to 75/80/85/95.', 'Increased number of bounces from 3/5/7/15 to 5/7/9/15.', 'Reduced mana cost 85/100/115/125 to 75/85/95/105.', ' Arc Lightning\nIncreased damage from 75 to 75/80/85/95.\nIncreased number of bounces from 3/5/7/15 to 5/7/9/15.\nReduced mana cost 85/100/115/125 to 75/85/95/105.']"
+5.55,"['Hurls a bolt of arcing energy that laces through many nearby enemy units. It only deals 75 damage per target but hits many.', 'Bounces: 3/5/7/15.', 'Mana Cost: 85/100/115/125.', 'Cooldown: 8 seconds.', 'Cast Range: 700.', 'Bounce Distance: 500.', 'Reduced  strength gain from 2.4 to 2.0.', 'Reduced Base  agility from 18 to 17.', 'Reduced Base  intelligence from 22 to 20.', 'Reduced  intelligence gain from 2.50 to 2.25.', 'Replaced  Shock (pre 5.55) with  Arc Lightning.']"
+5.53,['Reduced  Lightning Bolt damage from 100/200/300/400 to 75/150/225/300.']
+5.52,"['Reduced damage from 200/350/500 to 200/325/425.', 'Reduced cooldown from 125/100/75 to 125/100/80.', "" Thundergod's Wrath\nReduced damage from 200/350/500 to 200/325/425.\nReduced cooldown from 125/100/75 to 125/100/80.""]"
+5.51,['Reduced  Shock (pre 5.55) disarm duration from 2/4/6/8 to 1/3/4.5/6 seconds.']
+5.50,"['Summons a powerful lightning magic to explode on an enemy unit spontaneously. Slows movement speed slightly and prohibits the target unit from attacking.', 'Hotkey: C', 'Movement Slow: 13%', 'Cast Range: 500', 'Mana Cost: 85/95/130/165.', 'Disarm Duration: 2/4/6/8 seconds.', 'Creep Duration: 4/8/12/16 seconds', 'Cooldown: 15 seconds.', 'Damage: 40/80/120/160.', 'Increased base HP from 100 to 150.', 'Replaced  Storm Bolt (Zeus pre 5.55) with  Shock (pre 5.55).']"
+5.40,"[""Increases  Thundergod's Wrath damage from 200/350/500 to 350/500/600"", ""Added  Aghanim's Scepter Upgrade for Zeus: Increases damage of  Thundergod's Wrath.\nIncreases  Thundergod's Wrath damage from 200/350/500 to 350/500/600""]"
+5.36,"['Reduced  agility gain 2.00 to 1.70.', ' Lightning Bolt\nFixed visual effects, particles and damage [?].\nNow ministuns the target for 0.1 seconds.', 'Fixed visual effects, particles and damage [?].', 'Now ministuns the target for 0.1 seconds.']"
+5.35,"['Reduced  intelligence gain from 2.75 to 2.5.', ' Lightning Bolt visual effects and particles are now bugged again.']"
+5.32,['Fixed  Lightning Bolt again visual effects again and particles.']
+5.31,"['Reduced base armor from 2 to 1.', 'Reduced  Storm Bolt (Zeus pre 5.55) mana cost from 100/125/150/180 to 100/120/140/165.', ' Lightning Bolt\nNo longer has visual effects or particles.\nIncreased mana cost from 80/100/130/160 to 80/100/125/150.', 'No longer has visual effects or particles.', 'Increased mana cost from 80/100/130/160 to 80/100/125/150.', "" Thundergod's Wrath\nIncreased damage from 175/300/400 to 200/350/500\nRescaled cooldown from 125 125/100/75.\nRescaled mana cost from 225/300/375 to 200/325/400."", 'Increased damage from 175/300/400 to 200/350/500', 'Rescaled cooldown from 125 125/100/75.', 'Rescaled mana cost from 225/300/375 to 200/325/400.']"
+5.10,"['Changed main attribute from  strength to  intelligence.', 'Increased base attack time from 1.74 to 1.7.', 'reduced base attack damage from 33-36 to 26-29.', 'Reduced base  strength from 24 to 18.', 'Reduced  strength gain from 3.25 to 2.4.', 'Increased base  intelligence from 14 to 22.', 'Increased  intelligence gain from 1.5 to 2.75.', 'Reduced  Storm Bolt (Zeus pre 5.55) cast range from 600 to 400.', 'Fixed  Lightning Bolt spell visual effects and particles.']"
+4.1beta01,"['Increased  Storm Bolt (Pre 6.60) mana cost from 85/90/95/100 to 100/125/150/180.', "" Thundergod's Wrath\nIncreased cooldown from 90 to 125.\nRescaled mana cost from 225 to 225/300/375."", 'Increased cooldown from 90 to 125.', 'Rescaled mana cost from 225 to 225/300/375.']"
+4.0beta9,"[""Updated  Thundergod's Wrath icon.""]"
+4.0beta6,"['Increased base attack damage from 21-24 to 33-36.', 'Increased base armor from 0 to 2.']"
+4.0beta5,"['Changed primary attribute from  intelligence to  strength.', 'Reduced  Storm Bolt (Pre 6.60) mana cost from 100 to 85/90/95/100.', 'Rescaled  Lightning Bolt mana cost from 160 to 80/100/130/160.']"
+4.0beta2,['Created [?].']

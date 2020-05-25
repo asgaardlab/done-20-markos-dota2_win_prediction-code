@@ -1,0 +1,40 @@
+7.26c,"['Level 10 left talent changed: 6% spell lifesteal -> +10  intelligence.', 'Talents:']"
+7.26b,"['Level 10 left talent: 8% spell lifesteal reduced to 6%.', 'Level 10 right talent: +20 movement speed reduced to 15.', 'Level 15 right talent: -9s  Ancient Seal cooldown reduced to -7s.', 'Level 20 left talent: +15%  Ancient Seal magic resistance reduction reduced to +12%.', 'Level 25 left talent: +600  Mystic Flare total damage reduced to +480.', 'Talents:']"
+7.24,"['Level 25 right talent changed: +300 gold per minute ->  Arcane Bolt pierces spell immunity.', 'Talents:']"
+7.23e,"['Level 10 left talent changed: +20% experience gain -> 8% spell lifesteal.', 'Talents:']"
+7.23c,"['Level 10 left talent: +30% experience gain reduced to +25%.', 'Talents:']"
+7.23,"['Level 15 right talent: -8s  Ancient Seal cooldown increased to -9s.', 'Rescaled  Ancient Seal cast range from 750 on each level to 700/750/800/850.', 'Talents:']"
+7.22f,['Increased  Mystic Flare total damage from 700/1150/1600 to 750/1175/1600']
+7.22e,['Increased attack range from 600 to 625.']
+7.22c,"['Level 10 left talent changed: +8  intelligence -> +30% experience gain.', 'Increased  Concussive Shot damage from 70/140/210/280 to 100/160/220/280.', 'Talents:']"
+7.22,"['Reduced  Concussive Shot mana cost from 95 on each level to 80/85/90/95.', 'Increased  Ancient Seal cast range from 700 to 750.']"
+7.21d,['Increased  Mystic Flare total damage from 600/1000/1400 to 700/1150/1600.']
+7.21,"['Increased  intelligence gain from 3.6 to 4.1.', 'Reduced movement speed from 330 to 325.', ' Mystic Flare now deals damage to creeps if no heroes are around.']"
+7.20,"['Level 10 right talent: +25 movement speed reduced to +20.', 'Increased  strength gain from 1.8 to 2.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', ' Concussive Shot\nNow launches for creeps as well, when no heroes are within range to target.\nCreeps now take 25% less damage from Concussive Shot.', 'Now launches for creeps as well, when no heroes are within range to target.', 'Creeps now take 25% less damage from Concussive Shot.', 'Talents:']"
+7.18,['Increased  Arcane Bolt mana cost from 70 to 90.']
+7.15,"['Reduced base  intelligence from 27 to 25.', 'Increased base attack damage from 12-22 to 14-24.']"
+7.13b,['Increased base  strength from 19 to 21.']
+7.10,"['Level 15 right talent: -6s  Ancient Seal cooldown increased to -8s.', 'Talents:']"
+7.07,"['Level 10: +7  intelligence or +150 health', 'Level 15: +90 gold per minute or 15% spell lifesteal', 'Level 20: +20% magic resistance or +40 movement speed', 'Level 25: -4s  Ancient Seal cooldown or +14 mana regen', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', 'Reworked talents:']"
+7.06f,"['Reduced  Mystic Flare mana cost from 350/575/800 to 300/550/800.', 'Talents:', 'Level 15 right talent: Increased spell lifesteal bonus from 10% to 15%.']"
+7.06d,['Increased  Concussive Shot damage from 60/120/180/240 to 70/140/210/280.']
+7.06c,"['Level 20 left talent: +15% magic resistance increased to +20%.', 'Level 20 right talent: +20 movement speed increased to +40.', 'Increased  Arcane Bolt cast range from 800 to 875.', 'Talents:']"
+7.06,"['Level 15 right talent changed: +75 attack damage -> 10% spell lifesteal.', 'Increased  strength gain from 1.5 to 1.8.', 'Reduced base health regeneration from 0.25 to 0.', 'Talents:']"
+7.05,"['Level 10 right talent: +125 health increased to +150.', 'Increased base movement speed from 325 to 330.', 'Talents:']"
+7.02,"['Level 15 left talent: +60 gold per minute increased to +90.', 'Level 15 right talent: +50 attack damage increased to +75.', 'Talents:']"
+7.00,"['Reduced  Concussive Shot vision radius from 400 to 300.', "" Aghanim's Scepter\nNo longer increases  Mystic Flare duration from 2.4 to 12.\nNo longer reduces  Mystic Flare cooldown from 60/40/20 to 20/10/5.\nNow causes all of Skywrath Mage's spells to target a second random enemy within 700 radius of the primary target.\n Arcane Bolt sends a second projectile to a different target within 700 radius of the primary target.\n Concussive Shot sends a second projectile to a different target within 700 radius of the primarily chosen target.\n Ancient Seal affects a second different target within 700 radius of the primary target.\n Mystic Flare casts a second flare onto an enemy within 700 radius of the targeted area, but outside the targeted area."", 'No longer increases  Mystic Flare duration from 2.4 to 12.', 'No longer reduces  Mystic Flare cooldown from 60/40/20 to 20/10/5.', ""Now causes all of Skywrath Mage's spells to target a second random enemy within 700 radius of the primary target.\n Arcane Bolt sends a second projectile to a different target within 700 radius of the primary target.\n Concussive Shot sends a second projectile to a different target within 700 radius of the primarily chosen target.\n Ancient Seal affects a second different target within 700 radius of the primary target.\n Mystic Flare casts a second flare onto an enemy within 700 radius of the targeted area, but outside the targeted area."", 'Added talents:']"
+6.88,['Increased  Concussive Shot damage/slow radius from 200 to 250.']
+6.87,"['Now increases duration from 2.4 to 12. [?]', 'Increased cooldown from 20/10/0 to 20/10/5.', "" Aghanim's Scepter upgraded  Mystic Flare:\nNow increases duration from 2.4 to 12. [?]\nIncreased cooldown from 20/10/0 to 20/10/5.""]"
+6.86,['Reduced  Concussive Shot mana cost from 110 to 95.']
+6.85,"['Reduced  Concussive Shot cooldown from 20/18/16/14 to 18/16/14/12.', ' Mystic Flare no longer pierces spell immunity. [?]']"
+6.83,['Reduced base  agility from 18 to 13.']
+6.82c,"['Increased  Ancient Seal cooldown from 11 to 14.', 'Increased  Mystic Flare duration from 2.2 to 2.4 (total damage stays same).']"
+6.82,"['Is now disjointable.', 'Reduced movement speed slow from 40% on each level to 30%/35%/40%/45%.', ' Concussive Shot\nIs now disjointable.\nReduced movement speed slow from 40% on each level to 30%/35%/40%/45%.', 'Increased  Mystic Flare duration from 2 to 2.2 (total damage stays same).']"
+6.81b,['Increased  Ancient Seal magic resistance reduction from 18%/24%/30%/36% to 30%/35%/40%/45%.']
+6.81,"['Increased base movement speed from 315 to 325.', 'Increased  Concussive Shot damage from 50/100/150/200 to 60/120/180/240.']"
+6.80,['Increased  Mystic Flare total damage from 600/900/1200 to 600/1000/1400.']
+6.79,"['Increased  intelligence gain from 3.2 to 3.6.', ""Added  Aghanim's Scepter upgrade for Skywrath Mage: Reduces  Mystic Flare cooldown from 60/40/20 to 20/10/0.""]"
+6.75,"[""Added to Captain's Mode."", 'Reduced  Concussive Shot cooldown from 20/19/18/17 to 20/18/16/14.']"
+6.74,"['Increased base  intelligence from 24 to 27.', ' Arcane Bolt\nIncreased bonus damage per intelligence from 1.5 to 1.6.\nReduced mana cost from 90 to 70.', 'Increased bonus damage per intelligence from 1.5 to 1.6.', 'Reduced mana cost from 90 to 70.', 'Reduced  Concussive Shot cooldown from 20 on each level to 20/19/18/17.']"
+6.73b,['Fixed Skywrath Mage not triggering  Land Mines.']
+6.73,['Created.']

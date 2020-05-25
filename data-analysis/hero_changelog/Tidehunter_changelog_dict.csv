@@ -1,0 +1,52 @@
+7.26b,"['Level 10 left talent: +100  Gush damage reduced to +80.', 'Level 10 right talent: +20 movement speed reduced to +15.', 'Level 15 left talent: +25%  Anchor Smash attack damage reduction reduced to +20%.', 'Level 15 right talent: +4 mana regen reduced to +3.', 'Level 20 left talent: +5  Gush armor reduction reduced to +4.', 'Level 20 right talent: +30  Kraken Shell damage block reduced to +24.', 'Level 25 left talent: +250 attack damage reduced to +200.', 'Level 25 right talent: 25% cooldown reduction reduced to 20%.', 'Talents:']"
+7.25,['Increased base  strength from 22 to 25.']
+7.24,['Increased base  intelligence from 16 to 18.']
+7.23e,"['Level 15 right talent changed: +35% experience gain -> +4 mana regen.', 'Talents:']"
+7.23c,"['Level 15 right talent: +40% experience gain reduced to +35%.', 'Increased  Kraken Shell damage block from 5/10/20/40 to 12/24/36/48.', 'Talents:']"
+7.23,['Reduced  Kraken Shell damage block from 12/24/36/48 to 5/10/20/40.']
+7.22,"['Increased radius from 240 to 260.', 'Increased cast range and max distance from 1800 to 2200.', "" Aghanim's Scepter upgraded  Gush\nIncreased radius from 240 to 260.\nIncreased cast range and max distance from 1800 to 2200.""]"
+7.21c,['Reduced  strength gain from 3.8 to 3.5.']
+7.21,"['Increased  strength gain from 3.3 to 3.8.', 'Reduced  Anchor Smash attack damage reduction from 45%/50%/55%/60% to 30%/40%/50%/60%.']"
+7.20,"['Level 10 left talent: +80  Gush damage increased to +100.', 'Level 10 right talent: +25 movement speed reduced to +20.', 'Reduced base health regeneration from 1.5 to 0.', 'Reduced base mana regeneration from 0.9 to 0.', ' Anchor Smash\nNo longer pierces spell immunity.\nNow makes Tidehunter perform instant attacks on enemies within the area, with True Strike and 45/90/135/180 bonus attack damage, instead of dealing 75/125/175/225 physical spell damage.', 'No longer pierces spell immunity.', 'Now makes Tidehunter perform instant attacks on enemies within the area, with True Strike and 45/90/135/180 bonus attack damage, instead of dealing 75/125/175/225 physical spell damage.', 'Increased  Ravage damage from 200/290/380 to 200/300/400.', 'Talents:']"
+7.18,"['Level 20 left talent: +4  Gush armor reduction increased to +5.', 'Level 20 right talent: +24  Kraken Shell damage block increased to +30.', 'Increased  Gush armor reduction from 3/4/5/6 to 4/5/6/7.', 'Increased  Ravage duration from 2/2.4/2.8 to 2.4/2.6/2.8.', 'Talents:']"
+7.13b,"['Reduced base armor from 1 to 0.', 'Reduced movement speed from 305 to 300.']"
+7.07,"['Level 10: +150 health or +50 attack damage', 'Level 15: +35% experience gain or +7 armor', 'Level 20: +15  strength or +6 health regen', 'Level 25: +6  Gush armor reduction or 20% cooldown reduction', 'Increased turn rate from 0.4 to 0.5.', 'Increased base health regeneration from 0 to 1.5.', 'Increased base mana regeneration from 0.01 to 0.9.', ' Ravage\nIncreased radius from 1025 to 1250.\nReduced travel speed from 775 to 725.', 'Increased radius from 1025 to 1250.', 'Reduced travel speed from 775 to 725.', 'Reworked talents:']"
+7.06,"['Increased  strength gain from 3 to 3.3.', 'Reduced base health regeneration from 0.25 to 0.', ' Gush\nReduced mana cost from 120 on each level to 90/100/110/120.\nNow provides 200 radius ground vision around hit enemies for 2 seconds when upgraded.', 'Reduced mana cost from 120 on each level to 90/100/110/120.', 'Now provides 200 radius ground vision around hit enemies for 2 seconds when upgraded.']"
+7.02,"['Level 15 left talent: +30% experience gain increased to +35%.', 'Level 25 left talent: +5  Gush armor reduction increased to +6.', 'Talents:']"
+7.00,"['Level 10: +150 health or +50 attack damage', 'Level 15: +30% experience gain or +7 armor', 'Level 20: +15  strength or +6 health regen', 'Level 25: +5  Gush armor reduction or 20% cooldown reduction', 'Reduced  Gush projectile speed from 4000 to 2500.', 'Added talents:']"
+6.87,"['Increased attack range from 128 to 150.', "" Kraken Shell's Damage Block component now works for illusions.""]"
+6.86,"[""Added  Aghanim's Scepter upgrade for Tidehunter: Turns  Gush into a ground targeted wave (1800 range, 240 radius, 1500 projectile speed) and reduces cooldown from 12 to 7."", 'Reduced  Anchor Smash cast time from 0.5 to 0.4.', 'Rescaled  Ravage stun duration from 2.02/2.32/2.77 to 2/2.4/2.8.']"
+6.85,['Increased  Gush armor reduction from 2/3/4/5 to 3/4/5/6.']
+6.84,"['Increased  Kraken Shell damage block from 10/20/30/40 to 12/24/36/48.', ' Anchor Smash damage is no longer reduced by Damage Block.', ' Ravage no longer ignores ancient creeps, Roshan and creep-heroes.']"
+6.83b,['Reduced  Anchor Smash radius from 400 to 375.']
+6.83,"['Reduced movement speed from 310 to 305.', 'Reduced  Ravage damage from 200/325/450 to 200/290/380.']"
+6.82,['Reduced  Anchor Smash attack damage reduction from 60% to 45%/50%/55%/60%.']
+6.81,"['Increased attack damage reduction from 40 to 60%.', ' Anchor Smash\nIncreased attack damage reduction from 40 to 60%.', 'Now fully affects ancient creeps (still does not affect Roshan).']"
+6.80,"['Reduced debuff damage threshold from 600 taken to 600/550/500/450.', 'Increased damage block from 9/18/27/36 to 10/20/30/40.', ' Kraken Shell\nReduced debuff damage threshold from 600 taken to 600/550/500/450.\nIncreased damage block from 9/18/27/36 to 10/20/30/40.']"
+6.79,['Increased  Kraken Shell damage block from 7/14/21/28 to 9/18/27/36.']
+6.78,['Increased  Ravage radius from 825/925/1025 to 1025.']
+6.76,['Reduced  Ravage damage from 250/350/450 to 200/325/450.']
+6.75,['Reduced  Ravage travel speed from 900 to 775.']
+6.72d,['Increased collision size from 12 to 24.']
+6.72c,['Reduced collision size from 24 to 12.']
+6.72,"[""Passive: Grants Tidehunter's attacks to deal area damage around him. Deals less damage to enemies further away from him."", 'Proc chance: 25%', 'Full damage radius: 200', 'Half damage radius: 450', 'Damage: 75/115/155/200 (universal damage)', 'Increased attack range from 100 to 128.', 'Reworked  Anchor Smash.']"
+6.71,['Increased  Anchor Smash proc chance from 20% to 25%.']
+6.67,['Reduced  Ravage travel speed from 2000 to 900.']
+6.64,"['Blocks attack damage and occasionally removes debuffs off of Tidehunter.', 'Damage block: 7/14/21/28.', 'Debuff removal timer: 10/9/8/7', 'Reworked  Kraken Shell.']"
+6.55,['Reduced  Ravage radius from 1025 to 825/925/1025.']
+6.51,"['Fixed  Ravage affecting Juggernaut during  Blade Fury.', 'Fixed a bug between  Voodoo Restoration and Ravage.']"
+6.50,"['No longer turns hit enemies invulnerable during the air time.', 'No longer causes hit enemy units to instantly face towards Tidehunter.', 'No longer conflicts with  Earth Spike,  Impale,  Burrowstrike and with multiple Ravages.', 'No longer fails to stun and damage enemies when some of the spikes were at a cliff.', 'Increased stun duration from 1.72/2.02/2.32 to 2.02/2.32/2.77.', 'Recoded  Ravage:\nNo longer turns hit enemies invulnerable during the air time.\nNo longer causes hit enemy units to instantly face towards Tidehunter.\nNo longer conflicts with  Earth Spike,  Impale,  Burrowstrike and with multiple Ravages.\nNo longer fails to stun and damage enemies when some of the spikes were at a cliff.\nIncreased stun duration from 1.72/2.02/2.32 to 2.02/2.32/2.77.']"
+6.48b,['Increased movement speed from 300 to 310.']
+6.39,"['Increased damage block from 5/10/15/20 to 7/14/21/28.', 'Now removes debuffs every 11/10/9/8 seconds, instead of randomly.', ' Kraken Shell\nIncreased damage block from 5/10/15/20 to 7/14/21/28.\nNow removes debuffs every 11/10/9/8 seconds, instead of randomly.']"
+6.35,['Increased base armor from 0 to 1 (total armor is now 2.1).']
+6.32,"['Increased damage from 200/300/400 to 250/350/450.', 'Reduced stun duration from 1.92/2.32/2.72 to 1.72/2.02/2.32.', ' Ravage\nIncreased damage from 200/300/400 to 250/350/450.\nReduced stun duration from 1.92/2.32/2.72 to 1.72/2.02/2.32.']"
+6.31,"['Reduced damage from 250/350/500 to 200/300/400.', 'Increased stun duration from 1.52 to 1.92/2.32/2.72.', ' Ravage\nReduced damage from 250/350/500 to 200/300/400.\nIncreased stun duration from 1.52 to 1.92/2.32/2.72.']"
+6.20,"['Reduced damage block from 10/20/30/40 to 5/10/15/20.', 'Now also reduces damage from ranged attacks.', ' Kraken Shell\nReduced damage block from 10/20/30/40 to 5/10/15/20.\nNow also reduces damage from ranged attacks.', 'Increased  Gush mana cost from 100 to 120.']"
+6.17,['Rescaled  Gush mana cost from 75/90/105/120 to 100 on each level.']
+6.00,"[' Gush now damages the target as the projectile hits, instead of instantly damaging.']"
+5.80,"['Reduced slow from 50% to 40%.', 'Reduced debuff duration from 4.5 to 4.', ' Gush\nReduced slow from 50% to 40%.\nReduced debuff duration from 4.5 to 4.']"
+5.78,['Increased  Ravage cooldown from 120 to 150.']
+5.77,"['Reduced damage from 300/400/500 to 250/350/500.', 'Reduced stun duration from 1.52/2.02/2.52 to 1.52 on each level.', ' Ravage\nReduced damage from 300/400/500 to 250/350/500.\nReduced stun duration from 1.52/2.02/2.52 to 1.52 on each level.']"
+5.76,"['Tidehunter slams the ground, causing waves of spikes to ring the hero in all directions. Deals damage and stuns.', 'Radius: 1025', 'Damage: 300/400/500', 'Stun duration: 1.52/2.02/2.52', 'Cooldown: 120', 'Mana: 150/225 325', 'Increased  Anchor Smash damage from 50/75/105/140 to 75/115/155/200.', 'Replaced Rain of Tears with  Ravage.']"
+5.75,"['Increased movement speed slow from 25% to 50%.', 'Increased slow duration from 2.5 to 4.5.', ' Gush\nIncreased movement speed slow from 25% to 50%.\nIncreased slow duration from 2.5 to 4.5.', 'Increased  Kraken Shell damage block from 10/15/20/25 to 10/20/30/40.', ' Anchor Smash\nReduced proc chance from 20%/30%/40%/50% to 20% on each level.\nIncreased damage from 50 to 50/75/105/140.', 'Reduced proc chance from 20%/30%/40%/50% to 20% on each level.', 'Increased damage from 50 to 50/75/105/140.', 'Reduced Rain of Tears radius from global to 2500.']"
+5.74,['Created.']
