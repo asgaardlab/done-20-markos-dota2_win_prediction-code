@@ -1,0 +1,15 @@
+using pandas:
+
+- df.columns
+- df.dtype
+- df.describe()
+- df.dropna()
+- print(df['columnname'].isnull().sum())
+
+- for continuous numerical data we can do standardization: log normalization and feature scaling (models that assume linear space, e.g., LR, KNN)
+
+- encoding binary variables: df[col] = df[newcol].apply(lambda val : 1 if val == 'y' else 0)  OR labelEncoder in scikit learn
+
+- encoding vategorical values: pandas.get_dummies
+
+- used mean or median of one feature for all 5 players
