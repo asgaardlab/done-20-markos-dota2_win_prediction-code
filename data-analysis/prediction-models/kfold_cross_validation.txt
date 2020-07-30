@@ -1,3 +1,0 @@
-https://medium.com/datadriveninvestor/k-fold-cross-validation-6b8518070833
-
-https://medium.com/@zstern/k-fold-cross-validation-explained-5aeba90ebb3
