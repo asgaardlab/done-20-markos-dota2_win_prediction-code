@@ -1,5 +1,6 @@
 # Explainable prediction models for team victory in Dota 2
 
+<a href="https://markosviggiato.github.io/" target="_blank"><img src="https://markosviggiato.github.io/img/portfolio/my_website/xai_dota2.png" alt="Explainable AI for Dota 2" title="Explainable AI for Dota 2" width=300 height=175></a>
 
 This repository contains the code and part of the dataset for building and evaluating prediction models for team victory in Dota 2.
 
