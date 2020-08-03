@@ -29,7 +29,7 @@ The data-collection directory contains the dataset-related code.
 
 The data-analysis directory contains the data analysis-related code, including the code to build and evaluate the prediction models and the code to apply SHAP values to obtain the predicion explanation by means of feature importance.
 
-* The file *feature_engineering.ipynb* contains the code to compute the machine learning model features. Note that this code depends on the raw dataset (match files in the json format), which are available [here](http://doi.org/10.5281/zenodo.3890315).
+* The file *feature_engineering.ipynb* contains the code to compute the machine learning model features.
 
 * The *hero-attributes* directory contains the script to collect the changelog for all (current) Dota 2 heroes and parse them to extract heroes' attributes for all the game versions.
 
