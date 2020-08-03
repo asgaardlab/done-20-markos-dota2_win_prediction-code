@@ -38,3 +38,8 @@ The data-analysis directory contains the data analysis-related code, including t
 * The [prediction-explanation-SHAP](data-analysis/prediction-explanation-SHAP/) directory contains instructions on how to run the script to apply the SHAP values technique to explain victory predictions for Dota 2 matches.
 
 Note that the code within the *prediction-models* and *prediction-explanation-SHAP* directories only depend on the computed features, which are readily-available in the [model_features_pre-match](data-analysis/prediction-models/model_features_pre-match/) directory.
+
+
+## General Questions
+
+If you have any question or suggestion, please contact the repository owner.
