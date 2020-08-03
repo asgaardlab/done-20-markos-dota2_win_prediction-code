@@ -39,7 +39,60 @@ The data-analysis directory contains the data analysis-related code, including t
 
 Note that the code within the *prediction-models* and *prediction-explanation-SHAP* directories only depend on the computed features, which are readily-available in the [model_features_pre-match](data-analysis/prediction-models/model_features_pre-match/) directory.
 
+## Dependencies
+
+The following dependencies are required to run the scripts of this project:
+
+ - Python 3.7
+ 
+ 
+ - Git 2.20.1.windows.1
+  
+  
+ - [Numpy 1.18.4](https://numpy.org/)
+
+    `
+    pip install numpy
+    `
+
+
+ - [Pandas 0.24.2](https://pandas.pydata.org/)
+ 
+    `
+    pip install pandas
+    `
+ 
+ 
+ - [scikit-learn 0.20.3](https://scikit-learn.org/stable/)
+
+    `
+    pip install scikit-learn
+    `
+
+
+ - [xgboost 1.1.0](https://xgboost.readthedocs.io/en/latest/)
+
+    `
+    pip install xgboost
+    `
+  
+  
+ - [matplotlib 3.0.2](https://matplotlib.org/)
+
+    `
+    pip install matplotlib
+    `
+    
+    
+ - [shap 0.35.0](https://github.com/slundberg/shap)
+
+    `
+    pip install shap
+    `
 
 ## General Questions
 
-If you have any question or suggestion, please contact the repository owner.
+If you have any question or suggestion, please contact the repository owner at markosviggiato[at]gmail.com
+
+
+[https://markosviggiato.github.io/](https://markosviggiato.github.io/)
