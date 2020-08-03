@@ -5,7 +5,7 @@ This repository contains the code and part of the dataset for building and evalu
 
 You can find the complete dataset [here](http://doi.org/10.5281/zenodo.3890315).
 
-The data was collected from the [OpenDota platform](https://www.opendota.com/)
+The data was collected from the [OpenDota platform](https://www.opendota.com/).
 
 In this project, we build victory prediction models for Dota 2 and use an interpretability technique ([SHAP values](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)) to explain the prediction by means of feature importance.
 
