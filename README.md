@@ -27,4 +27,14 @@ The data-collection directory contains the dataset-related code.
 
 `data-analysis`
 
-The data-analysis directory contains the data analysis code, inluding the code to build and evaluate the prediction models and the code to apply SHAP values to obtain the predicion explanation by means of feature importance.
+The data-analysis directory contains the data analysis-related code, including the code to build and evaluate the prediction models and the code to apply SHAP values to obtain the predicion explanation by means of feature importance.
+
+* The file *feature_engineering.ipynb* contains the code to compute the machine learning model features. Note that this code depends on the raw dataset (match files in the json format), which are available [here](http://doi.org/10.5281/zenodo.3890315).
+
+* The *hero-attributes* directory contains the script to collect the changelog for all (current) Dota 2 heroes and parse them to extract heroes' attributes for all the game versions.
+
+* The [prediction-models](data-analysis/prediction-models/) directory contains instructions on how to run the code to build and evaluate the prediction models (XGBoost, Random Forest, and Logistic Regression) for team victory in Dota 2.
+
+* The [prediction-explanation-SHAP](data-analysis/prediction-explanation-SHAP/) directory contains instructions on how to run the script to apply the SHAP values technique to explain victory predictions for Dota 2 matches.
+
+Note that the code within the *prediction-models* and *prediction-explanation-SHAP* directories only depend on the computed features, which are readily-available in the [model_features_pre-match](data-analysis/prediction-models/model_features_pre-match/) directory.
