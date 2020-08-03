@@ -93,7 +93,7 @@ The following dependencies are required to run the scripts of this project:
 
 ## General Questions
 
-If you have any question or suggestion, please contact the repository owner at markosviggiato[at]gmail.com
+If you have any question or suggestion, please contact the repository developer at markosviggiato[at]gmail.com
 
 
 [https://markosviggiato.github.io/](https://markosviggiato.github.io/)
