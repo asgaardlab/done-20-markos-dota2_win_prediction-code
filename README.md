@@ -4,11 +4,12 @@
 
 This repository contains the code and part of the dataset for building and evaluating prediction models for team victory in Dota 2.
 
-You can find the complete dataset [here](http://doi.org/10.5281/zenodo.3890315).
-
-The data was collected from the [OpenDota platform](https://www.opendota.com/).
+The data was collected from the [OpenDota platform](https://www.opendota.com/) and you can find the used dataset here: </br> <a href="http://doi.org/10.5281/zenodo.3890315" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Database-icon.svg" alt="Dota 2 dataset" title="Dota 2 dataset" width=25 height=25></a>
 
 In this project, we build victory prediction models for Dota 2 and use an interpretability technique ([SHAP values](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)) to explain the prediction by means of feature importance.
+
+For more details on how we collected the data and extracted the model features, please check our Dota 2 paper accepted at the 16th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2020):</br> 
+<a href="https://markosviggiato.github.io/resources/Markos_AIIDE_20.pdf" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Dota 2 paper" title="Dota 2 paper" width=25 height=25></a>
 
 
 ## Directory structure
