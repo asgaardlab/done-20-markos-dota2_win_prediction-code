@@ -53,6 +53,6 @@ The following directories contains the scripts of each used algorithm. Note that
  
 ## Running the scripts
  
-In order to run the scripts to build and evaluate the models, you should place the model features (which can be obtained from this zip file: *model_pre_match_features.zip*) at the same level as this instruction notebook. Also note that you should keep the directory structure of the model feature zip file, which contains sub-directories for each data group we used.
+In order to run the scripts to build and evaluate the models, you should place the model features at the same level as this instruction notebook. Also note that you should keep the directory structure of the model feature zip file, which contains sub-directories for each data group we used.
 
 That said, feel free to change the location of the model feature directory and sub-directories as long as you properly adjust the references to those locations in the analysis scripts.
