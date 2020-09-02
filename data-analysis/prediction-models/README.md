@@ -2,7 +2,7 @@
 
 This notebook contains instructions on how to run the scripts to build and evaluate prediction models for team victory in Dota 2.
 
-Note that, for reproducibility purposes, you should use the readily-available model features available in this repository (*model_pre_match_features.zip*).
+Note that, for reproducibility purposes, you can use the readily-available model features available in the [model_features_pre-match](model_features_pre-match/) directory or you can get the *model_pre_match_features.zip* file with the features [here](http://doi.org/10.5281/zenodo.3890315).
 
 For more details on how we performed the data preparation and extracted the model features, please check our [Dota 2 paper](https://markosviggiato.github.io/resources/Markos_AIIDE_20.pdf).
 
