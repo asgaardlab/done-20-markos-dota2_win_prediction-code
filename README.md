@@ -7,7 +7,7 @@ This repository contains the code and the dataset for building and evaluating pr
 ### Dataset
 The data was collected from the [OpenDota platform](https://www.opendota.com/) and you can find the used dataset here: </br> <a href="http://doi.org/10.5281/zenodo.3890315" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Database-icon.svg" alt="Dota 2 dataset" title="Dota 2 dataset" width=25 height=25></a>
 
-### Prediction model explainability
+### Explainable prediction model
 In this project, we build victory prediction models for Dota 2 and use an interpretability technique ([SHAP values](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)) to explain the prediction by means of feature importance.
 
 ### Paper
