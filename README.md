@@ -12,7 +12,7 @@ In this project, we build victory prediction models for Dota 2 and use an interp
 
 ### Paper
 For more details on how we collected the data and extracted the model features, please check our Dota 2 paper accepted at the 16th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2020):</br> 
-<a href="https://markosviggiato.github.io/resources/Markos_AIIDE_20.pdf" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Dota 2 paper" title="Dota 2 paper" width=25 height=25></a>
+<a href="https://markosviggiato.github.io/resources/Markos_AIIDE20_camera_ready.pdf" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Dota 2 paper" title="Dota 2 paper" width=25 height=25></a>
 
 ## Dependencies
 
