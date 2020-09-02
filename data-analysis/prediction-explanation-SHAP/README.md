@@ -2,7 +2,7 @@
 
 This notebook contains instructions on how to run the script to apply the [SHAP values](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) technique to explain victory predictions for Dota 2 matches. We apply SHAP values to the predictions made by out XGBoost models, which are implemented together with the SHAP technique.
 
-Note that, for reproducibility purposes, you should use the readily-available model features available in this repository (*model_pre_match_features.zip*).
+Note that, for reproducibility purposes, you can use the readily-available model features available in the [model_features_pre-match](../../data-analysis/prediction-models/model_features_pre-match/) directory or you can get the *model_pre_match_features.zip* file with the features [here](http://doi.org/10.5281/zenodo.3890315).
 
 For more details on how we performed the data preparation, extracted the model features, and adapted the SHAP technique for our data, please check our [Dota 2 paper](https://markosviggiato.github.io/resources/Markos_AIIDE_20.pdf).
 
